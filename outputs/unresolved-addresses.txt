@@ -1,13 +1,7 @@
 A0098	WILLOWWOOD ST, Dorchester, MA 02124	no Census match
 A0128	Harvard ST, Dorchester, MA 02124	no Census match
-A0156	290 GREEN ST, San Francisco, CA 	no Census match
-A0279	90 KENSINGTON AVE., Jersey City, NJ 07302	no Census match
-A0291	165 Cambridgepark Dr, Cambridge, MA 	no Census match
 A0295	Harvard ST LOT 2A-13, Dorchester, MA 02124	no Census match
 A0346	AUBURN DR, San Diego, CA 92105	no Census match
-A0352	40-42 MT PROSPECT AVE, Newark, NJ 07083	no Census match
 A0376	ST JAMES ST, Roxbury, MA 02119	no Census match
 A0380	GREENVILLE ST, Roxbury, MA 02119	no Census match
 A0384	21 GUERRERO ST, San Francisco, CA 	no Census match
-A0400	174 MT PROSPECT AVE, Newark, NJ 07107	no Census match
-A0428	312-314 MT PROSPECT AVE, Newark, NJ 07109	no Census match

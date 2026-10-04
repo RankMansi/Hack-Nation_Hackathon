@@ -15173,6 +15173,54 @@
         "result": "applies",
         "explanation": "Statewide rule in force since 2026-01-01.",
         "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0048",
+        "result": "applies",
+        "explanation": "Local rule for San Francisco, CA in force since 2026-03-01.",
+        "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0049",
+        "result": "unknown",
+        "explanation": "Local rule for San Francisco, CA: coverage depends on a building fact not in the data: rent-controlled units.",
+        "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0050",
+        "result": "applies",
+        "explanation": "Local rule for San Francisco, CA in force.",
+        "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0051",
+        "result": "unknown",
+        "explanation": "Local rule for San Francisco, CA: coverage depends on a building fact not in the data: Some tenancies that are exempt from the rent increase limitations of the Ordinance are still subject to the eviction provisions of the Ordinance, and tenants in these categories can only be evicted for one of the \"just cause\" reasons listed in the Ordinance. This includes tenancies in newly constructed rental units that first obtained a Certificate of Occupancy after June 13, 1979, tenancies that are eligible for a rent increase under the Costa-Hawkins Rental Housing Act, and some tenancies where the rent is regulated by another government agency..",
+        "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0052",
+        "result": "applies",
+        "explanation": "Local rule for San Francisco, CA in force.",
+        "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0053",
+        "result": "applies",
+        "explanation": "Local rule for San Francisco, CA in force since 2026-03-01.",
+        "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0054",
+        "result": "unknown",
+        "explanation": "Local rule for San Francisco, CA: coverage depends on a building fact not in the data: affordable housing.",
+        "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0055",
+        "result": "applies",
+        "explanation": "Local rule for San Francisco, CA in force since 2024-10-14.",
+        "conflict_flag": false
       }
     ],
     "A0157": [
@@ -27347,6 +27395,12 @@
         "result": "not_yet_effective",
         "explanation": "Statewide rule: enacted, takes effect 2027-07-01 (after 2026-10-01).",
         "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0072",
+        "result": "unknown",
+        "explanation": "Local rule for Jersey City, NJ: covers buildings with at least 5 units and the unit count is not in the data; an exemption applies to properties with 4 or fewer units and the unit count is not in the data.",
+        "conflict_flag": false
       }
     ],
     "A0280": [
@@ -28534,6 +28588,12 @@
         "team_rule_id": "r-0038",
         "result": "pending",
         "explanation": "Statewide rule: a pending bill or proposal, not law as of 2026-10-01.",
+        "conflict_flag": false
+      },
+      {
+        "team_rule_id": "r-0078",
+        "result": "applies",
+        "explanation": "Local rule for Cambridge, MA in force; 244 units, so the 2-or-fewer-unit exemption cannot apply.",
         "conflict_flag": false
       }
     ],

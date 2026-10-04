@@ -2433,5 +2433,35 @@
   "state": "NJ",
   "county": "Hudson County",
   "place": "Hoboken"
+ },
+ "A0156": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0279": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0291": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0352": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0400": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0428": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
  }
 }

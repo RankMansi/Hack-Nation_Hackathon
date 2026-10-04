@@ -331,6 +331,7 @@
       "A0266",
       "A0269",
       "A0270",
+      "A0279",
       "A0287",
       "A0288",
       "A0299",
@@ -444,6 +445,7 @@
         "A0265",
         "A0266",
         "A0270",
+        "A0279",
         "A0288",
         "A0321",
         "A0325",
@@ -468,7 +470,7 @@
         "A0495"
       ]
     },
-    "notes": "HOB-ALG-01 (Hoboken, NJ): no rule text in the supplied corpus (link-only source), so no rule was extracted and lookups.json does not report it; the 40 addresses the Census geocoder places inside Hoboken, NJ are listed as the boundary set. JC-ALG-01 (Jersey City, NJ): no rule text in the supplied corpus (link-only source), so no rule was extracted and lookups.json does not report it; the 49 addresses the Census geocoder places inside Jersey City, NJ are listed as the boundary set. Newark addresses in the affected set: 0."
+    "notes": "HOB-ALG-01 (Hoboken, NJ): no rule text in the supplied corpus (link-only source), so no rule was extracted and lookups.json does not report it; the 40 addresses the Census geocoder places inside Hoboken, NJ are listed as the boundary set. JC-ALG-01 (Jersey City, NJ): no rule text in the supplied corpus (link-only source), so no rule was extracted and lookups.json does not report it; the 50 addresses the Census geocoder places inside Jersey City, NJ are listed as the boundary set. Newark addresses in the affected set: 0."
   },
   "T3": {
     "title": "NJ FAIR Act: enacted, not yet effective; possible preemption",
@@ -664,6 +666,7 @@
       "A0266",
       "A0269",
       "A0270",
+      "A0279",
       "A0287",
       "A0288",
       "A0299",
@@ -728,7 +731,7 @@
         "superseded": 0
       }
     },
-    "notes": "Matched rules: r-0027 (P.L. 2026, c.43, effective 2027-07-01). JC-ALG-01 (Jersey City, NJ) has no rule text in the supplied corpus (link-only source), so it was not extracted; its conflict set is the 49 affected addresses the Census geocoder places inside Jersey City, NJ. HOB-ALG-01 (Hoboken, NJ) has no rule text in the supplied corpus (link-only source), so it was not extracted; its conflict set is the 40 affected addresses the Census geocoder places inside Hoboken, NJ."
+    "notes": "Matched rules: r-0027 (P.L. 2026, c.43, effective 2027-07-01). JC-ALG-01 (Jersey City, NJ) has no rule text in the supplied corpus (link-only source), so it was not extracted; its conflict set is the 50 affected addresses the Census geocoder places inside Jersey City, NJ. HOB-ALG-01 (Hoboken, NJ) has no rule text in the supplied corpus (link-only source), so it was not extracted; its conflict set is the 40 affected addresses the Census geocoder places inside Hoboken, NJ."
   },
   "T4": {
     "title": "Massachusetts pending bills S.2983 and H.5222",

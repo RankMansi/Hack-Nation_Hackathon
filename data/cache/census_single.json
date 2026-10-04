@@ -1,0 +1,45 @@
+{
+ "A0098": null,
+ "A0128": null,
+ "A0156": {
+  "matched_address": "290 GREEN ST, SAN FRANCISCO, CA, 94111",
+  "match_type": "Single",
+  "lon": -122.402990211203,
+  "lat": 37.80031526334
+ },
+ "A0279": {
+  "matched_address": "90 KENSINGTON AVE, JERSEY CITY, NJ, 07304",
+  "match_type": "Single",
+  "lon": -74.075287274906,
+  "lat": 40.723144945194
+ },
+ "A0291": {
+  "matched_address": "165 CAMBRIDGEPARK DR, CAMBRIDGE, MA, 02140",
+  "match_type": "Single",
+  "lon": -71.146981411789,
+  "lat": 42.395099011822
+ },
+ "A0295": null,
+ "A0346": null,
+ "A0352": {
+  "matched_address": "42 MT PROSPECT AVE, NEWARK, NJ, 07104",
+  "match_type": "Single",
+  "lon": -74.177805398305,
+  "lat": 40.753191626991
+ },
+ "A0376": null,
+ "A0380": null,
+ "A0384": null,
+ "A0400": {
+  "matched_address": "174 MT PROSPECT AVE, NEWARK, NJ, 07104",
+  "match_type": "Single",
+  "lon": -74.17546726324,
+  "lat": 40.757731471944
+ },
+ "A0428": {
+  "matched_address": "314 MT PROSPECT AVE, NEWARK, NJ, 07104",
+  "match_type": "Single",
+  "lon": -74.172382340313,
+  "lat": 40.762317125202
+ }
+}

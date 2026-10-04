@@ -12,6 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 from .config import ADDRESSES, CACHE, CITIES, OUTPUTS, STATES
 
 BATCH_URL = "https://geocoding.geo.census.gov/geocoder/geographies/addressbatch"
+SINGLE_URL = "https://geocoding.geo.census.gov/geocoder/locations/address"
 COORD_URL = "https://geocoding.geo.census.gov/geocoder/geographies/coordinates"
 BENCHMARK = "Public_AR_Current"
 VINTAGE = "Current_Current"
@@ -120,6 +121,37 @@ def geocode(addresses: list[dict]) -> dict[str, dict]:
     return matches
 
 
+def _single(a: dict) -> dict | None:
+    q = urllib.parse.urlencode({
+        "street": a["street"], "city": a["postal_city"], "state": a["state"], "zip": a["zip"],
+        "benchmark": BENCHMARK, "format": "json",
+    })
+    for _ in range(3):
+        try:
+            with urllib.request.urlopen(f"{SINGLE_URL}?{q}", timeout=60) as resp:
+                hits = json.load(resp)["result"]["addressMatches"]
+            if not hits:
+                return None
+            c = hits[0]["coordinates"]
+            return {"matched_address": hits[0]["matchedAddress"], "match_type": "Single", "lon": float(c["x"]), "lat": float(c["y"])}
+        except Exception:  # noqa: BLE001
+            continue
+    raise SystemExit(f"Census single-address lookup failed for {a['address_id']}. Not falling back to the postal city.")
+
+
+def geocode_misses(addresses: list[dict], matches: dict[str, dict]) -> dict[str, dict]:
+    """Addresses the batch endpoint missed get one single-address lookup (the endpoint behind the Census web form)."""
+    cache_file = CACHE / "census_single.json"
+    cache = json.loads(cache_file.read_text()) if cache_file.exists() else {}
+    todo = [a for a in addresses if a["address_id"] not in matches and a["address_id"] not in cache]
+    if todo:
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            for a, res in zip(todo, pool.map(_single, todo)):
+                cache[a["address_id"]] = res
+        cache_file.write_text(json.dumps(cache, indent=1))
+    return {aid: m for aid, m in cache.items() if m and aid not in matches}
+
+
 def place_for(lon: float, lat: float) -> dict:
     q = urllib.parse.urlencode({
         "x": lon, "y": lat, "benchmark": BENCHMARK, "vintage": VINTAGE,
@@ -142,6 +174,8 @@ def place_for(lon: float, lat: float) -> dict:
 def run() -> dict[str, dict]:
     addresses = load_addresses()
     matches = geocode(addresses)
+    single = geocode_misses(addresses, matches)
+    matches = {**matches, **single}
     places_file = CACHE / "census_places.json"
     places = json.loads(places_file.read_text()) if places_file.exists() else {}
     todo = [aid for aid in matches if aid not in places]
@@ -162,6 +196,7 @@ def run() -> dict[str, dict]:
             **a,
             "geocoded": bool(geo),
             "matched_address": matches.get(aid, {}).get("matched_address"),
+            "geocoder": ("single-address" if aid in single else "batch") if geo else None,
             "stack": {
                 "state": state if state in STATES else None,
                 "county": geo["county"] if geo else None,
@@ -175,5 +210,5 @@ def run() -> dict[str, dict]:
     (CACHE / "stacks.json").write_text(json.dumps(stacks, indent=1))
     (OUTPUTS / "unresolved-addresses.txt").write_text("\n".join(unresolved) + ("\n" if unresolved else ""))
     resolved = sum(1 for s in stacks.values() if s["stack"]["city"])
-    print(f"resolve: {len(addresses)} addresses, {len(matches)} geocoded, {resolved} in a covered city, {len(unresolved)} unresolved")
+    print(f"resolve: {len(addresses)} addresses, {len(matches)} geocoded ({len(single)} by single-address lookup), {resolved} in a covered city, {len(unresolved)} unresolved")
     return stacks
