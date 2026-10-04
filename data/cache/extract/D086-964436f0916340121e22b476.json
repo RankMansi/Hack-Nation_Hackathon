@@ -1,0 +1,31 @@
+{
+ "doc_id": "D086",
+ "model": "anthropic/claude-sonnet-4.5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "Santa Ana, CA",
+   "status": "enacted",
+   "title": "Santa Ana Ban on Algorithmic Rent Pricing Software",
+   "citation": "Santa Ana Municipal Code (Ordinance adopted March 9, 2026)",
+   "quote": "The purpose and intent of this [ordinance] is to protect the residents of Santa Ana from artificially inflated rental rates and unfair rent increases by prohibiting the sale, licensing and use of Algorithmic Devices",
+   "summary": "Santa Ana prohibits apartment owners and landlords from using automated AI software to set rental prices.",
+   "key_value": "$1,000 fine",
+   "effective_date": "2026-03-09",
+   "effective_date_evidence": "The measure passed its first vote on Feb. 17, and Tuesday's vote was the final step to officially put the ordinance into effect.",
+   "coverage_text": "Applies to apartment owners and landlords in Santa Ana",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": "Landlords caught using the banned software could be fined $1,000."
+  }
+ ]
+}

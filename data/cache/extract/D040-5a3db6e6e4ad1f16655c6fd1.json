@@ -1,0 +1,107 @@
+{
+ "doc_id": "D040",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Just Cause For Eviction Ordinance (JCO)",
+   "citation": "Los Angeles Just Cause Ordinance (JCO)",
+   "quote": "It prohibits terminations of tenancies without just cause and requires relocation assistance for no-fault evictions.",
+   "summary": "Los Angeles prohibits landlords from terminating tenancies without just cause and requires landlords to pay relocation assistance when evicting tenants for no-fault reasons.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "The JCO covers most residential properties in the City of Los Angeles that are not regulated by the City's Rent Stabilization Ordinance (RSO). In order to apply to a tenancy, it requires that the tenant either has lived in the same unit for at least six months or that their original lease expired, whichever comes first.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Excludes properties covered by the Rent Stabilization Ordinance, transient hotels, licensed care facilities, fraternity or sorority houses, owner's roommate, cooperatives under certain circumstances, some non-profit facilities for the homeless or short-term treatment centers for substance abuse, and some properties owned by HACLA or the government. Tenant must have lived in the unit for at least six months or their original lease expired, whichever comes first.",
+   "penalty": null
+  },
+  {
+   "category": "rent_increase_limits",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "California Tenant Protection Act of 2019 (AB 1482)",
+   "citation": "AB 1482",
+   "quote": "Annual rent increases are limited to no more than 5% plus the percentage change in the cost of living for the region in which the property is located, or 10% whichever is lower",
+   "summary": "Annual rent increases are capped at 5% plus the regional cost of living increase, or 10%, whichever is lower.",
+   "key_value": "5% + CPI, max 10%",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "Cal. Civ. Code \u00a7 1946.2(e)(8)(B)(i)",
+     "relation": "same_provision",
+     "evidence": "the tenancy is not subject to the \"just cause\" and rent increase limitations as specifically described in Civil Code Sections 1946.2(e)(8)(B)(i) and 1947.12(d)(5)(B)(i)"
+    },
+    {
+     "citation": "Cal. Civ. Code \u00a7 1947.12(d)(5)(B)(i)",
+     "relation": "same_provision",
+     "evidence": "the tenancy is not subject to the \"just cause\" and rent increase limitations as specifically described in Civil Code Sections 1946.2(e)(8)(B)(i) and 1947.12(d)(5)(B)(i)"
+    }
+   ],
+   "coverage_text": "Buildings that are older than 15 years old",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "use_code",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": true,
+   "exemption_note": "Exempt: units constructed within the last 15 years (rolling basis); units restricted by deed or regulatory document to low/moderate-income households; certain dormitories; two-unit property if second unit occupied by owner for entire tenancy; single-family homes and condos if not owned by real estate trust, corporation, or LLC with corporate member AND landlord notified tenant in writing of exemption; units already subject to City's RSO.",
+   "penalty": null
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Evictions for Non-Payment of Rent Limitation",
+   "citation": "Los Angeles Eviction for Non-Payment Ordinance",
+   "quote": "Effective March 27, 2023, landlords may not evict a tenant who falls behind in rent unless the tenant owes an amount higher than the Fair Market Rent (FMR).",
+   "summary": "Landlords cannot evict tenants for non-payment of rent unless the amount owed exceeds the Fair Market Rent for the unit size.",
+   "key_value": "FMR",
+   "effective_date": "2023-03-27",
+   "effective_date_evidence": "Effective March 27, 2023, landlords may not evict a tenant who falls behind in rent unless the tenant owes an amount higher than the Fair Market Rent (FMR).",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "Applies to all RSO & JCO rental units",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

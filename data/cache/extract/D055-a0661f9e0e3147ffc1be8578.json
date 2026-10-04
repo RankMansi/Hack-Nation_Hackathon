@@ -1,0 +1,36 @@
+{
+ "doc_id": "D055",
+ "model": "anthropic/claude-sonnet-4.5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "rent_increase_limits",
+   "jurisdiction": "MA",
+   "status": "failed",
+   "title": "Initiative Petition 25-21: An Initiative Petition to Protect Tenants by Limiting Rent Increases",
+   "citation": "Initiative Petition 25-21",
+   "quote": "Under the proposed law, annual rent increases would have been limited to the lesser of the annual increase in the Consumer Price Index or 5%. The petition included several exemptions, including owner-occupied buildings with four or fewer units, newly constructed units less than 10 years old, certain publicly regulated units, short-term rentals, and dwelling units in facilities operated solely for educational, religious, or nonprofit purposes.",
+   "summary": "Annual rent increases would have been capped at the lesser of the CPI increase or 5%, with exemptions for owner-occupied buildings with four or fewer units, newly constructed units less than 10 years old, and certain other properties.",
+   "key_value": "CPI or 5%, whichever is less",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "most residential rental units, with exemptions for owner-occupied buildings with four or fewer units, newly constructed units less than 10 years old, certain publicly regulated units, short-term rentals, and dwelling units in facilities operated solely for educational, religious, or nonprofit purposes",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 10,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 4,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": true,
+   "exemption_note": "Exemptions include owner-occupied buildings with four or fewer units, newly constructed units less than 10 years old, certain publicly regulated units, short-term rentals, and dwelling units in facilities operated solely for educational, religious, or nonprofit purposes",
+   "penalty": null
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "doc_id": "D050",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "MA",
+   "status": "enacted",
+   "title": "Notice to quit for nonpayment of rent",
+   "citation": "M.G.L. c. 186 \u00a7 11",
+   "quote": "Upon the neglect or refusal to pay the rent due under a written lease, fourteen days' notice to quit, given in writing by the landlord to the tenant, shall be sufficient to determine the lease, unless the tenant, on or before the day the answer is due, in an action by the landlord to recover possession of the premises, pays or tenders to the landlord or to his attorney all rent then due, with interest and costs of suit.",
+   "summary": "A landlord must give fourteen days' written notice to quit for nonpayment of rent under a written lease, but the tenant can cure by paying all rent due with interest and costs by the answer date.",
+   "key_value": "14 days",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "written lease",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

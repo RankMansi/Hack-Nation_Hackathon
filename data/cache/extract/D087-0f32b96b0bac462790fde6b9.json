@@ -1,0 +1,31 @@
+{
+ "doc_id": "D087",
+ "model": "anthropic/claude-sonnet-4.5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "Santa Ana, CA",
+   "status": "pending",
+   "title": "Santa Ana ordinance banning algorithmic rent-setting software",
+   "citation": "Santa Ana ordinance (Feb. 17, 2026, first reading)",
+   "quote": "The ordinance, approved on Tuesday, Feb. 17, for a first reading and set for a final vote on March 3, prohibits the sale, licensing, provision and use of certain algorithmic rent-setting software for residential rental properties.",
+   "summary": "The ordinance prohibits the sale, licensing, provision, and use of algorithmic rent-setting software for residential rental properties in Santa Ana.",
+   "key_value": "up to $1,000 per violation",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "limited to residential rental property and does not apply to pricing software that relies solely on publicly available data, aggregate historical data, or tools used to comply with affordable housing program requirements",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Does not apply to pricing software that relies solely on publicly available data, aggregate historical data, or tools used to comply with affordable housing program requirements",
+   "penalty": "Up to $1,000 per violation, plus injunctive relief, damages, and attorney's fees; tenants may bring civil action"
+  }
+ ]
+}

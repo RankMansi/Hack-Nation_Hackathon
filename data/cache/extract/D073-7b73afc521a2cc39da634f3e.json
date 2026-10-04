@@ -1,0 +1,109 @@
+{
+ "doc_id": "D073",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "Just Cause Required for Termination of Tenancy",
+   "citation": "San Diego Municipal Code \u00a7 98.0704",
+   "quote": "A landlord shall not terminate a tenancy without just cause. For purposes of this Division, just cause includes at-fault just cause and no-fault just cause.",
+   "summary": "Landlords cannot terminate a tenancy without just cause, which includes at-fault reasons (like non-payment of rent, lease violations, nuisance, criminal activity) or no-fault reasons (like owner move-in, withdrawal from rental market, demolition or substantial remodel).",
+   "key_value": null,
+   "effective_date": "2023-06-24",
+   "effective_date_evidence": "Retitled to \"Residential Tenant Protections\" on 5-25-2023 by O-21647 N.S.; effective 6-24-2023.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "Cal. Civ. Code \u00a7 1946.2",
+     "relation": "same_provision",
+     "evidence": "This Division protects the rights of tenants by requiring just cause for termination of a tenancy consistent with California Civil Code section 1946.2"
+    }
+   ],
+   "coverage_text": "Applies to residential rental properties with exemptions for buildings with certificate of occupancy within the previous 15 years (unless mobilehome), single-family residences meeting certain conditions, owner-occupied small properties, and other specified housing types.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Exemptions include owner-occupied residences renting no more than two bedrooms/ADUs, duplexes with owner-occupancy, alienable separate units owned by natural persons (not REITs or corporations), subsidized affordable housing, transitional housing, student housing, mobilehomes under Mobilehome Residency Law, and transient/short-term rentals.",
+   "penalty": "Tenant may seek injunctive relief, equitable relief, money damages including punitive damages; wrongful eviction damages not less than three times actual economic damages; reasonable attorney's fees and costs; City may enforce with civil and criminal remedies under Chapter 1, Article 2."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "Relocation Assistance for No-Fault Just Cause Terminations",
+   "citation": "San Diego Municipal Code \u00a7 98.0706(c)",
+   "quote": "Unless section 98.0706(c)(1)(A)(ii) applies, the direct payment to the tenant shall be in an amount equal to two months of actual rent under the tenant's lease in effect at the date of the notice. If the tenant is a senior or disabled, the direct payment to the tenant shall be in an amount equal to three months of actual rent under the tenant's lease in effect at the date of the notice.",
+   "summary": "For no-fault just cause evictions, landlords must provide relocation assistance equal to two months' rent (or three months' rent if tenant is a senior age 62+ or disabled), either as direct payment or rent waiver.",
+   "key_value": "2 months' rent (3 months for seniors/disabled)",
+   "effective_date": "2023-06-24",
+   "effective_date_evidence": "\"Requirements Upon Termination of Tenancy\" added 5-25-2023 by O-21647 N.S.; effective 6-24-2023.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "Applies to all no-fault just cause terminations under this Division, regardless of tenant's income or length of tenancy.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Same exemptions as \u00a7 98.0704. Relocation assistance not required if government agency or court determines tenant is at fault for habitability condition requiring vacate order.",
+   "penalty": "Landlord who fails to provide relocation assistance is liable to tenant for not less than three times the required relocation assistance and actual economic damages."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "Right to Offer to Renew Tenancy After No-Fault Eviction",
+   "citation": "San Diego Municipal Code \u00a7 98.0706(d)",
+   "quote": "If a residential rental property is offered for rent or lease for residential purposes within five years of the date the tenant was evicted under sections 98.0704(b)(1), (3), or (4), landlord shall first offer to lease the residential rental property in writing to the tenant displaced from that unit by the no-fault just cause termination if the tenant: advised the landlord in writing within 30 days of the termination notice of the tenant's desire to receive an offer to renew the tenancy; and provided the landlord a mailing address or email address for the landlord to send the offer, including any change of mailing address or email address.",
+   "summary": "If a property is re-rented within five years after a tenant was evicted for owner move-in, habitability order, or substantial remodel/demolition, the landlord must first offer the unit to the displaced tenant who requested such an offer.",
+   "key_value": "5 years",
+   "effective_date": "2023-06-24",
+   "effective_date_evidence": "\"Requirements Upon Termination of Tenancy\" added 5-25-2023 by O-21647 N.S.; effective 6-24-2023.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "Applies to evictions under sections 98.0704(b)(1) (owner move-in), (3) (habitability/government order), or (4) (demolition/substantial remodel).",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Same exemptions as \u00a7 98.0704. Tenant must have notified landlord within 30 days of termination notice and provided contact information. Landlord may screen tenant using industry-accepted methods. Tenant has 30 days to accept offer.",
+   "penalty": "Same remedies as \u00a7 98.0704 for violations of this Division; failure to strictly comply with \u00a7 98.0706 renders termination notice void."
+  }
+ ]
+}

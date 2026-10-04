@@ -1,0 +1,93 @@
+{
+ "doc_id": "D023",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "California Tenant Protection Act - Just Cause Eviction Requirements",
+   "citation": "Cal. Civ. Code \u00a7 1946.2",
+   "quote": "Notwithstanding any other law, after a tenant has continuously and lawfully occupied a residential real property for 12 months, the owner of the residential real property shall not terminate a tenancy without just cause, which shall be stated in the written notice to terminate tenancy.",
+   "summary": "After 12 months of continuous lawful occupancy, landlords cannot terminate a tenancy without stating a just cause reason in the written notice.",
+   "key_value": "Just cause required after 12 months",
+   "effective_date": "2024-04-01",
+   "effective_date_evidence": "This section shall become operative on April 1, 2024.",
+   "effective_until": "2030-01-01",
+   "effective_until_evidence": "This section shall remain in effect only until January 1, 2030, and as of that date is repealed.",
+   "related_citations": [
+    {
+     "citation": "Cal. Civ. Code \u00a7 1947.12",
+     "relation": "same_provision",
+     "evidence": "This property is not subject to the rent limits imposed by Section 1947.12 of the Civil Code and is not subject to the just cause requirements of Section 1946.2 of the Civil Code."
+    },
+    {
+     "citation": "Cal. Code Civ. Proc. \u00a7 1161",
+     "relation": "same_provision",
+     "evidence": "A breach of a material term of the lease, as described in paragraph (3) of Section 1161 of the Code of Civil Procedure"
+    },
+    {
+     "citation": "Stats. 2025, Ch. 203, Sec. 1 (AB 1529)",
+     "relation": "amended_by",
+     "evidence": "Amended by Stats. 2025, Ch. 203, Sec. 1.   (AB 1529)   Effective January 1, 2026."
+    }
+   ],
+   "coverage_text": "Applies to residential real property after tenant has continuously and lawfully occupied for 12 months (or 24 months if additional adults added). Exemptions include: transient/tourist hotels, certain institutional housing, dormitories, owner-occupied housing with shared facilities, single-family owner-occupied with \u22642 units, duplex owner-occupied, housing with certificate of occupancy within previous 15 years (except mobilehomes), certain alienable properties owned by individuals (not REITs/corporations), affordable housing.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": true,
+   "caps_rent": false,
+   "exemption_note": "Exempt: buildings with certificate of occupancy within previous 15 years (except mobilehomes); single-family owner-occupied residences with \u22642 units; duplex owner-occupied; owner-occupied with shared bathroom/kitchen; alienable properties owned by natural persons (not REITs/corporations); affordable housing; transient hotels; institutional housing; dormitories. Local ordinances more protective apply instead.",
+   "penalty": "Liable for actual damages, reasonable attorney's fees and costs, and up to three times actual damages upon showing of willful conduct or oppression, fraud, or malice. Failure to strictly comply with relocation assistance renders notice void."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "California Tenant Protection Act - No-Fault Eviction Relocation Assistance",
+   "citation": "Cal. Civ. Code \u00a7 1946.2",
+   "quote": "For a tenancy for which just cause is required to terminate the tenancy under subdivision (a), if an owner of residential real property issues a termination notice based on a no-fault just cause described in paragraph (2) of subdivision (b), the owner shall, regardless of the tenant's income, at the owner's option, do one of the following: (A) Assist the tenant to relocate by providing a direct payment to the tenant as described in paragraph (3). (B) Waive in writing the payment of rent for the final month of the tenancy, prior to the rent becoming due.",
+   "summary": "Landlords terminating a tenancy for a no-fault just cause must either provide relocation assistance equal to one month's rent or waive the final month's rent.",
+   "key_value": "1 month's rent",
+   "effective_date": "2024-04-01",
+   "effective_date_evidence": "This section shall become operative on April 1, 2024.",
+   "effective_until": "2030-01-01",
+   "effective_until_evidence": "This section shall remain in effect only until January 1, 2030, and as of that date is repealed.",
+   "related_citations": [
+    {
+     "citation": "Stats. 2025, Ch. 203, Sec. 1 (AB 1529)",
+     "relation": "amended_by",
+     "evidence": "Amended by Stats. 2025, Ch. 203, Sec. 1.   (AB 1529)   Effective January 1, 2026."
+    }
+   ],
+   "coverage_text": "Applies to residential real property when termination is based on no-fault just cause (owner move-in, withdrawal from rental market, government order, intent to demolish or substantially remodel). Subject to same exemptions as just cause eviction requirements.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": true,
+   "caps_rent": false,
+   "exemption_note": "Same exemptions as just cause eviction requirements. Relocation assistance shall be credited against any other relocation assistance required by any other law.",
+   "penalty": "Owner's failure to strictly comply with relocation assistance requirements renders the notice of termination void. Material violation creates liability for actual damages, attorney's fees and costs, and up to three times actual damages for willful conduct."
+  }
+ ]
+}

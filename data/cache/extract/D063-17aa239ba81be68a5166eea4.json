@@ -1,0 +1,31 @@
+{
+ "doc_id": "D063",
+ "model": "anthropic/claude-sonnet-4.5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "security_deposits",
+   "jurisdiction": "NJ",
+   "status": "enacted",
+   "title": "Maximum security deposit limit",
+   "citation": "N.J.S.A. 46:8-21.2",
+   "quote": "An owner or lessee may not require more than a sum equal to 1 1/2 times 1 month's rental according to the terms of contract, lease, or agreement as a security for the use or rental of real property used for dwelling purposes.",
+   "summary": "Landlords cannot require a security deposit of more than one and one-half months' rent for residential rental property.",
+   "key_value": "1.5 months' rent",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "real property used for dwelling purposes",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

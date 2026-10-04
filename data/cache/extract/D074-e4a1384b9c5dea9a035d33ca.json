@@ -1,0 +1,31 @@
+{
+ "doc_id": "D074",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "Use and Sale of Algorithmic Devices Prohibited",
+   "citation": "San Diego Zoning Code \u00a7 98.1103",
+   "quote": "It is unlawful for a landlord to use an algorithmic device to set rental rates or occupancy levels for residential rental property.",
+   "summary": "Landlords are prohibited from using algorithmic devices to set rental rates or occupancy levels for residential rental properties.",
+   "key_value": null,
+   "effective_date": "2025-06-21",
+   "effective_date_evidence": "added 5-22-2025 by O-21955 N.S.; effective 6-21-2025.",
+   "coverage_text": "residential rental property",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": "For each month a violation of section 98.1103(b) exists or continues, and for each residential rental property a landlord uses an algorithmic device, it shall constitute a separate and distinct violation."
+  }
+ ]
+}

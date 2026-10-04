@@ -1,0 +1,31 @@
+{
+ "doc_id": "D035",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "Jersey City, NJ",
+   "status": "enacted",
+   "title": "Jersey City ban on rent-setting algorithms (RealPage ordinance)",
+   "citation": "Jersey City ordinance approved May 21, 2025",
+   "quote": "The Jersey City Council unanimously approved (9-0) a measure banning rent-setting algorithms such as RealPage, as well as increasing benefits for laborers, at last night's meeting.",
+   "summary": "Jersey City has banned the use of rent-setting algorithms such as RealPage.",
+   "key_value": null,
+   "effective_date": "2025-05-21",
+   "effective_date_evidence": "The Jersey City Council unanimously approved (9-0) a measure banning rent-setting algorithms such as RealPage, as well as increasing benefits for laborers, at last night's meeting. [Article dated May 22, 2025 10:14 am, referring to 'last night's meeting']",
+   "coverage_text": "The ordinance bans rent-setting algorithms and RealPage was described as allowing 'landlords to collude to raise rent dramatically.' RealPage stated the legislation 'will ban the use of certain nonpublic data in our revenue management software.'",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Real estate agents were excluded from the ordinance. The sponsor agreed to exclude Multiple Listing Services of homes for sale, though there was debate about whether MLS should be excluded.",
+   "penalty": "$2,000 daily fine was mentioned during public comment as the penalty amount."
+  }
+ ]
+}

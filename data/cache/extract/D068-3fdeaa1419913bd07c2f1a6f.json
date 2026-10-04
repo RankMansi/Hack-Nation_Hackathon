@@ -1,0 +1,36 @@
+{
+ "doc_id": "D068",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "NJ",
+   "status": "enacted",
+   "title": "Source of Lawful Income Protection \u2013 Housing",
+   "citation": "N.J.S.A. 10:5 (Law Against Discrimination)",
+   "quote": "The LAD also prohibits housing discrimination based on the source of lawful income or source of lawful rent or mortgage payment a tenant or purchaser uses. This means, for example, that a landlord cannot deny the lawful recipient of a Section 8 HUD voucher the right to rent an apartment based solely on that source of lawful income.",
+   "summary": "Landlords cannot discriminate against tenants or purchasers based on their source of lawful income, including Section 8 vouchers.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "All property including open land, whether for business or residential purposes, with exceptions for certain owner-occupied dwellings and religious organization preferences.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "owner_type"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Exemptions include: rental of single apartment in two-family dwelling where owner occupies other unit; rental of rooms in one-family dwelling occupied by owner; religious organization preferences; housing for older persons (familial status protection only).",
+   "penalty": null
+  }
+ ]
+}

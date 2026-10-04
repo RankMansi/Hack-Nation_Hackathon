@@ -1,0 +1,287 @@
+{
+ "doc_id": "D043",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Relocation Assistance for No-Fault Evictions Under RSO & JCO",
+   "citation": "LAMC 151.09.A.8, 151.09.A.10, 151.09.A.11, 151.09.A.12, 151.09.A.13, 151.09.A.14, 165.03.H, 165.03.I, 165.03.J, 165.03.K, 165.03.L, 165.03.M, 47.06, 47.07",
+   "quote": "All tenant not- at-fault evictions require payment of relocation assistance and the filing of a Declaration of Intent to Evict form with the Los Angeles Housing Department (LAHD) before evicting tenants from units covered by the Rent Stabilization Ordinance (RSO) or the Just Cause Ordinance (JCO).",
+   "summary": "Landlords must pay relocation assistance and file a Declaration of Intent to Evict with LAHD before evicting tenants for no-fault reasons under the RSO or JCO.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "units covered by the Rent Stabilization Ordinance (RSO) or the Just Cause Ordinance (JCO)",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Exemptions apply: Evicting a resident manager to replace with another; eviction due to hazardous conditions caused by natural disaster not caused by landlord's negligence",
+   "penalty": "Failure to file the Landlord Declaration with the LAHD makes the eviction a violation of the RSO or JCO"
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Relocation Assistance Amounts for Eligible Households (Less than 3 Years Tenancy)",
+   "citation": "LAMC 151.09, 165.06",
+   "quote": "Eligible Household $11,000 [for] Tenants with Less Than 3 Years",
+   "summary": "Eligible tenants with less than three years of tenancy are entitled to $11,000 in relocation assistance for no-fault evictions.",
+   "key_value": "$11,000",
+   "effective_date": "2026-07-01",
+   "effective_date_evidence": "Chart A: Relocation Assistance Amounts Effective July 1, 2026 through June 30, 2027",
+   "effective_until": "2027-06-30",
+   "effective_until_evidence": "Chart A: Relocation Assistance Amounts Effective July 1, 2026 through June 30, 2027",
+   "related_citations": [],
+   "coverage_text": "units covered by the Rent Stabilization Ordinance (RSO) or the Just Cause Ordinance (JCO)",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 4,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Mom and Pop properties (4 or fewer units, owner owns no more than 4 units plus single-family home) may pay reduced amount of $10,550 for owner/family occupancy evictions only. Single family dwellings owned by natural persons under JCO may pay one month's rent instead.",
+   "penalty": null
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Relocation Assistance Amounts for Eligible Households (3 or More Years or Low Income)",
+   "citation": "LAMC 151.09, 165.06",
+   "quote": "Eligible Household $14,400 [for] Tenants with Length of Tenancy of 3 or More Years, or Low Income at or below 80% AMI (Low Income)",
+   "summary": "Eligible tenants with three or more years of tenancy or with low income (80% AMI or below) are entitled to $14,400 in relocation assistance for no-fault evictions.",
+   "key_value": "$14,400",
+   "effective_date": "2026-07-01",
+   "effective_date_evidence": "Chart A: Relocation Assistance Amounts Effective July 1, 2026 through June 30, 2027",
+   "effective_until": "2027-06-30",
+   "effective_until_evidence": "Chart A: Relocation Assistance Amounts Effective July 1, 2026 through June 30, 2027",
+   "related_citations": [],
+   "coverage_text": "units covered by the Rent Stabilization Ordinance (RSO) or the Just Cause Ordinance (JCO)",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 4,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Mom and Pop properties (4 or fewer units, owner owns no more than 4 units plus single-family home) may pay reduced amount of $10,550 for owner/family occupancy evictions only. Single family dwellings owned by natural persons under JCO may pay one month's rent instead.",
+   "penalty": null
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Relocation Assistance Amounts for Qualified Households (Less than 3 Years)",
+   "citation": "LAMC 151.09, 165.06",
+   "quote": "Qualified Household $23,150 [for] Tenants with Less Than 3 Years",
+   "summary": "Qualified tenants (62+ years old, disabled, or with minor dependent children) with less than three years of tenancy are entitled to $23,150 in relocation assistance for no-fault evictions.",
+   "key_value": "$23,150",
+   "effective_date": "2026-07-01",
+   "effective_date_evidence": "Chart A: Relocation Assistance Amounts Effective July 1, 2026 through June 30, 2027",
+   "effective_until": "2027-06-30",
+   "effective_until_evidence": "Chart A: Relocation Assistance Amounts Effective July 1, 2026 through June 30, 2027",
+   "related_citations": [],
+   "coverage_text": "units covered by the Rent Stabilization Ordinance (RSO) or the Just Cause Ordinance (JCO)",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 4,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Mom and Pop properties (4 or fewer units, owner owns no more than 4 units plus single-family home) may pay reduced amount of $21,250 for owner/family occupancy evictions only. Single family dwellings owned by natural persons under JCO may pay one month's rent instead.",
+   "penalty": null
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Relocation Assistance Amounts for Qualified Households (3 or More Years or Low Income)",
+   "citation": "LAMC 151.09, 165.06",
+   "quote": "Qualified Household $27,400 [for] Tenants with Length of Tenancy of 3 or More Years, or Low Income at or below 80% AMI (Low Income)",
+   "summary": "Qualified tenants (62+ years old, disabled, or with minor dependent children) with three or more years of tenancy or with low income (80% AMI or below) are entitled to $27,400 in relocation assistance for no-fault evictions.",
+   "key_value": "$27,400",
+   "effective_date": "2026-07-01",
+   "effective_date_evidence": "Chart A: Relocation Assistance Amounts Effective July 1, 2026 through June 30, 2027",
+   "effective_until": "2027-06-30",
+   "effective_until_evidence": "Chart A: Relocation Assistance Amounts Effective July 1, 2026 through June 30, 2027",
+   "related_citations": [],
+   "coverage_text": "units covered by the Rent Stabilization Ordinance (RSO) or the Just Cause Ordinance (JCO)",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 4,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Mom and Pop properties (4 or fewer units, owner owns no more than 4 units plus single-family home) may pay reduced amount of $21,250 for owner/family occupancy evictions only. Single family dwellings owned by natural persons under JCO may pay one month's rent instead.",
+   "penalty": null
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Enhanced Relocation for Lower Income Households Displaced by Demolition for New Construction (Extremely Low Income)",
+   "citation": "LAMC 151.09, 165.06, Gov. Code 66300.6(b)(4)(A), Ordinance 188481, Ordinance 188482",
+   "quote": "Tenants Displaced by New Development [Extremely Low Income] $115,480",
+   "summary": "Extremely low income tenants (30% AMI or below) being displaced for demolition of protected units for new construction are entitled to $115,480 in relocation assistance.",
+   "key_value": "$115,480",
+   "effective_date": "2026-07-01",
+   "effective_date_evidence": "CHART B: Resident Protections Ordinance Standardized Payments (Only for Low, Very Low and Extremely Low Income Households) Effective July 1, 2026 through June 30, 2027 (Increases July 1st)",
+   "effective_until": "2027-06-30",
+   "effective_until_evidence": "CHART B: Resident Protections Ordinance Standardized Payments (Only for Low, Very Low and Extremely Low Income Households) Effective July 1, 2026 through June 30, 2027 (Increases July 1st)",
+   "related_citations": [
+    {
+     "citation": "Ordinance 188481",
+     "relation": "same_provision",
+     "evidence": "The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80%  AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A)). ... the City laws, whichever is higher.  City laws require all tenants be paid relocation assistance in the amounts required by the RSO or JCO within 15 days of serving a notice to terminate tenancy, which must be enhanced for lower income tenants if the project is subject to the Resident Protections Ordinance (RPO), effective 2/11/2025 under Ordinances # 188481 and #188482."
+    },
+    {
+     "citation": "Ordinance 188482",
+     "relation": "same_provision",
+     "evidence": "The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80%  AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A)). ... the City laws, whichever is higher.  City laws require all tenants be paid relocation assistance in the amounts required by the RSO or JCO within 15 days of serving a notice to terminate tenancy, which must be enhanced for lower income tenants if the project is subject to the Resident Protections Ordinance (RPO), effective 2/11/2025 under Ordinances # 188481 and #188482."
+    },
+    {
+     "citation": "Gov. Code 66300.6(b)(4)(A)",
+     "relation": "same_provision",
+     "evidence": "Demolition for New Construction The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80%  AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A))."
+    }
+   ],
+   "coverage_text": "Protected Units: (1) Residential dwelling units that are or were subject to a recorded covenant, ordinance, or law that restricts rents to levels affordable to persons and families of lower or very low income within the past five years. (2) Residential dwelling units that are or were subject to any form of rent or price control through a public entity's valid exercise of its police power within the past five years.  This includes all RSO units. (3) Residential dwelling units that are or were rented by lower or very low income households within the past five years. (4) Residential dwelling units that were withdrawn from rent or lease in accordance the Ellis Act within the past 10 years.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Only applies to lower income households (80% AMI or lower) being displaced for demolition for new construction of Protected Units. RPO effective 2/11/2025.",
+   "penalty": "Failure to comply with the RPO may result in financial penalties starting at $250,000 per displaced unit and withholding of LAHD permit clearances."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Enhanced Relocation for Lower Income Households Displaced by Demolition for New Construction (Very Low Income)",
+   "citation": "LAMC 151.09, 165.06, Gov. Code 66300.6(b)(4)(A), Ordinance 188481, Ordinance 188482",
+   "quote": "Tenants Displaced by New Development [Very Low Income] $96,750",
+   "summary": "Very low income tenants (50% AMI or below) being displaced for demolition of protected units for new construction are entitled to $96,750 in relocation assistance.",
+   "key_value": "$96,750",
+   "effective_date": "2026-07-01",
+   "effective_date_evidence": "CHART B: Resident Protections Ordinance Standardized Payments (Only for Low, Very Low and Extremely Low Income Households) Effective July 1, 2026 through June 30, 2027 (Increases July 1st)",
+   "effective_until": "2027-06-30",
+   "effective_until_evidence": "CHART B: Resident Protections Ordinance Standardized Payments (Only for Low, Very Low and Extremely Low Income Households) Effective July 1, 2026 through June 30, 2027 (Increases July 1st)",
+   "related_citations": [
+    {
+     "citation": "Ordinance 188481",
+     "relation": "same_provision",
+     "evidence": "The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80%  AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A)). ... the City laws, whichever is higher.  City laws require all tenants be paid relocation assistance in the amounts required by the RSO or JCO within 15 days of serving a notice to terminate tenancy, which must be enhanced for lower income tenants if the project is subject to the Resident Protections Ordinance (RPO), effective 2/11/2025 under Ordinances # 188481 and #188482."
+    },
+    {
+     "citation": "Ordinance 188482",
+     "relation": "same_provision",
+     "evidence": "The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80%  AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A)). ... the City laws, whichever is higher.  City laws require all tenants be paid relocation assistance in the amounts required by the RSO or JCO within 15 days of serving a notice to terminate tenancy, which must be enhanced for lower income tenants if the project is subject to the Resident Protections Ordinance (RPO), effective 2/11/2025 under Ordinances # 188481 and #188482."
+    },
+    {
+     "citation": "Gov. Code 66300.6(b)(4)(A)",
+     "relation": "same_provision",
+     "evidence": "Demolition for New Construction The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80%  AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A))."
+    }
+   ],
+   "coverage_text": "Protected Units: (1) Residential dwelling units that are or were subject to a recorded covenant, ordinance, or law that restricts rents to levels affordable to persons and families of lower or very low income within the past five years. (2) Residential dwelling units that are or were subject to any form of rent or price control through a public entity's valid exercise of its police power within the past five years.  This includes all RSO units. (3) Residential dwelling units that are or were rented by lower or very low income households within the past five years. (4) Residential dwelling units that were withdrawn from rent or lease in accordance the Ellis Act within the past 10 years.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Only applies to lower income households (80% AMI or lower) being displaced for demolition for new construction of Protected Units. RPO effective 2/11/2025.",
+   "penalty": "Failure to comply with the RPO may result in financial penalties starting at $250,000 per displaced unit and withholding of LAHD permit clearances."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Enhanced Relocation for Lower Income Households Displaced by Demolition for New Construction (Low Income)",
+   "citation": "LAMC 151.09, 165.06, Gov. Code 66300.6(b)(4)(A), Ordinance 188481, Ordinance 188482",
+   "quote": "Tenants Displaced by New Development [Low Income] $87,450",
+   "summary": "Low income tenants (80% AMI or below) being displaced for demolition of protected units for new construction are entitled to $87,450 in relocation assistance.",
+   "key_value": "$87,450",
+   "effective_date": "2026-07-01",
+   "effective_date_evidence": "CHART B: Resident Protections Ordinance Standardized Payments (Only for Low, Very Low and Extremely Low Income Households) Effective July 1, 2026 through June 30, 2027 (Increases July 1st)",
+   "effective_until": "2027-06-30",
+   "effective_until_evidence": "CHART B: Resident Protections Ordinance Standardized Payments (Only for Low, Very Low and Extremely Low Income Households) Effective July 1, 2026 through June 30, 2027 (Increases July 1st)",
+   "related_citations": [
+    {
+     "citation": "Ordinance 188481",
+     "relation": "same_provision",
+     "evidence": "The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80%  AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A)). ... the City laws, whichever is higher.  City laws require all tenants be paid relocation assistance in the amounts required by the RSO or JCO within 15 days of serving a notice to terminate tenancy, which must be enhanced for lower income tenants if the project is subject to the Resident Protections Ordinance (RPO), effective 2/11/2025 under Ordinances # 188481 and #188482."
+    },
+    {
+     "citation": "Ordinance 188482",
+     "relation": "same_provision",
+     "evidence": "The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80%  AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A)). ... the City laws, whichever is higher.  City laws require all tenants be paid relocation assistance in the amounts required by the RSO or JCO within 15 days of serving a notice to terminate tenancy, which must be enhanced for lower income tenants if the project is subject to the Resident Protections Ordinance (RPO), effective 2/11/2025 under Ordinances # 188481 and #188482."
+    },
+    {
+     "citation": "Gov. Code 66300.6(b)(4)(A)",
+     "relation": "same_provision",
+     "evidence": "Demolition for New Construction The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80%  AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A))."
+    }
+   ],
+   "coverage_text": "Protected Units: (1) Residential dwelling units that are or were subject to a recorded covenant, ordinance, or law that restricts rents to levels affordable to persons and families of lower or very low income within the past five years. (2) Residential dwelling units that are or were subject to any form of rent or price control through a public entity's valid exercise of its police power within the past five years.  This includes all RSO units. (3) Residential dwelling units that are or were rented by lower or very low income households within the past five years. (4) Residential dwelling units that were withdrawn from rent or lease in accordance the Ellis Act within the past 10 years.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Only applies to lower income households (80% AMI or lower) being displaced for demolition for new construction of Protected Units. RPO effective 2/11/2025.",
+   "penalty": "Failure to comply with the RPO may result in financial penalties starting at $250,000 per displaced unit and withholding of LAHD permit clearances."
+  }
+ ]
+}

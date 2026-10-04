@@ -10,6 +10,8 @@ MANIFEST = RAW / "corpus" / "corpus_manifest.csv"
 CORPUS_DIR = RAW / "corpus"
 ADDRESSES = RAW / "data" / "sample_addresses.csv"
 CHANGE_TESTS = RAW / "dev" / "change_tests.json"
+FETCHED = ROOT / "data" / "fetched"
+FETCH_LOG = FETCHED / "fetch_log.csv"
 
 DEFAULT_AS_OF = "2026-10-01"
 

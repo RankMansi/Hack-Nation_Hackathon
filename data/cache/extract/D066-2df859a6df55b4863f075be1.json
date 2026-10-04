@@ -1,0 +1,36 @@
+{
+ "doc_id": "D066",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "application_screening_fees",
+   "jurisdiction": "NJ",
+   "status": "enacted",
+   "title": "Residential rental property application fee limit",
+   "citation": "P.L. 2025, c.405 (C.46:8-18.1)",
+   "quote": "A landlord, or agent thereof, shall not require an application or other similar fee to apply to lease or sublease a residential rental property for dwelling purposes, which exceeds $50.",
+   "summary": "A landlord cannot charge more than $50 as an application fee to apply to lease or sublease a residential rental property.",
+   "key_value": "$50",
+   "effective_date": "2026-05-20",
+   "effective_date_evidence": "This act shall take effect on the first day of the fourth month next following the date of enactment... Approved January 20, 2026.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "Does not apply to dwelling units in one-family or two-family dwellings offered for rent, or to real estate licensees (unless the licensee is the landlord).",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "units"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Exempts one-family or two-family dwellings offered for rent; exempts real estate licensees unless they are the landlord.",
+   "penalty": "Up to $500 for first offense, up to $750 for second offense, and up to $1,000 for each subsequent offense; wrongfully charged amount shall be remitted to applicant or prospective tenant."
+  }
+ ]
+}

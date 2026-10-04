@@ -1,0 +1,37 @@
+{
+ "doc_id": "D029",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "Cambridge, MA",
+   "status": "enacted",
+   "title": "Source of Income Protection",
+   "citation": "Cambridge Fair Housing Ordinance, chapter 14.04",
+   "quote": "The protected categories under the Cambridge Human Rights Ordinance and the Cambridge Fair Housing Ordinance are the following: ... Source of Income, includes Section 8 and public benefits",
+   "summary": "Discrimination based on source of income, including Section 8 and public benefits, is prohibited in housing.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "NOTE: there is an exemption for 2-family dwellings, when the owner lives there",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "units",
+    "owner_type"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Exemption for 2-family dwellings when the owner lives there",
+   "penalty": "criminal complaint in District Court, levying civil fines of up to $300 for each violation, filing a civil complaint in Superior Court seeking injunctive relief, and seeking an award of damages, expenses and other relief"
+  }
+ ]
+}
