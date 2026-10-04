@@ -1,0 +1,103 @@
+{
+ "doc_id": "D065",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "NJ",
+   "status": "enacted",
+   "title": "Fair Chance in Housing Act - Criminal History Screening Restrictions",
+   "citation": "N.J.S.A. 46:8-52 through 46:8-64 (P.L. 2021, c.110)",
+   "quote": "A housing provider shall not require an applicant to complete any housing application that includes any inquiries regarding an applicant's criminal record prior to the provision of a conditional offer, except that a housing provider may consider whether an applicant has ever been convicted of drug-related criminal activity for the manufacture or production of methamphetamine on the premises of federally assisted housing, and whether the applicant is subject to a lifetime registration requirement under a State sex offender registration program.",
+   "summary": "Housing providers cannot inquire about an applicant's criminal record before making a conditional offer of housing, except for certain drug and sex offender convictions.",
+   "key_value": null,
+   "effective_date": "2022-01-18",
+   "effective_date_evidence": "This act shall take effect on the first day of the seventh month next following the date of enactment... Approved June 18, 2021.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "C.46:8-52",
+     "relation": "codified_as",
+     "evidence": "C.46:8-52 Short title. 1. This act shall be known and may be cited as the \"Fair Chance in Housing Act.\""
+    },
+    {
+     "citation": "C.46:8-53",
+     "relation": "codified_as",
+     "evidence": "C.46:8-53 Findings, declarations regarding housing to those with criminal records."
+    },
+    {
+     "citation": "C.46:8-54",
+     "relation": "codified_as",
+     "evidence": "C.46:8-54 Definitions relative to housing to those with criminal records."
+    },
+    {
+     "citation": "C.46:8-55",
+     "relation": "codified_as",
+     "evidence": "C.46:8-55 Application process."
+    },
+    {
+     "citation": "C.46:8-56",
+     "relation": "codified_as",
+     "evidence": "C.46:8-56 Housing provider's consideration of applicant's record."
+    },
+    {
+     "citation": "C.46:8-57",
+     "relation": "codified_as",
+     "evidence": "C.46:8-57 Director preparation of model documents."
+    },
+    {
+     "citation": "C.46:8-58",
+     "relation": "codified_as",
+     "evidence": "C.46:8-58 Discriminatory advertisement by house provider, prohibited."
+    },
+    {
+     "citation": "C.46:8-59",
+     "relation": "codified_as",
+     "evidence": "C.46:8-59 Immunity."
+    },
+    {
+     "citation": "C.46:8-60",
+     "relation": "codified_as",
+     "evidence": "C.46:8-60 Drug, alcohol test, drug abuse treatment information; requirement by housing provider, prohibited."
+    },
+    {
+     "citation": "C.46:8-61",
+     "relation": "codified_as",
+     "evidence": "C.46:8-61 Unlawful acts by housing provider."
+    },
+    {
+     "citation": "C.46:8-62",
+     "relation": "codified_as",
+     "evidence": "C.46:8-62 Complaint data maintenance."
+    },
+    {
+     "citation": "C.46:8-63",
+     "relation": "codified_as",
+     "evidence": "C.46:8-63 Complaints, actions sought against housing provider."
+    },
+    {
+     "citation": "C.46:8-64",
+     "relation": "codified_as",
+     "evidence": "C.46:8-64 Rules, regulations."
+    }
+   ],
+   "coverage_text": "Applies to rental dwelling units except dwelling units in owner-occupied premises of not more than four dwelling units.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 4,
+   "facts_required": [
+    "units",
+    "owner_type"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Owner-occupied properties with 4 or fewer units are exempt.",
+   "penalty": "First violation: up to $1,000; second violation within 5 years: up to $5,000; three or more violations within 7 years: up to $10,000."
+  }
+ ]
+}

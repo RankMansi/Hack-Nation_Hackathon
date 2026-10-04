@@ -1,0 +1,34 @@
+{
+ "doc_id": "D053",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "MA",
+   "status": "enacted",
+   "title": "Anti-retaliation protection for tenants reporting violations or organizing",
+   "citation": "M.G.L. c. 186 \u00a7 18",
+   "quote": "Any person or agent thereof who threatens to or takes reprisals against any tenant of residential premises for the tenant's act of, commencing, proceeding with, or obtaining relief in any judicial or administrative action the purpose of which action is to obtain damages under, or otherwise enforce, any federal, state or local law, regulation, by-law or ordinance, which has as its objective the regulation of residential premises; or exercising the tenant's rights pursuant to section one hundred and twenty-four D of chapter one hundred and sixty-four; or reporting to the board of health or, in the city of Boston to the commissioner of housing inspection or to any other board having as its objective the regulation of residential premises a violation or a suspected violation of any health or building code or of any other municipal by-law or ordinance, or state or federal law or regulation which has as its objective the regulation of residential premises; or reporting or complaining of such violation or suspected violation in writing to the landlord or to the agent of the landlord; or for organizing or joining a tenants' union or similar organization, or for making or expressing an intention to make, a payment of rent to an organization of unit owners pursuant to paragraph (c) of section six of chapter one hundred and eighty-three A shall be liable for damages which shall not be less than one month's rent or more than three month's rent, or the actual damages sustained by the tenant, whichever is greater, and the costs of the suit, including a reasonable attorney's fee.",
+   "summary": "Landlords who retaliate against tenants for reporting code violations, exercising legal rights, or organizing tenant unions are liable for damages of one to three months' rent or actual damages (whichever is greater), plus costs and attorney's fees.",
+   "key_value": "1-3 months' rent or actual damages, whichever is greater",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "The receipt of any notice of termination of tenancy, except for nonpayment of rent, or, of increase in rent, or, of any substantial alteration in the terms of tenancy within six months after the tenant has commenced, proceeded with, or obtained relief in such action, exercised such rights, made such report or complaint, or organized or joined such tenants' union or within six months after any other person has taken such action or actions on behalf of the tenant or in, or relating to, the building in which the tenant resides, shall create a rebuttable presumption that such notice or other action is a reprisal against the tenant for engaging in such activities.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": "Damages not less than one month's rent or more than three months' rent, or actual damages (whichever is greater), plus costs and reasonable attorney's fees"
+  }
+ ]
+}

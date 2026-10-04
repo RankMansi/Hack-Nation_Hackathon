@@ -1,6 +1,5 @@
 {
   "T1": {
-    "title": "California AB 325 / SB 763 takes effect",
     "affected_address_ids": [
       "A0001",
       "A0004",
@@ -254,33 +253,9 @@
       "A0500"
     ],
     "conflict_flag_address_ids": [],
-    "team_rule_ids": [
-      "r-0009"
-    ],
-    "before": {
-      "as_of": "2025-12-31",
-      "results": {
-        "applies": 0,
-        "unknown": 0,
-        "not_yet_effective": 250,
-        "pending": 0,
-        "superseded": 0
-      }
-    },
-    "after": {
-      "as_of": "2026-01-02",
-      "results": {
-        "applies": 250,
-        "unknown": 0,
-        "not_yet_effective": 0,
-        "pending": 0,
-        "superseded": 0
-      }
-    },
-    "notes": "Matched rules: r-0009 (Cal. Bus. & Prof. Code \u00a7 16729, effective 2026-01-01)."
+    "notes": "Matched rules: r-0013 (Cal. Bus. & Prof. Code \u00a7 16729, effective 2026-01-01)."
   },
   "T2": {
-    "title": "Hoboken vs Jersey City local algorithmic bans",
     "affected_address_ids": [
       "A0002",
       "A0008",
@@ -374,106 +349,9 @@
       "A0495"
     ],
     "conflict_flag_address_ids": [],
-    "by_rule": {
-      "HOB-ALG-01": [
-        "A0002",
-        "A0040",
-        "A0049",
-        "A0087",
-        "A0089",
-        "A0099",
-        "A0102",
-        "A0119",
-        "A0125",
-        "A0136",
-        "A0168",
-        "A0181",
-        "A0182",
-        "A0208",
-        "A0223",
-        "A0227",
-        "A0241",
-        "A0244",
-        "A0254",
-        "A0256",
-        "A0261",
-        "A0269",
-        "A0287",
-        "A0299",
-        "A0308",
-        "A0320",
-        "A0348",
-        "A0359",
-        "A0377",
-        "A0389",
-        "A0399",
-        "A0424",
-        "A0435",
-        "A0436",
-        "A0447",
-        "A0471",
-        "A0472",
-        "A0475",
-        "A0489",
-        "A0490"
-      ],
-      "JC-ALG-01": [
-        "A0008",
-        "A0012",
-        "A0017",
-        "A0026",
-        "A0032",
-        "A0042",
-        "A0047",
-        "A0051",
-        "A0078",
-        "A0101",
-        "A0108",
-        "A0116",
-        "A0131",
-        "A0139",
-        "A0160",
-        "A0161",
-        "A0163",
-        "A0171",
-        "A0177",
-        "A0185",
-        "A0186",
-        "A0187",
-        "A0243",
-        "A0250",
-        "A0265",
-        "A0266",
-        "A0270",
-        "A0279",
-        "A0288",
-        "A0321",
-        "A0325",
-        "A0344",
-        "A0350",
-        "A0360",
-        "A0372",
-        "A0388",
-        "A0393",
-        "A0394",
-        "A0404",
-        "A0410",
-        "A0415",
-        "A0416",
-        "A0418",
-        "A0438",
-        "A0450",
-        "A0455",
-        "A0459",
-        "A0462",
-        "A0482",
-        "A0495"
-      ]
-    },
-    "notes": "HOB-ALG-01 (Hoboken, NJ): no rule text in the supplied corpus (link-only source), so no rule was extracted and lookups.json does not report it; the 40 addresses the Census geocoder places inside Hoboken, NJ are listed as the boundary set. JC-ALG-01 (Jersey City, NJ): no rule text in the supplied corpus (link-only source), so no rule was extracted and lookups.json does not report it; the 50 addresses the Census geocoder places inside Jersey City, NJ are listed as the boundary set. Newark addresses in the affected set: 0."
+    "notes": "HOB-ALG-01: rules r-0093 reach 40 addresses. JC-ALG-01: rules r-0084 reach 50 addresses. Newark addresses in the affected set: 0."
   },
   "T3": {
-    "title": "NJ FAIR Act: enacted, not yet effective; possible preemption",
     "affected_address_ids": [
       "A0002",
       "A0003",
@@ -708,33 +586,9 @@
       "A0490",
       "A0495"
     ],
-    "team_rule_ids": [
-      "r-0027"
-    ],
-    "before": {
-      "as_of": "2026-10-01",
-      "results": {
-        "applies": 0,
-        "unknown": 0,
-        "not_yet_effective": 140,
-        "pending": 0,
-        "superseded": 0
-      }
-    },
-    "after": {
-      "as_of": "2027-07-02",
-      "results": {
-        "applies": 140,
-        "unknown": 0,
-        "not_yet_effective": 0,
-        "pending": 0,
-        "superseded": 0
-      }
-    },
-    "notes": "Matched rules: r-0027 (P.L. 2026, c.43, effective 2027-07-01). JC-ALG-01 (Jersey City, NJ) has no rule text in the supplied corpus (link-only source), so it was not extracted; its conflict set is the 50 affected addresses the Census geocoder places inside Jersey City, NJ. HOB-ALG-01 (Hoboken, NJ) has no rule text in the supplied corpus (link-only source), so it was not extracted; its conflict set is the 40 affected addresses the Census geocoder places inside Hoboken, NJ."
+    "notes": "Matched rules: r-0026 (P.L. 2026, c. 43, effective 2027-07-01)."
   },
   "T4": {
-    "title": "Massachusetts pending bills S.2983 and H.5222",
     "affected_address_ids": [
       "A0006",
       "A0009",
@@ -848,22 +702,11 @@
       "A0488"
     ],
     "conflict_flag_address_ids": [],
-    "team_rule_ids": [
-      "r-0037",
-      "r-0038"
-    ],
-    "notes": "Pending bills, never in force: r-0037 (H.5222), r-0038 (S.2983). Affected = addresses they would cover if enacted. Addresses reported as applies: 0."
+    "notes": "Pending bills, never in force: r-0040 (H.5222), r-0041 (S.2983). Affected = addresses they would cover if enacted. Addresses reported as applies: 0."
   },
   "T5": {
-    "title": "Massachusetts rent-control ballot question struck",
     "affected_address_ids": [],
     "conflict_flag_address_ids": [],
-    "notes": "Rent-cap rules reported for MA addresses: 0. Non-enacted measures recorded: r-0073 (H.3744, failed). Other MA rules in this category (e.g. a bar on local rent control) do not impose a cap: r-0028 (M.G.L. c. 40P \u00a7 4)."
-  },
-  "T6": {
-    "title": "New ordinance from data/incoming/",
-    "affected_address_ids": [],
-    "conflict_flag_address_ids": [],
-    "notes": "data/incoming/ is empty; no new ordinance to apply."
+    "notes": "Rent-cap rules reported for MA addresses: 0. Non-enacted measures recorded: r-0027 (Initiative Petition 25-21, failed), r-0103 (H.3744, failed). Other MA rules in this category (e.g. a bar on local rent control) do not impose a cap: r-0028 (M.G.L. c. 40P \u00a7 4)."
   }
 }

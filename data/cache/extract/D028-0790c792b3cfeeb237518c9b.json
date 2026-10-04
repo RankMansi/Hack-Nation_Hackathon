@@ -1,0 +1,31 @@
+{
+ "doc_id": "D028",
+ "model": "anthropic/claude-sonnet-4.5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Prohibition on Using or Distributing Common Pricing Algorithms to Collude or Coerce",
+   "citation": "Cal. Bus. & Prof. Code \u00a7 16729",
+   "quote": "Businesses are expressly prohibited from using or distributing common pricing algorithms as part of an agreement to restrain trade. Separately, businesses are also prohibited from using or offering common pricing algorithms if they coerce users to adopt the algorithm's recommendations on pricing or other commercial terms within California for the same or similar products or services.",
+   "summary": "California prohibits using or distributing common pricing algorithms (technology with two or more users that uses competitor information) as part of an agreement to restrain trade, or to coerce users to adopt algorithmic pricing recommendations.",
+   "key_value": null,
+   "effective_date": "2026-01-01",
+   "effective_date_evidence": "As of January 1, 2026, businesses are subject to the Cartwright Act's latest amendments, including an express prohibition on certain usages of pricing algorithms.",
+   "coverage_text": "A pricing algorithm is 'common' if it has two or more users and uses competitor data in setting pricing or commercial terms. The law does not affect a business that uses proprietary algorithms utilizing only the business's own data.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Single-firm algorithms using only a business's own data are not covered by the law.",
+   "penalty": "Criminal fines: greater of up to $6 million for businesses or twice the gain or loss; greater of up to $1 million for individuals or twice the gain or loss. Civil fines: up to $1 million based on statutory factors including nature, seriousness, duration, and willfulness of conduct."
+  }
+ ]
+}

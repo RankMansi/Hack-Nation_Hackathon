@@ -1,0 +1,34 @@
+doc_id,url,jurisdictions,retrieved_at,status,chars,reason
+D002,https://morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws,"Berkeley, CA",2026-10-04T09:58Z,ok,13280,
+D015,https://caanet.org/compliance-reminder-section-8-acceptance-and-criminal-background-checks-are-fair-housing-issues/,CA,2026-10-04T09:58Z,ok,6387,
+D017,https://california.public.law/codes/civil_code_section_1950.6,CA,2026-10-04T09:58Z,ok,7304,
+D018,https://law.justia.com/codes/california/code-civ/division-3/part-4/title-5/chapter-2/section-1946-2/,CA,2026-10-04T09:58Z,http_error,0,HTTP 403
+D019,https://law.justia.com/codes/california/code-civ/division-3/part-4/title-5/chapter-2/section-1947-12/,CA,2026-10-04T09:59Z,http_error,0,HTTP 403
+D020,https://law.justia.com/codes/california/code-civ/division-3/part-4/title-5/chapter-2/section-1950-5/,CA,2026-10-04T09:59Z,http_error,0,HTTP 403
+D021,https://law.justia.com/codes/california/code-gov/title-2/division-3/part-2-8/chapter-6/article-2/section-12955/,CA,2026-10-04T09:59Z,http_error,0,HTTP 403
+D028,https://www.clearygottlieb.com/news-and-insights/publication-listing/californias-antitrust-law-amendments-kick-in-targeting-algorithmic-pricing,CA,2026-10-04T09:59Z,ok,12186,
+D030,https://www.cambridgeday.com/?p=158097,"Cambridge, MA",2026-10-04T09:59Z,ok,7777,
+D032,https://ecode360.com/15252438,"Hoboken, NJ",2026-10-04T09:59Z,no_text,718,page returned no readable law text (script-rendered or blocked)
+D033,https://ecode360.com/15252470,"Hoboken, NJ",2026-10-04T09:59Z,ok,24648,
+D034,https://ecode360.com/46833413,"Hoboken, NJ",2026-10-04T09:59Z,ok,3476,
+D035,https://hudsoncountyview.com/jersey-city-council-approves-realpage-ban-and-increasing-benefits-for-laborers/,"Jersey City, NJ",2026-10-04T09:59Z,ok,7155,
+D037,https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws,"Jersey City, NJ",2026-10-04T09:59Z,ok,13280,
+D038,https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-322208,"Los Angeles, CA",2026-10-04T09:59Z,http_error,0,HTTP 403
+D044,https://members.aagla.org/news/city-of-la-security-deposit-interest-requirement,"Los Angeles, CA",2026-10-04T09:59Z,ok,5581,
+D054,https://masslandlords.net/can-massachusetts-landlords-charge-an-application-fee/,MA,2026-10-04T09:59Z,ok,8195,
+D055,https://massrealestatelawblog.com/tag/cella-v-attorney-general/,MA,2026-10-04T09:59Z,ok,11183,
+D056,https://www.mass.gov/doc/803-cmr-5-criminal-offender-record-information-cori-housing/download,MA,2026-10-04T09:59Z,http_error,0,HTTP 403
+D059,https://www.wbur.org/news/2026/06/23/massachusetts-high-court-rent-control-ballot-question-struck,MA,2026-10-04T09:59Z,ok,4173,
+D060,https://daypitney.com/new-jersey-enacts-fair-act-to-prohibit-algorithmic-rent-setting-practices,NJ,2026-10-04T09:59Z,ok,3310,
+D061,https://law.justia.com/codes/new-jersey/title-10/section-10-5-12/,NJ,2026-10-04T09:59Z,http_error,0,HTTP 403
+D062,https://law.justia.com/codes/new-jersey/title-2a/section-2a-18-61-1/,NJ,2026-10-04T10:00Z,http_error,0,HTTP 403
+D063,https://law.justia.com/codes/new-jersey/title-46/section-46-8-21-2/,NJ,2026-10-04T10:00Z,ok,3215,
+D064,https://law.justia.com/codes/new-jersey/title-46/section-46-8-26/,NJ,2026-10-04T10:00Z,http_error,0,HTTP 403
+D070,https://ecode360.com/36623772,"Newark, NJ",2026-10-04T10:00Z,ok,103788,
+D071,https://ecode360.com/36637822,"Newark, NJ",2026-10-04T10:00Z,ok,293249,
+D072,https://ecode360.com/36642000,"Newark, NJ",2026-10-04T10:00Z,ok,21686,
+D074,https://gocodebook.com/library/us/ca/san-diego-zoning/division-11-prohibition-of-anti-competitive-automated-rent-price-fixing/98.1103-use-and-sale-of-algorithmic-devices-prohibited,"San Diego, CA",2026-10-04T10:00Z,ok,3263,
+D075,https://gocodebook.com/library/us/ca/san-diego-zoning/division-8-prohibition-of-discrimination-based-on-a-tenant-s-source-of-income,"San Diego, CA",2026-10-04T10:00Z,ok,2540,
+D077,https://www.lassd.org/resource/city-of-san-diego-tenant-protection-ordinance/,"San Diego, CA",2026-10-04T10:00Z,ok,25501,
+D086,https://www.ocbj.com/real-estate/santa-ana-bans-landlords-from-using-ai-apartment-rent-pricing-software/,"Santa Ana, CA",2026-10-04T10:00Z,ok,8174,
+D087,https://www.publicceo.com/2026/02/santa-ana-city-council-continues-to-strengthen-tenant-protections-by-banning-anticompetitive-rent-setting-software/,"Santa Ana, CA",2026-10-04T10:00Z,ok,5010,

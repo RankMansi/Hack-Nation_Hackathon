@@ -1,0 +1,31 @@
+{
+ "doc_id": "D030",
+ "model": "anthropic/claude-sonnet-4.5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "Cambridge, MA",
+   "status": "pending",
+   "title": "Ban on algorithmic and AI-driven rent pricing software",
+   "citation": "Policy order passed by Cambridge City Council on June 21, 2026",
+   "quote": "City council also unanimously passed a policy order initiating steps to ban residential property management companies from contracting companies that use algorithmic and AI-driven models to recommend what they should charge for rent.",
+   "summary": "The city council passed a policy order to ban property management companies from using algorithmic and AI-driven software to set rents.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "Applies to residential property management companies in Cambridge",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

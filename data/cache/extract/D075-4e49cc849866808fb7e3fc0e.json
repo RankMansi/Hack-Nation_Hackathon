@@ -1,0 +1,33 @@
+{
+ "doc_id": "D075",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "Prohibition of Discrimination Based on a Tenant's Source of Income",
+   "citation": "San Diego Zoning Code Division 8 (\u00a7\u00a7 98.0801\u201398.0806)",
+   "quote": "Prohibition of Discrimination Based on a Tenant's Source of Income",
+   "summary": "San Diego prohibits discrimination against tenants based on their source of income when screening or selecting rental applicants.",
+   "key_value": null,
+   "effective_date": "2018-10-18",
+   "effective_date_evidence": "(\"Prohibition of Discrimination Based on a Tenant's Source of Income\" added 9-18-2018 by O\u201320986 N.S.; effective 10-18-2018.)",
+   "coverage_text": "Exceptions for Owner-Occupied Rental-Units",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "owner_type"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Owner-occupied rental units are excepted per \u00a7 98.0804",
+   "penalty": null
+  }
+ ]
+}

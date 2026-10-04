@@ -7,7 +7,7 @@ from collections import Counter
 
 from .apply import evaluate
 from .changes import match_rules
-from .config import CATEGORIES, OUTPUTS, CACHE
+from .config import CACHE, CATEGORIES, OUTPUTS, RAW
 from .extract import load_documents, normalize
 
 REQUIRED = ["team_rule_id", "jurisdiction", "level", "category", "status", "title", "requirement", "citation", "source_url", "quoted_span"]
@@ -75,8 +75,14 @@ def run() -> bool:
     jc_hob = {a for a in nj if stacks[a]["stack"]["city"] in ("Jersey City, NJ", "Hoboken, NJ")}
     ok &= line(set(t3["conflict_flag_address_ids"]) == jc_hob, f"T3 conflict flags = {len(jc_hob)} Jersey City + Hoboken addresses ({len(t3['conflict_flag_address_ids'])})")
     t4 = changes["T4"]
-    ok &= line(len(t4.get("team_rule_ids", [])) >= 2 and set(t4["affected_address_ids"]) == ma, f"T4 two pending bills {t4.get('team_rule_ids')}, affected = all {len(ma)} MA addresses ({len(t4['affected_address_ids'])})")
+    pending = [r for r in rules if r["jurisdiction"] == "MA" and r["category"] == "algorithmic_rent_setting" and r["status"] == "pending"]
+    ok &= line(len(pending) >= 2 and set(t4["affected_address_ids"]) == ma, f"T4 pending bills {[r['citation'] for r in pending]}, affected = all {len(ma)} MA addresses ({len(t4['affected_address_ids'])})")
     ok &= line(not changes["T5"]["affected_address_ids"], "T5 affected set is empty")
-    print(f"  T6: {len(changes['T6']['affected_address_ids'])} affected. {changes['T6']['notes']}")
+    allowed = {"affected_address_ids", "conflict_flag_address_ids", "notes"}
+    extra = {tid: sorted(set(v) - allowed) for tid, v in changes.items() if set(v) - allowed}
+    ok &= line(set(changes) == {"T1", "T2", "T3", "T4", "T5"} and not extra, f"changes.json is T1-T5 with only the template fields {extra or ''}")
+    schema = json.loads((RAW / "schema" / "rule_record.schema.json").read_text())
+    stray = sorted({k for r in rules for k in r if k not in schema["properties"]})
+    ok &= line(not stray, f"rules.json has only schema fields {stray or ''}")
     print(f"\ncheck: {'ALL PASS' if ok else 'SOME CHECKS FAILED'}")
     return ok

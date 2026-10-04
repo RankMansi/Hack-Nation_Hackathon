@@ -1,0 +1,42 @@
+{
+ "doc_id": "D008",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "rent_increase_limits",
+   "jurisdiction": "Berkeley, CA",
+   "status": "enacted",
+   "title": "2026 Annual General Adjustment (AGA) - 1.0% Rent Ceiling Increase",
+   "citation": "Rent Board Regulation 1148",
+   "quote": "At its regular meeting on October 16, 2025, the Berkeley Rent Stabilization Board adopted the Annual General Adjustment (AGA) Order for Year 2026 which will allow eligible landlords to increase the 2025 permanent rent ceilings by 1.0% no earlier than January 1, 2026. The 2026 AGA of 1.0% represents 65% of the increase in the Consumer Price Index (CPI) for All Urban Consumers in the Bay Area during the period from July 1, 2024 - June 30, 2025, which was 1.5% as posted by the Bureau of Labor Statistics.",
+   "summary": "Eligible landlords in Berkeley may increase rent ceilings by 1.0% (calculated as 65% of the Bay Area CPI increase) starting January 1, 2026.",
+   "key_value": "1.0%",
+   "effective_date": "2026-01-01",
+   "effective_date_evidence": "which will allow eligible landlords to increase the 2025 permanent rent ceilings by 1.0% no earlier than January 1, 2026",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "Berkeley Municipal Code section 13.76.110A",
+     "relation": "same_provision",
+     "evidence": "The 65% of CPI formula was approved by Berkeley voters in the November 2004 general municipal election. See Berkeley Municipal Code section 13.76.110A. for rules related to establishing the AGA."
+    }
+   ],
+   "coverage_text": "The 2026 AGA may not adjust tenants' rents when their tenancy began on or after January 1, 2025, and who had their rents set pursuant to the Costa-Hawkins Rental Housing Act.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": true,
+   "exemption_note": "Does not apply to tenants whose tenancy began on or after January 1, 2025 and who had their rents set pursuant to the Costa-Hawkins Rental Housing Act",
+   "penalty": null
+  }
+ ]
+}

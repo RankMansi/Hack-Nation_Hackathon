@@ -1,0 +1,67 @@
+{
+ "doc_id": "D077",
+ "model": "anthropic/claude-sonnet-4.5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "San Diego Residential Tenant Protection Ordinance - Just Cause Requirement",
+   "citation": "San Diego Municipal Code Chapter 9, Article 8, Division 7",
+   "quote": "The purpose of the Ordinance is to require Just Cause for termination of residential tenancies consistent with California Civil Code section 1946.2, to limit the reasons for termination of a residential tenancy, to require greater tenant relocation assistance in specified circumstances and to provide additional tenant protections.",
+   "summary": "Landlords must have just cause (either at-fault or no-fault reasons listed in the ordinance) to terminate a residential tenancy.",
+   "key_value": null,
+   "effective_date": "2023-06-24",
+   "effective_date_evidence": "The Ordinance goes into effect June 24, 2023.",
+   "coverage_text": "Housing that has been issued a certificate of occupancy within the previous 15 years, unless the dwelling is a mobilehome.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "use_code",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Exemptions include: owner-occupied single-family homes renting 2 or fewer rooms/units; owner-occupied duplexes; condos owned by individuals (with notice); transient hotels; short-term rentals (30 days or less); deed-restricted affordable housing (except Section 8 vouchers); mobilehomes subject to MRL; certain institutional housing; shared bathroom/kitchen with owner; corporate/REIT ownership ineligible for condo exemption.",
+   "penalty": "Tenant may seek injunctive relief, equitable relief, money damages including punitive damages; wrongful eviction damages of at least 3x actual economic damages; reasonable attorney's fees and costs."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "San Diego Tenant Protection Ordinance - No-Fault Eviction Relocation Assistance",
+   "citation": "San Diego Municipal Code \u00a7 98.0706(c)",
+   "quote": "Regardless of tenant's income or length of tenancy, Landlord must provide relocation assistance to the tenant by (1) direct payment to the tenant OR (2) waiver of the final months of rent due. The Landlord must provide Relocation Assistance to the Tenants in one of the following ways: A direct payment equal to two (2) months of the actual rent (contract rent) OR Waive in writing or not collect two (2) months of the actual rent (contract rent).",
+   "summary": "For no-fault evictions, landlords must provide relocation assistance equal to two months' rent (or three months' rent if the tenant is elderly or disabled) by direct payment or rent waiver.",
+   "key_value": "2 months' rent (3 months if elderly or disabled)",
+   "effective_date": "2023-06-24",
+   "effective_date_evidence": "The Ordinance goes into effect June 24, 2023.",
+   "coverage_text": "Housing that has been issued a certificate of occupancy within the previous 15 years, unless the dwelling is a mobilehome.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "use_code",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Same exemptions as just cause requirement. Applies only to no-fault just cause evictions (landlord move-in, withdrawal from rental market, government order, substantial remodel/demolition).",
+   "penalty": "If Landlord fails to provide relocation assistance under \u00a7 98.0706(c), Landlord is liable to the Tenant in a civil action of at least 3x the required relocation assistance AND actual economic damages."
+  }
+ ]
+}

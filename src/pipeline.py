@@ -21,9 +21,14 @@ def main() -> None:
 
     stacks = resolve.run()
     rules = adapt.to_schema(extract.run(refresh=args.refresh))
-    (OUTPUTS / "rules.json").write_text(json.dumps({"rules": rules}, indent=2))
+    schema = json.loads((RAW / "schema" / "rule_record.schema.json").read_text())
+    submitted = [{k: v for k, v in r.items() if k in schema["properties"]} for r in rules]
+    (OUTPUTS / "rules.json").write_text(json.dumps({"rules": submitted}, indent=2))
     (OUTPUTS / "lookups.json").write_text(json.dumps(apply.lookups(rules, stacks, DEFAULT_AS_OF), indent=2))
-    (OUTPUTS / "changes.json").write_text(json.dumps(changes.run(rules, stacks), indent=2))
+    raw_changes = changes.run(rules, stacks)
+    public = {tid: {"affected_address_ids": v["affected_address_ids"], "conflict_flag_address_ids": v.get("conflict_flag_address_ids", []), "notes": v.get("notes", "")}
+              for tid, v in raw_changes.items() if tid != "T6"}
+    (OUTPUTS / "changes.json").write_text(json.dumps(public, indent=2))
     print(f"wrote {OUTPUTS}/rules.json, lookups.json, changes.json")
     sys.exit(0 if check.run() else 1)
 

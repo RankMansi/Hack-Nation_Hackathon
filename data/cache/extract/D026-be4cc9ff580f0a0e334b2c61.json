@@ -1,0 +1,40 @@
+{
+ "doc_id": "D026",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "application_screening_fees",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Application screening fee cap and procedural requirements",
+   "citation": "Cal. Civ. Code \u00a7 1950.6",
+   "quote": "The amount of the application screening fee shall not be greater than the actual out-of-pocket costs of gathering information concerning the applicant, including, but not limited to, the cost of using a tenant screening service or a consumer credit reporting service, and the reasonable value of time spent by the landlord or their agent in obtaining information on the applicant. In no case shall the amount of the application screening fee charged by the landlord or their agent be greater than thirty dollars ($30) per applicant. The thirty dollar ($30) application screening fee may be adjusted annually by the landlord or their agent commensurate with an increase in the Consumer Price Index, beginning on January 1, 1998.",
+   "summary": "Landlords may charge an application screening fee up to thirty dollars ($30) per applicant, adjustable annually by the Consumer Price Index, to cover actual out-of-pocket costs of obtaining information about the applicant.",
+   "key_value": "$30 per applicant (CPI-adjusted)",
+   "effective_date": "2026-01-01",
+   "effective_date_evidence": "Effective January 1, 2026.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "AB 1170",
+     "relation": "amended_by",
+     "evidence": "Amended by Stats. 2025, Ch. 67, Sec. 29. (AB 1170) Effective January 1, 2026."
+    }
+   ],
+   "coverage_text": "Applies to residential rental property",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Not an advance fee under B&P Code \u00a7 10026; not security under \u00a7 1950.5; does not preempt federal/state housing assistance program rules",
+   "penalty": "Must return unused fees; must refund fees if application not considered within process requirements; must provide itemized receipt and credit report copy within 7 days"
+  }
+ ]
+}

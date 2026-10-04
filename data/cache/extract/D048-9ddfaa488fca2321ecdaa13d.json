@@ -1,0 +1,36 @@
+{
+ "doc_id": "D048",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "rent_increase_limits",
+   "jurisdiction": "MA",
+   "status": "enacted",
+   "title": "General prohibition on municipal rent control",
+   "citation": "M.G.L. c. 40P \u00a7 4",
+   "quote": "No city or town may enact, maintain or enforce rent control of any kind, except that any city or town that accepts this chapter may adopt rent control regulation that provides: (a) after six months from the date of the initial adoption of rent control regulation by a particular city or town, compliance on the part of property owners as to the rent control regulation or any subsequently adopted rent control regulation shall be entirely voluntary and uncoerced",
+   "summary": "Massachusetts cities and towns are prohibited from enacting or enforcing rent control, except that municipalities accepting this chapter may adopt rent control that becomes voluntary for property owners after six months.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 9,
+   "facts_required": [
+    "units"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Property owners with fewer than ten rental units are exempt; units with fair market rent exceeding $400 are exempt; compliance is voluntary after six months; municipality must compensate owners from general funds for the difference between fair market rent and controlled rent.",
+   "penalty": null
+  }
+ ]
+}

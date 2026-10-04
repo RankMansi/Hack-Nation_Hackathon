@@ -1,0 +1,31 @@
+{
+ "doc_id": "D060",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "NJ",
+   "status": "enacted",
+   "title": "FAIR Act \u2013 Prohibition on Algorithmic Rent-Setting Practices",
+   "citation": "P.L. 2026, c. 43",
+   "quote": "The FAIR Act prohibits residential rental property owners from using algorithmic revenue management software that collects or processes competitors' nonpublic leasing information to set or recommend rental prices. It also prohibits software providers and other \"coordinators\" from using such software to facilitate agreements or coordinate pricing among competing residential landlords.",
+   "summary": "Residential rental property owners cannot use algorithmic revenue management software that collects or processes competitors' nonpublic leasing information to set or recommend rental prices, and software providers cannot use such software to coordinate pricing among competing landlords.",
+   "key_value": null,
+   "effective_date": "2027-07-01",
+   "effective_date_evidence": "The FAIR Act takes effect on July 1, 2027, providing affected property owners, managers, and software providers time to review and, if necessary, modify their pricing practices before the law becomes effective.",
+   "coverage_text": "Applies to residential rental property owners, property managers, and software providers using algorithmic revenue management software that processes nonpublic, competitively sensitive information from multiple landlords.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "The act does not prohibit the use of certain technologies, including spreadsheets requiring human analysis, publicly available rent estimation tools, traditional real estate listing databases, and government-administered affordable housing programs.",
+   "penalty": "The FAIR Act requires the attorney general to establish a complaint portal on the Department of Law and Public Safety's website for alleged violations and preserves existing remedies under the New Jersey Antitrust Act."
+  }
+ ]
+}

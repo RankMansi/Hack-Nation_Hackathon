@@ -1,5 +1,6 @@
 """Local page. Reads outputs/rules.json and the cached stacks, calls apply.evaluate. Never calls the model or Census."""
 
+import csv
 import json
 import re
 from datetime import date
@@ -11,7 +12,7 @@ from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
 
 from .apply import evaluate
-from .config import CACHE, CATEGORIES, CATEGORY_LABELS, DEFAULT_AS_OF, OUTPUTS, ROOT, STATES
+from .config import CACHE, CATEGORIES, CATEGORY_LABELS, DEFAULT_AS_OF, FETCH_LOG, MANIFEST, OUTPUTS, ROOT, STATES
 
 app = FastAPI()
 PAGE = Template((ROOT / "web" / "index.html").read_text(encoding="utf-8"))
@@ -29,7 +30,13 @@ def load():
     rules_file, stacks_file = OUTPUTS / "rules.json", CACHE / "stacks.json"
     if not rules_file.exists() or not stacks_file.exists():
         return None, None
-    return json.loads(rules_file.read_text())["rules"], json.loads(stacks_file.read_text())
+    retrieved = {row["doc_id"]: row["retrieved_at"] for row in csv.DictReader(MANIFEST.open(encoding="utf-8"))}
+    if FETCH_LOG.exists():
+        retrieved.update({row["doc_id"]: row["retrieved_at"] for row in csv.DictReader(FETCH_LOG.open(encoding="utf-8")) if row["status"] == "ok"})
+    rules = json.loads(rules_file.read_text())["rules"]
+    for rule in rules:
+        rule["retrieved_at"] = retrieved.get(rule.get("source_doc_id"))
+    return rules, json.loads(stacks_file.read_text())
 
 
 def options(stacks: dict, selected: str) -> str:

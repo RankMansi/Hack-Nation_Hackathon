@@ -1,0 +1,31 @@
+{
+ "doc_id": "D034",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "Hoboken, NJ",
+   "status": "enacted",
+   "title": "Algorithmic rent fixing in rental housing market prohibited",
+   "citation": "Hoboken, NJ Code \u00a7 158-2",
+   "quote": "Landlords who rent any residential dwelling unit (defined as any primary residence excluding medical/long-term care or detention facilities) in the City of Hoboken are prohibited from price fixing using algorithmic pricing. For purposes of this chapter, \"price fixing using algorithmic pricing\" shall be defined as the use of software, algorithms, or data-sharing platforms to collect and analyze nonpublic competitor information from other real estate lessors in order to coordinate, recommend, or implement rental prices, lease terms, or occupancy levels for residential dwelling units among competing real estate lessors.",
+   "summary": "Landlords are prohibited from using software, algorithms, or data-sharing platforms to collect and analyze nonpublic competitor information to coordinate or set rental prices, lease terms, or occupancy levels.",
+   "key_value": null,
+   "effective_date": "2025-07-09",
+   "effective_date_evidence": "[Adopted 7-9-2025 by Ord. No. B-781]",
+   "coverage_text": "any residential dwelling unit (defined as any primary residence excluding medical/long-term care or detention facilities) in the City of Hoboken",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": "Fine not exceeding $2,000, or community service not exceeding 90 days, or penalties as prescribed under N.J.S.A. 40:49-5"
+  }
+ ]
+}

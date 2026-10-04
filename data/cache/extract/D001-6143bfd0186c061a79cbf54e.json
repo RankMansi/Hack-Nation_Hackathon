@@ -1,0 +1,34 @@
+{
+ "doc_id": "D001",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "Berkeley, CA",
+   "status": "enacted",
+   "title": "Prohibition on the Sale or Use of Coordinated Pricing Algorithms",
+   "citation": "Berkeley Municipal Code \u00a7 13.63.030",
+   "quote": "It shall be unlawful to sell, license, or otherwise provide to City of Berkeley landlords any coordinated pricing algorithm that sets or recommends rents or occupancy levels that may be achieved for residential dwelling units in the City of Berkeley. It shall be unlawful for a landlord to use a coordinated pricing algorithm described in subsection A when setting rents or occupancy levels for residential dwelling units in the City of Berkeley.",
+   "summary": "Berkeley prohibits landlords from using coordinated pricing algorithms to set rents or occupancy levels for residential units, and prohibits selling such algorithms to Berkeley landlords.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [],
+   "coverage_text": "residential dwelling units in the City of Berkeley",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Exempts products that publish aggregated and anonymous rental data without recommending prices; products used for affordable housing rent limits; and products for market research, appraisals, or software development/testing that don't use competitor data as operational inputs.",
+   "penalty": "Civil penalties up to $1,000 per violation; each separate month and each separate dwelling unit constitutes a distinct violation. Aggrieved tenants or City Attorney may file civil actions for damages, injunctive relief, restitution, and attorney's fees."
+  }
+ ]
+}

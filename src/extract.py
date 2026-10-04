@@ -11,9 +11,10 @@ from pathlib import Path
 
 import anthropic
 
-from .config import CACHE, CATEGORIES, CORPUS_DIR, DEFAULT_AS_OF, INCOMING, JURISDICTIONS, MANIFEST, OUTPUTS
+from .config import CACHE, CATEGORIES, CORPUS_DIR, DEFAULT_AS_OF, FETCH_LOG, FETCHED, INCOMING, JURISDICTIONS, MANIFEST, OUTPUTS
+from .dates import resolve_effective
 
-PROMPT_VERSION = "v4"
+PROMPT_VERSION = "v5"
 CHUNK_LIMIT = 48_000
 CHUNK_TARGET = 40_000
 FACTS = ["year_built", "units", "owner_type", "use_code", "other"]
@@ -173,6 +174,13 @@ def load_documents() -> list[dict]:
                 "retrieved_at": row["retrieved_at"],
                 "incoming": False,
             })
+    if FETCH_LOG.exists():
+        with FETCH_LOG.open(newline="", encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                path = FETCHED / f"{row['doc_id']}.txt"
+                if row["status"] == "ok" and path.exists():
+                    docs.append({"doc_id": row["doc_id"], "path": path, "hint": row["jurisdictions"], "url": row["url"],
+                                 "retrieved_at": row["retrieved_at"], "incoming": False})
     for path in sorted(INCOMING.glob("*.txt")):
         text = path.read_text(encoding="utf-8")
         url = re.search(r"^SOURCE:\s*(\S+)", text, re.M)
@@ -217,7 +225,19 @@ def cache_path(model: str, doc: dict) -> Path:
     return CACHE / "extract" / f"{doc['doc_id']}-{key}.json"
 
 
-def extract_doc(client, model: str, doc: dict, refresh: bool) -> dict:
+def make_client() -> anthropic.Anthropic:
+    or_key = (os.environ.get("OPENROUTER_API_KEY") or "").strip()
+    if or_key:
+        return anthropic.Anthropic(
+            base_url="https://openrouter.ai/api",
+            api_key=or_key,
+            max_retries=4,
+        )
+    return anthropic.Anthropic(max_retries=4)
+
+
+def extract_doc(client, model: str, doc: dict, refresh: bool, *, api_model: str | None = None) -> dict:
+    api_model = api_model or model
     text = doc["path"].read_text(encoding="utf-8")
     cache_file = cache_path(model, doc)
     if cache_file.exists() and not refresh:
@@ -227,14 +247,14 @@ def extract_doc(client, model: str, doc: dict, refresh: bool) -> dict:
         last_err = None
         for _ in range(3):
             try:
-                raw.extend(call_model(client, model, doc, part))
+                raw.extend(call_model(client, api_model, doc, part))
                 last_err = None
                 break
             except Exception as e:  # noqa: BLE001
                 last_err = e
         if last_err:
             raise last_err
-    record = {"doc_id": doc["doc_id"], "model": model, "prompt_version": PROMPT_VERSION, "rules": raw}
+    record = {"doc_id": doc["doc_id"], "model": api_model, "prompt_version": PROMPT_VERSION, "rules": raw}
     cache_file.parent.mkdir(parents=True, exist_ok=True)
     cache_file.write_text(json.dumps(record, indent=1))
     return record
@@ -261,6 +281,10 @@ def validate(raw: dict, doc: dict, text: str, audit: list) -> dict | None:
             rule[k] = None
     ev = rule.get("effective_date_evidence")
     rule["effective_date_evidence"] = ground_quote(ev, text) if ev else None
+    kept_date, why = resolve_effective(rule.get("effective_date"), text)
+    if rule.get("effective_date") != kept_date:
+        audit.append({"doc_id": doc["doc_id"], "decision": "effective_date", "citation": rule.get("citation"), "claimed": rule.get("effective_date"), "kept": kept_date, "reason": why})
+    rule["effective_date"] = kept_date
     rule["facts_required"] = [f for f in rule.get("facts_required") or [] if f in FACTS]
     rule.update(source_doc_id=doc["doc_id"], source_url=doc["url"], retrieved_at=doc["retrieved_at"], incoming=doc["incoming"])
     rule["_hint_match"] = rule["jurisdiction"].split(",")[0] in doc["hint"]
@@ -292,16 +316,22 @@ def run(refresh: bool = False) -> list[dict]:
     model = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-5")
     docs = load_documents()
     misses = [d for d in docs if refresh or not cache_path(model, d).exists()]
-    if misses and not os.environ.get("ANTHROPIC_API_KEY"):
-        raise SystemExit(f"ANTHROPIC_API_KEY is not set and {len(misses)} documents need the model. Put it in .env and run with `uv run --env-file .env ...`.")
-    client = anthropic.Anthropic(max_retries=4) if misses else None
-    print(f"extract: {len(docs)} documents with model {model} ({len(misses)} model calls, {len(docs) - len(misses)} cached)")
+    or_key = (os.environ.get("OPENROUTER_API_KEY") or "").strip()
+    ant_key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
+    api_model = (os.environ.get("OPENROUTER_MODEL") or model) if or_key else model
+    if misses and not or_key and not ant_key:
+        raise SystemExit(
+            f"No API key set and {len(misses)} documents need the model. "
+            "Set OPENROUTER_API_KEY or ANTHROPIC_API_KEY in .env and run with `uv run --env-file .env ...`."
+        )
+    client = make_client() if misses else None
+    print(f"extract: {len(docs)} documents with model {api_model} ({len(misses)} model calls, {len(docs) - len(misses)} cached)")
 
     failures, audit, kept = [], [], []
 
     def work(doc):
         try:
-            return doc, extract_doc(client, model, doc, refresh), None
+            return doc, extract_doc(client, model, doc, refresh, api_model=api_model), None
         except Exception as e:  # noqa: BLE001
             return doc, None, e
 

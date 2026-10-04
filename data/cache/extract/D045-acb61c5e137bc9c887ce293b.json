@@ -1,0 +1,40 @@
+{
+ "doc_id": "D045",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "MA",
+   "status": "pending",
+   "title": "An Act relative to preventing algorithmic rent fixing in the rental housing market",
+   "citation": "H.5222",
+   "quote": "An Act relative to preventing algorithmic rent fixing in the rental housing market",
+   "summary": "This bill would address algorithmic rent fixing in the rental housing market.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "H1564",
+     "relation": "amends",
+     "evidence": "New draft of H1564"
+    }
+   ],
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

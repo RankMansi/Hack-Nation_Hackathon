@@ -1,0 +1,143 @@
+{
+ "doc_id": "D027",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v5",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Prohibition on source-of-income discrimination in housing",
+   "citation": "Cal. Gov. Code \u00a7 12955",
+   "quote": "It shall be unlawful: (a) For the owner of any housing accommodation to discriminate against or harass any person because of the race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, marital status, national origin, ancestry, familial status, source of income, disability, veteran or military status, or genetic information of that person.",
+   "summary": "Housing providers may not discriminate against or harass tenants or applicants because of their source of income.",
+   "key_value": null,
+   "effective_date": "2024-01-01",
+   "effective_date_evidence": "Effective January 1, 2024.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "SB 267",
+     "relation": "amended_by",
+     "evidence": "Amended by Stats. 2023, Ch. 776, Sec. 1.   (SB 267)   Effective January 1, 2024."
+    }
+   ],
+   "coverage_text": "Applies to any housing accommodation",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  },
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Income standard must account for aggregate income of unmarried persons living together",
+   "citation": "Cal. Gov. Code \u00a7 12955",
+   "quote": "To use a financial or income standard in the rental of housing that fails to account for the aggregate income of persons residing together or proposing to reside together on the same basis as the aggregate income of married persons residing together or proposing to reside together.",
+   "summary": "Housing providers must count the combined income of unmarried people living together the same way they count the combined income of married couples.",
+   "key_value": null,
+   "effective_date": "2024-01-01",
+   "effective_date_evidence": "Effective January 1, 2024.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "SB 267",
+     "relation": "amended_by",
+     "evidence": "Amended by Stats. 2023, Ch. 776, Sec. 1.   (SB 267)   Effective January 1, 2024."
+    }
+   ],
+   "coverage_text": "Applies to any housing accommodation",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  },
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Income standards for rent-subsidized tenants must be based on tenant's portion of rent",
+   "citation": "Cal. Gov. Code \u00a7 12955",
+   "quote": "In instances in which there is a government rent subsidy, to do either of the following: (A) Use a financial or income standard in assessing eligibility for the rental of housing that is not based on the portion of the rent to be paid by the tenant.",
+   "summary": "When an applicant has a government rent subsidy, landlords must base income requirements on only the portion of rent the tenant will pay, not the total rent.",
+   "key_value": null,
+   "effective_date": "2024-01-01",
+   "effective_date_evidence": "Effective January 1, 2024.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "SB 267",
+     "relation": "amended_by",
+     "evidence": "Amended by Stats. 2023, Ch. 776, Sec. 1.   (SB 267)   Effective January 1, 2024."
+    }
+   ],
+   "coverage_text": "Applies when there is a government rent subsidy",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  },
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Alternative evidence of ability to pay for rent-subsidized applicants instead of credit history",
+   "citation": "Cal. Gov. Code \u00a7 12955",
+   "quote": "Use a person's credit history as part of the application process for a rental accommodation without offering the applicant the option, at the applicant's discretion, of providing lawful, verifiable alternative evidence of the applicant's reasonable ability to pay the portion of the rent to be paid by the tenant, including, but not limited to, government benefit payments, pay records, and bank statements.",
+   "summary": "For applicants with a government rent subsidy, landlords using credit checks must allow the applicant to instead provide alternative evidence of their ability to pay their portion of rent, such as government benefit payments, pay records, or bank statements.",
+   "key_value": null,
+   "effective_date": "2024-01-01",
+   "effective_date_evidence": "Effective January 1, 2024.",
+   "effective_until": null,
+   "effective_until_evidence": null,
+   "related_citations": [
+    {
+     "citation": "SB 267",
+     "relation": "amended_by",
+     "evidence": "Amended by Stats. 2023, Ch. 776, Sec. 1.   (SB 267)   Effective January 1, 2024."
+    }
+   ],
+   "coverage_text": "Applies when there is a government rent subsidy",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}
