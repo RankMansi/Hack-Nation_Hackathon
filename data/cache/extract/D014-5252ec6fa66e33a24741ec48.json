@@ -1,0 +1,33 @@
+{
+ "doc_id": "D014",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Boston, MA",
+   "status": "enacted",
+   "title": "Housing Stability Notification Act - Notice of Tenants' Rights and Resources Required",
+   "citation": "Boston City Ordinances Sec. 10-11.7",
+   "quote": "The Housing Stability Notification Act (HSNA) is an Ordinance passed by the City of Boston in October 2020 that requires any landlord planning to end a tenancy agreement to provide the tenant with a Notice of Tenants' Rights and Resources. The HSNA requires that landlords give this Notice of Tenants' Rights and Resources to tenants when the landlord starts the eviction process, or when the landlord decides to not offer the tenant a renewal of their lease agreement.",
+   "summary": "Landlords must provide tenants with a Notice of Tenants' Rights and Resources when starting an eviction or when deciding not to renew a lease.",
+   "key_value": null,
+   "effective_date": "2020-11-06",
+   "effective_date_evidence": "The HSNA becomes effective on November 6, 2020.",
+   "coverage_text": "Applies to all landlords/foreclosing owners intending to end a tenancy or post-foreclosure occupancy of a unit in the City of Boston. Exempt properties are residences in any hospital, skilled nursing facility or health facility; and in a non-profit facility whose primary purpose is providing short-term treatment, assistance or therapy for alcohol, drug, or other substance abuse.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "use_code",
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Exempts hospitals, skilled nursing facilities, health facilities, and non-profit substance abuse treatment facilities",
+   "penalty": "1st Offense: Warning; 2nd and Subsequent Offenses: $300 per day"
+  }
+ ]
+}

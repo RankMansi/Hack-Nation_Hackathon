@@ -1,0 +1,30 @@
+{
+ "doc_id": "D076",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "Prohibition of Anti-Competitive Automated Rent Price-Fixing",
+   "citation": "San Diego Municipal Code \u00a7\u00a7 98.1101-98.1104",
+   "quote": "It is unlawful for a person to sell, license, or otherwise provide an algorithmic device to a landlord. It is unlawful for a landlord to use an algorithmic device to set rental rates or occupancy levels for residential rental property.",
+   "summary": "It is illegal for anyone to sell or provide algorithmic rent-setting software to landlords, and it is illegal for landlords to use such software to set rental rates or occupancy levels for residential rental properties.",
+   "key_value": "Complete ban",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "Applies to all residential rental property in the City of San Diego",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "exemption_note": "Does not include software that publishes reports using aggregated historical nonpublic competitor data more than 90 days old or public information without recommending rental rates; or software used to establish rental rates in accordance with affordable housing program guidelines.",
+   "penalty": "Tenant may seek injunctive relief, damages, or civil penalties of up to $1,000 per violation. Each month a violation exists or continues, and for each residential rental property a landlord uses an algorithmic device, constitutes a separate and distinct violation. Prevailing tenant recovers costs and reasonable attorney's fees."
+  }
+ ]
+}

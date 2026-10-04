@@ -1,0 +1,36 @@
+{
+ "doc_id": "D024",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "rent_increase_limits",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Statewide rent cap (AB 1482 / Civil Code \u00a7 1947.12)",
+   "citation": "Cal. Civ. Code \u00a7 1947.12",
+   "quote": "Subject to subdivision (b), an owner of residential real property shall not, over the course of any 12-month period, increase the gross rental rate for a dwelling or a unit more than 5 percent plus the percentage change in the cost of living, or 10 percent, whichever is lower, of the lowest gross rental rate charged for that dwelling or unit at any time during the 12 months prior to the effective date of the increase.",
+   "summary": "Landlords cannot increase rent more than 5% plus the local CPI change, or 10%, whichever is lower, over any 12-month period.",
+   "key_value": "5% + CPI, max 10%",
+   "effective_date": "2024-04-01",
+   "effective_date_evidence": "This section shall become operative on April 1, 2024.",
+   "coverage_text": "Residential real property means any dwelling or unit that is intended for human habitation, including any dwelling or unit in a mobilehome park.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": true,
+   "caps_rent": true,
+   "exemption_note": "Exemptions include: housing with certificate of occupancy within previous 15 years (except mobilehomes); deed-restricted affordable housing; dormitories; single-family homes and condos owned by non-corporate entities who provide required notice; duplexes where owner occupies one unit; and housing subject to local rent control that is more restrictive.",
+   "penalty": "Tenant may sue for injunctive relief, damages equal to excess rent, attorney's fees, and up to treble damages if willful. Attorney General or local government may also enforce and seek injunctive relief. Three-year statute of limitations."
+  }
+ ]
+}

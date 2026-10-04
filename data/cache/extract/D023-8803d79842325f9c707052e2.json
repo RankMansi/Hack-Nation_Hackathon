@@ -1,0 +1,65 @@
+{
+ "doc_id": "D023",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "California Statewide Just Cause Eviction Requirement",
+   "citation": "Cal. Civ. Code \u00a7 1946.2",
+   "quote": "Notwithstanding any other law, after a tenant has continuously and lawfully occupied a residential real property for 12 months, the owner of the residential real property shall not terminate a tenancy without just cause, which shall be stated in the written notice to terminate tenancy.",
+   "summary": "After 12 months of continuous lawful occupancy, landlords must have just cause (either at-fault or no-fault) to terminate a tenancy and must state the cause in writing.",
+   "key_value": null,
+   "effective_date": "2024-04-01",
+   "effective_date_evidence": "This section shall become operative on April 1, 2024.",
+   "coverage_text": "Housing that has been issued a certificate of occupancy within the previous 15 years, unless the housing is a mobilehome, is exempt. Single-family owner-occupied residences renting no more than two units or bedrooms are exempt. A property containing two separate dwelling units within a single structure in which the owner occupied one of the units as the owner's principal place of residence at the beginning of the tenancy is exempt (up to 2 units). Alienable residential real property (condos) owned by individuals (not REITs, corporations, or LLCs with corporate members) are exempt if proper notice is provided.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": true,
+   "caps_rent": false,
+   "exemption_note": "Exemptions include: transient/tourist hotels, certain institutional housing, dormitories, shared bathroom/kitchen with owner, single-family owner-occupied residences (\u22642 units), duplex with owner-occupied unit, housing <15 years old (except mobilehomes), alienable single units owned by natural persons (with notice), deed-restricted affordable housing, mobilehome owners (not renters).",
+   "penalty": "An owner who attempts to recover possession of a rental unit in material violation of this section shall be liable to the tenant in a civil action for actual damages, reasonable attorney's fees and costs in the court's discretion, and upon a showing that the owner has acted willfully or with oppression, fraud, or malice, up to three times the actual damages and punitive damages."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "California No-Fault Just Cause Eviction Relocation Assistance",
+   "citation": "Cal. Civ. Code \u00a7 1946.2",
+   "quote": "For a tenancy for which just cause is required to terminate the tenancy under subdivision (a), if an owner of residential real property issues a termination notice based on a no-fault just cause described in paragraph (2) of subdivision (b), the owner shall, regardless of the tenant's income, at the owner's option, do one of the following: (A) Assist the tenant to relocate by providing a direct payment to the tenant as described in paragraph (3). (B) Waive in writing the payment of rent for the final month of the tenancy, prior to the rent becoming due.",
+   "summary": "When a landlord terminates a tenancy for a no-fault just cause reason, the landlord must provide relocation assistance equal to one month's rent or waive the final month's rent.",
+   "key_value": "1 month's rent",
+   "effective_date": "2024-04-01",
+   "effective_date_evidence": "This section shall become operative on April 1, 2024.",
+   "coverage_text": "Applies to residential real property subject to just cause eviction requirements under this section (same exemptions as the just cause requirement apply).",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Same exemptions as the just cause eviction requirement. Relocation assistance is credited against any other relocation assistance required by any other law.",
+   "penalty": "An owner's failure to strictly comply with this subdivision shall render the notice of termination void."
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "doc_id": "D012",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "Boston, MA",
+   "status": "enacted",
+   "title": "Boston source-of-income protection for rental assistance recipients",
+   "citation": "Boston Fair Housing Regulations (enforced by Fair Housing Commission)",
+   "quote": "In the City of Boston, it's illegal to discriminate when renting, buying, selling, or securing financing for any housing. You can't discriminate someone based on their: Race Color Religion Disability National Origin Ancestry Sex Gender Identity Gender Expression Age Sexual Orientation Marital Status Rental Assistance",
+   "summary": "Boston prohibits housing discrimination based on rental assistance, meaning landlords cannot refuse tenants who use Section 8 vouchers or other rental assistance.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "All housing in the City of Boston",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": "The Fair Housing Commission investigates complaints and tries to resolve findings of discrimination"
+  }
+ ]
+}

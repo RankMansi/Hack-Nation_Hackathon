@@ -1,0 +1,61 @@
+{
+ "doc_id": "D003",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "Berkeley, CA",
+   "status": "enacted",
+   "title": "Ronald V. Dellums Fair Chance Access to Housing Ordinance - Criminal History Ban",
+   "citation": "Berkeley Municipal Code \u00a7 13.106",
+   "quote": "The Fair Chance Access to Housing Ordinance prohibits rental housing providers in Berkeley from asking about and using criminal history and/or criminal background checks in their rental housing advertising, applications, tenant selection process, or decision-making.",
+   "summary": "Landlords in Berkeley are prohibited from asking about or using criminal history in advertising, applications, tenant selection, or decision-making.",
+   "key_value": null,
+   "effective_date": "2020-04-14",
+   "effective_date_evidence": "On April 14, 2020, Berkeley City Council passed the Fair Chance Access to Housing Ordinance (BMC 13.106).",
+   "coverage_text": "Exemptions include: lifetime sex offenders; public housing/Section 8 properties (limited); owner-occupied properties (1-3 units) where owner resides as primary residence; units under rental agreement allowing owners to move back; units with existing tenants seeking to sublet or add/replace roommates.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 3,
+   "facts_required": [
+    "owner_type",
+    "units",
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Owner-occupied properties between 1-3 units where owner of record resides in one unit as primary residence are exempt. Lifetime sex offenders exempt. Limited exemptions for public housing/Section 8.",
+   "penalty": "Administrative fines of at least $1,000 and up to $10,000 per violation, civil damages including actual damages or three times the amount of one month's rent, punitive damages, attorneys' fees and costs, and injunctive relief."
+  },
+  {
+   "category": "security_deposits",
+   "jurisdiction": "Berkeley, CA",
+   "status": "enacted",
+   "title": "Fair Chance Access to Housing - Security Deposit Protection",
+   "citation": "Berkeley Municipal Code \u00a7 13.106",
+   "quote": "It is unlawful to do any of the following with regard to current or prospective tenants: Demand a higher security deposit or rental amount based on criminal history",
+   "summary": "Landlords cannot demand a higher security deposit based on criminal history.",
+   "key_value": null,
+   "effective_date": "2020-04-14",
+   "effective_date_evidence": "On April 14, 2020, Berkeley City Council passed the Fair Chance Access to Housing Ordinance (BMC 13.106).",
+   "coverage_text": "Exemptions include: lifetime sex offenders; public housing/Section 8 properties (limited); owner-occupied properties (1-3 units) where owner resides as primary residence; units under rental agreement allowing owners to move back; units with existing tenants seeking to sublet or add/replace roommates.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 3,
+   "facts_required": [
+    "owner_type",
+    "units",
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Owner-occupied properties between 1-3 units where owner of record resides in one unit as primary residence are exempt. Lifetime sex offenders exempt. Limited exemptions for public housing/Section 8.",
+   "penalty": "Administrative fines of at least $1,000 and up to $10,000 per violation, civil damages including actual damages or three times the amount of one month's rent, punitive damages, attorneys' fees and costs, and injunctive relief."
+  }
+ ]
+}

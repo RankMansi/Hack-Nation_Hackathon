@@ -1,0 +1,31 @@
+{
+ "doc_id": "D058",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "MA",
+   "status": "enacted",
+   "title": "Notice to quit for nonpayment of rent - required form and disclosures",
+   "citation": "M.G.L. c. 186 \u00a7 31",
+   "quote": "A notice to quit for nonpayment of rent given in writing by a landlord to a residential tenant pursuant to this chapter shall be accompanied by a form that shall include, but not be limited to: (i) documentation of any agreements between the tenant and landlord for the tenant to repay the landlord for nonpayment of rent; and (ii) information on: (1) rental assistance programs including, but not limited to, the residential assistance for families in transition program; (2) applicable trial court rules, standing orders or emergency administrative orders pertaining to actions for summary process; and (3) any relevant federal or state legal restrictions on residential evictions.",
+   "summary": "A landlord giving a notice to quit for nonpayment of rent must attach a state-developed form with information about repayment agreements, rental assistance programs, court rules, and eviction restrictions.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "residential tenant",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": "No court having jurisdiction over an action for summary process pursuant to chapter 239, including the Boston municipal court department, shall, in an eviction for nonpayment of rent for a residential dwelling unit, accept for filing a writ, summons or complaint without proof of delivery of the form required under this section."
+  }
+ ]
+}

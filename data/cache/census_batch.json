@@ -1,0 +1,2924 @@
+{
+ "A0119": {
+  "matched_address": "607 ADAMS ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.035368051004,
+  "lat": 40.744671445285
+ },
+ "A0117": {
+  "matched_address": "1733 N CHEROKEE AVE, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.334821278665,
+  "lat": 34.102120911287
+ },
+ "A0238": {
+  "matched_address": "15256 ACRE ST, NORTH HILLS, CA, 91343",
+  "match_type": "Non_Exact",
+  "lon": -118.465059354597,
+  "lat": 34.229903219394
+ },
+ "A0359": {
+  "matched_address": "925 PARK AVE, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.030402774821,
+  "lat": 40.748092459219
+ },
+ "A0118": {
+  "matched_address": "34 KINGBIRD RD, DORCHESTER, MA, 02124",
+  "match_type": "Non_Exact",
+  "lon": -71.093533488467,
+  "lat": 42.292350464404
+ },
+ "A0239": {
+  "matched_address": "1476 UNIVERSITY AVE, BERKELEY, CA, 94702",
+  "match_type": "Exact",
+  "lon": -122.282479272768,
+  "lat": 37.870240703252
+ },
+ "A0111": {
+  "matched_address": "10075 TUJUNGA CANYON BLVD, TUJUNGA, CA, 91042",
+  "match_type": "Non_Exact",
+  "lon": -118.284430355327,
+  "lat": 34.249924250911
+ },
+ "A0232": {
+  "matched_address": "189 3RD ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Exact",
+  "lon": -71.080956110328,
+  "lat": 42.367926768436
+ },
+ "A0353": {
+  "matched_address": "1044 E JEFFERSON BLVD, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.257806027731,
+  "lat": 34.012089330967
+ },
+ "A0474": {
+  "matched_address": "3438 MCKINLEY AVE, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.260382953065,
+  "lat": 34.012650923784
+ },
+ "A0112": {
+  "matched_address": "448 BRODERICK ST, SAN FRANCISCO, CA, 94117",
+  "match_type": "Exact",
+  "lon": -122.439298239317,
+  "lat": 37.77431322716
+ },
+ "A0233": {
+  "matched_address": "30 MEDFIELD ST, BOSTON, MA, 02215",
+  "match_type": "Exact",
+  "lon": -71.105981333095,
+  "lat": 42.345263577025
+ },
+ "A0354": {
+  "matched_address": "73 LUBEC ST, EAST BOSTON, MA, 02128",
+  "match_type": "Exact",
+  "lon": -71.033000779013,
+  "lat": 42.370721531914
+ },
+ "A0475": {
+  "matched_address": "361 1ST ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.035828506414,
+  "lat": 40.73824152843
+ },
+ "A0230": {
+  "matched_address": "85 HANCOCK ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.10823462185,
+  "lat": 42.36894090845
+ },
+ "A0351": {
+  "matched_address": "628 HYDE ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.41643664948,
+  "lat": 37.786610489702
+ },
+ "A0472": {
+  "matched_address": "321 WILLOW AVE, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.033572724402,
+  "lat": 40.740882326316
+ },
+ "A0110": {
+  "matched_address": "132 2ND AVE, NEWARK, NJ, 07104",
+  "match_type": "Non_Exact",
+  "lon": -74.174745021871,
+  "lat": 40.763265479466
+ },
+ "A0231": {
+  "matched_address": "521 ARGUELLO BLVD, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.458904742326,
+  "lat": 37.780784398048
+ },
+ "A0473": {
+  "matched_address": "20 PHILLIPS ST, BOSTON, MA, 02114",
+  "match_type": "Exact",
+  "lon": -71.067296757754,
+  "lat": 42.360298905905
+ },
+ "A0236": {
+  "matched_address": "1110 JACKSON ST, SAN FRANCISCO, CA, 94133",
+  "match_type": "Exact",
+  "lon": -122.41341354471,
+  "lat": 37.795227211112
+ },
+ "A0478": {
+  "matched_address": "3860 CHEROKEE AVE, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.114420057856,
+  "lat": 32.748446614415
+ },
+ "A0116": {
+  "matched_address": "36 PROSPECT ST, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.049245065733,
+  "lat": 40.73782973401
+ },
+ "A0237": {
+  "matched_address": "36 VALLEY ST, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.423160521356,
+  "lat": 37.744772339215
+ },
+ "A0358": {
+  "matched_address": "717 N 6TH ST, NEWARK, NJ, 07107",
+  "match_type": "Non_Exact",
+  "lon": -74.179007529056,
+  "lat": 40.773922773441
+ },
+ "A0479": {
+  "matched_address": "12948 MOORPARK ST, STUDIO CITY, CA, 91604",
+  "match_type": "Non_Exact",
+  "lon": -118.415275590675,
+  "lat": 34.150301392175
+ },
+ "A0113": {
+  "matched_address": "3151 ETON AVE, BERKELEY, CA, 94705",
+  "match_type": "Exact",
+  "lon": -122.250637537308,
+  "lat": 37.853156920269
+ },
+ "A0234": {
+  "matched_address": "2212 BLAKE ST, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.26472014852,
+  "lat": 37.863354369764
+ },
+ "A0355": {
+  "matched_address": "10701 AMESTOY AVE, GRANADA HILLS, CA, 91344",
+  "match_type": "Non_Exact",
+  "lon": -118.506705841287,
+  "lat": 34.264856666784
+ },
+ "A0476": {
+  "matched_address": "28 COTTAGE ST, NEWARK, NJ, 07102",
+  "match_type": "Non_Exact",
+  "lon": -74.171964638319,
+  "lat": 40.728822422354
+ },
+ "A0114": {
+  "matched_address": "3743 INDIA ST, SAN DIEGO, CA, 92103",
+  "match_type": "Exact",
+  "lon": -117.180736253153,
+  "lat": 32.74279009558
+ },
+ "A0235": {
+  "matched_address": "6736 SELMA AVE, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.337259232832,
+  "lat": 34.099644694718
+ },
+ "A0356": {
+  "matched_address": "16 BRAINERD RD, ALLSTON, MA, 02134",
+  "match_type": "Exact",
+  "lon": -71.130629546012,
+  "lat": 42.348858680092
+ },
+ "A0477": {
+  "matched_address": "2250 MISSION ST, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.419353294864,
+  "lat": 37.761016013708
+ },
+ "A0360": {
+  "matched_address": "140 NEW YORK AVE, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.047111900025,
+  "lat": 40.741104245751
+ },
+ "A0481": {
+  "matched_address": "536 LEAVENWORTH ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.414634028725,
+  "lat": 37.786028326648
+ },
+ "A0240": {
+  "matched_address": "4135 38TH ST, SAN DIEGO, CA, 92105",
+  "match_type": "Exact",
+  "lon": -117.111779263182,
+  "lat": 32.752138713798
+ },
+ "A0361": {
+  "matched_address": "15 BERKSHIRE ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Exact",
+  "lon": -71.092040596292,
+  "lat": 42.368426537915
+ },
+ "A0482": {
+  "matched_address": "101 CLIFTON PL, JERSEY CITY, NJ, 07304",
+  "match_type": "Non_Exact",
+  "lon": -74.06487503221,
+  "lat": 40.721027897402
+ },
+ "A0480": {
+  "matched_address": "4046 43RD ST, SAN DIEGO, CA, 92105",
+  "match_type": "Non_Exact",
+  "lon": -117.102033252477,
+  "lat": 32.750481775488
+ },
+ "A0108": {
+  "matched_address": "13 JEFFERSON AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.049970012264,
+  "lat": 40.736287315576
+ },
+ "A0109": {
+  "matched_address": "2922 OTIS ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.270269918923,
+  "lat": 37.8558347046
+ },
+ "A0106": {
+  "matched_address": "250 FREMONT ST, SAN FRANCISCO, CA, 94105",
+  "match_type": "Exact",
+  "lon": -122.394074444911,
+  "lat": 37.788294915739
+ },
+ "A0227": {
+  "matched_address": "1401 HUDSON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.025132220092,
+  "lat": 40.752162276083
+ },
+ "A0348": {
+  "matched_address": "229 CLINTON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.034849797859,
+  "lat": 40.739876679452
+ },
+ "A0469": {
+  "matched_address": "2701 SHATTUCK AVE, BERKELEY, CA, 94705",
+  "match_type": "Exact",
+  "lon": -122.266948509568,
+  "lat": 37.860021095027
+ },
+ "A0107": {
+  "matched_address": "10635 SHERMAN GROVE AVE, SUNLAND, CA, 91040",
+  "match_type": "Non_Exact",
+  "lon": -118.32017657606,
+  "lat": 34.262255890509
+ },
+ "A0228": {
+  "matched_address": "225 COLLINGWOOD ST, SAN FRANCISCO, CA, 94114",
+  "match_type": "Exact",
+  "lon": -122.43584550357,
+  "lat": 37.758806229242
+ },
+ "A0349": {
+  "matched_address": "2400 DANA ST, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.261163802946,
+  "lat": 37.866568691092
+ },
+ "A0100": {
+  "matched_address": "4732 BANCROFT ST, SAN DIEGO, CA, 92116",
+  "match_type": "Exact",
+  "lon": -117.123977567896,
+  "lat": 32.764095185337
+ },
+ "A0221": {
+  "matched_address": "191 PARK DR, BOSTON, MA, 02215",
+  "match_type": "Exact",
+  "lon": -71.100162328229,
+  "lat": 42.341033010088
+ },
+ "A0342": {
+  "matched_address": "49 ROSELAND ST, CAMBRIDGE, MA, 02140",
+  "match_type": "Exact",
+  "lon": -71.116972926785,
+  "lat": 42.386748328179
+ },
+ "A0463": {
+  "matched_address": "4 BEECHWOOD ST, DORCHESTER, MA, 02121",
+  "match_type": "Exact",
+  "lon": -71.074772762892,
+  "lat": 42.30507257807
+ },
+ "A0101": {
+  "matched_address": "319 FAIRMOUNT AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.070809872433,
+  "lat": 40.725229747686
+ },
+ "A0222": {
+  "matched_address": "1901 VALLEJO ST, SAN FRANCISCO, CA, 94123",
+  "match_type": "Exact",
+  "lon": -122.428597910742,
+  "lat": 37.795996387914
+ },
+ "A0464": {
+  "matched_address": "98 DABNEY ST, ROXBURY, MA, 02119",
+  "match_type": "Non_Exact",
+  "lon": -71.084731974369,
+  "lat": 42.324057161703
+ },
+ "A0340": {
+  "matched_address": "14735 ROSCOE BLVD, PANORAMA CITY, CA, 91402",
+  "match_type": "Non_Exact",
+  "lon": -118.454598749429,
+  "lat": 34.22154746833
+ },
+ "A0461": {
+  "matched_address": "735 11TH AVE, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.469251256406,
+  "lat": 37.774456141897
+ },
+ "A0220": {
+  "matched_address": "23 FAULKNER ST, DORCHESTER, MA, 02122",
+  "match_type": "Non_Exact",
+  "lon": -71.061535322591,
+  "lat": 42.29951865269
+ },
+ "A0341": {
+  "matched_address": "4225 50TH ST, SAN DIEGO, CA, 92115",
+  "match_type": "Exact",
+  "lon": -117.086787563421,
+  "lat": 32.753521698227
+ },
+ "A0462": {
+  "matched_address": "128 ST PAULS AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.05676729519,
+  "lat": 40.736518619808
+ },
+ "A0104": {
+  "matched_address": "409 N 5TH ST, NEWARK, NJ, 07107",
+  "match_type": "Non_Exact",
+  "lon": -74.184328525177,
+  "lat": 40.761814283797
+ },
+ "A0225": {
+  "matched_address": "1627 JACKSON ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.421842293682,
+  "lat": 37.794030087633
+ },
+ "A0467": {
+  "matched_address": "24 ST ALBANS RD, BOSTON, MA, 02115",
+  "match_type": "Exact",
+  "lon": -71.106997184859,
+  "lat": 42.333878417918
+ },
+ "A0105": {
+  "matched_address": "140 PORTOLA DR, SAN FRANCISCO, CA, 94131",
+  "match_type": "Exact",
+  "lon": -122.444191229026,
+  "lat": 37.748652213279
+ },
+ "A0226": {
+  "matched_address": "663 MASSACHUSETTS AVE, BOSTON, MA, 02118",
+  "match_type": "Exact",
+  "lon": -71.0764696579,
+  "lat": 42.335912589034
+ },
+ "A0347": {
+  "matched_address": "2142 2ND AVE, SAN DIEGO, CA, 92101",
+  "match_type": "Exact",
+  "lon": -117.163065698172,
+  "lat": 32.727653319366
+ },
+ "A0468": {
+  "matched_address": "13 SHEPARD ST, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.121015754447,
+  "lat": 42.381661514871
+ },
+ "A0102": {
+  "matched_address": "124 BLOOMFIELD ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.031684861444,
+  "lat": 40.737933172158
+ },
+ "A0223": {
+  "matched_address": "504 COURT ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.028940035026,
+  "lat": 40.742214718476
+ },
+ "A0344": {
+  "matched_address": "242 GARFIELD AVE, JERSEY CITY, NJ, 07305",
+  "match_type": "Non_Exact",
+  "lon": -74.091122112815,
+  "lat": 40.692246111645
+ },
+ "A0465": {
+  "matched_address": "141 OXFORD ST, CAMBRIDGE, MA, 02140",
+  "match_type": "Exact",
+  "lon": -71.116210705332,
+  "lat": 42.385287646163
+ },
+ "A0103": {
+  "matched_address": "2161 ALLSTON WAY, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.266218694007,
+  "lat": 37.869701586713
+ },
+ "A0224": {
+  "matched_address": "8727 TOBIAS AVE, PANORAMA CITY, CA, 91402",
+  "match_type": "Non_Exact",
+  "lon": -118.451718756162,
+  "lat": 34.228507480493
+ },
+ "A0345": {
+  "matched_address": "153 W VERNON AVE, LOS ANGELES, CA, 90037",
+  "match_type": "Exact",
+  "lon": -118.275158399166,
+  "lat": 34.003875826453
+ },
+ "A0466": {
+  "matched_address": "115 NORWAY ST, BOSTON, MA, 02115",
+  "match_type": "Exact",
+  "lon": -71.088829313111,
+  "lat": 42.345351761852
+ },
+ "A0470": {
+  "matched_address": "1919 CURTIS ST, BERKELEY, CA, 94702",
+  "match_type": "Exact",
+  "lon": -122.289620577483,
+  "lat": 37.870650504933
+ },
+ "A0350": {
+  "matched_address": "1051 W SIDE AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.070961149168,
+  "lat": 40.735168801416
+ },
+ "A0471": {
+  "matched_address": "334 GARDEN ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.031817207369,
+  "lat": 40.74074767044
+ },
+ "A0018": {
+  "matched_address": "1906 BONITA AVE, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.272116073506,
+  "lat": 37.873088577747
+ },
+ "A0139": {
+  "matched_address": "54 STUYVESANT AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.071034378592,
+  "lat": 40.729943720291
+ },
+ "A0019": {
+  "matched_address": "3820 HAINES ST, SAN DIEGO, CA, 92109",
+  "match_type": "Exact",
+  "lon": -117.239511773112,
+  "lat": 32.788734586305
+ },
+ "A0012": {
+  "matched_address": "1064 SUMMIT AVE, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.048775549263,
+  "lat": 40.751188750138
+ },
+ "A0133": {
+  "matched_address": "8819 LANKERSHIM BLVD, SUN VALLEY, CA, 91352",
+  "match_type": "Non_Exact",
+  "lon": -118.387834588124,
+  "lat": 34.229428423859
+ },
+ "A0254": {
+  "matched_address": "805 WASHINGTON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.028189698217,
+  "lat": 40.746063788663
+ },
+ "A0375": {
+  "matched_address": "1880 FULTON ST, SAN FRANCISCO, CA, 94117",
+  "match_type": "Exact",
+  "lon": -122.447766948778,
+  "lat": 37.775695071124
+ },
+ "A0496": {
+  "matched_address": "512 32ND ST, SAN DIEGO, CA, 92102",
+  "match_type": "Exact",
+  "lon": -117.125336741291,
+  "lat": 32.710782090084
+ },
+ "A0013": {
+  "matched_address": "137 N 11TH ST, NEWARK, NJ, 07107",
+  "match_type": "Exact",
+  "lon": -74.191694841632,
+  "lat": 40.759893850085
+ },
+ "A0134": {
+  "matched_address": "101 NORFOLK ST, DORCHESTER, MA, 02124",
+  "match_type": "Exact",
+  "lon": -71.076008765993,
+  "lat": 42.288488914986
+ },
+ "A0255": {
+  "matched_address": "851 E 51ST ST, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.260152086488,
+  "lat": 33.996666263731
+ },
+ "A0497": {
+  "matched_address": "3750 29TH ST, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.131053086987,
+  "lat": 32.74637529596
+ },
+ "A0010": {
+  "matched_address": "134 OXFORD ST, CAMBRIDGE, MA, 02140",
+  "match_type": "Exact",
+  "lon": -71.1160583909,
+  "lat": 42.385333082376
+ },
+ "A0131": {
+  "matched_address": "43 POPLAR ST, JERSEY CITY, NJ, 07307",
+  "match_type": "Exact",
+  "lon": -74.046101194189,
+  "lat": 40.754136146986
+ },
+ "A0252": {
+  "matched_address": "15514 CHASE ST, NORTH HILLS, CA, 91343",
+  "match_type": "Non_Exact",
+  "lon": -118.470326035112,
+  "lat": 34.224605812398
+ },
+ "A0373": {
+  "matched_address": "1315 SPRUCE ST, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.266249122343,
+  "lat": 37.883557224033
+ },
+ "A0494": {
+  "matched_address": "2641 FRANKLIN ST, SAN FRANCISCO, CA, 94123",
+  "match_type": "Exact",
+  "lon": -122.425776460433,
+  "lat": 37.798725772954
+ },
+ "A0011": {
+  "matched_address": "836 RAYMOND BLVD, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.156177797252,
+  "lat": 40.732646449965
+ },
+ "A0132": {
+  "matched_address": "587 N 6TH ST, NEWARK, NJ, 07107",
+  "match_type": "Non_Exact",
+  "lon": -74.181410596224,
+  "lat": 40.76934816412
+ },
+ "A0253": {
+  "matched_address": "2250 N POINT ST, SAN FRANCISCO, CA, 94123",
+  "match_type": "Exact",
+  "lon": -122.444275084577,
+  "lat": 37.802722582821
+ },
+ "A0374": {
+  "matched_address": "686 S ARDMORE AVE, LOS ANGELES, CA, 90005",
+  "match_type": "Exact",
+  "lon": -118.301920522459,
+  "lat": 34.060247782434
+ },
+ "A0495": {
+  "matched_address": "230 VAN HORNE ST, JERSEY CITY, NJ, 07304",
+  "match_type": "Non_Exact",
+  "lon": -74.063078920845,
+  "lat": 40.713022199008
+ },
+ "A0016": {
+  "matched_address": "3515 FILLMORE ST, SAN FRANCISCO, CA, 94123",
+  "match_type": "Exact",
+  "lon": -122.436684852142,
+  "lat": 37.801874337429
+ },
+ "A0137": {
+  "matched_address": "71 NORFOLK ST, NEWARK, NJ, 07103",
+  "match_type": "Non_Exact",
+  "lon": -74.182685493475,
+  "lat": 40.74650540714
+ },
+ "A0258": {
+  "matched_address": "471 COLUMBIA RD, DORCHESTER, MA, 02125",
+  "match_type": "Exact",
+  "lon": -71.067499784037,
+  "lat": 42.314021035494
+ },
+ "A0379": {
+  "matched_address": "1336 BRUNNER ST, SAN DIEGO, CA, 92110",
+  "match_type": "Exact",
+  "lon": -117.189895788824,
+  "lat": 32.769172247535
+ },
+ "A0017": {
+  "matched_address": "225 DUNCAN AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.079234576768,
+  "lat": 40.7277629714
+ },
+ "A0138": {
+  "matched_address": "1033 E 51ST ST, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.257577562794,
+  "lat": 33.996685074769
+ },
+ "A0259": {
+  "matched_address": "872 N POINT ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.421551166436,
+  "lat": 37.805617181224
+ },
+ "A0014": {
+  "matched_address": "5907 CAHUENGA BLVD, NORTH HOLLYWOOD, CA, 91601",
+  "match_type": "Non_Exact",
+  "lon": -118.361636078081,
+  "lat": 34.177801731811
+ },
+ "A0135": {
+  "matched_address": "843 CLAY ST, SAN FRANCISCO, CA, 94108",
+  "match_type": "Exact",
+  "lon": -122.40698604858,
+  "lat": 37.794118952125
+ },
+ "A0256": {
+  "matched_address": "327 JACKSON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.0400671093,
+  "lat": 40.742101329412
+ },
+ "A0377": {
+  "matched_address": "206 BLOOMFIELD ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.031363571985,
+  "lat": 40.738998730944
+ },
+ "A0498": {
+  "matched_address": "686 SUMMER AVE, NEWARK, NJ, 07104",
+  "match_type": "Non_Exact",
+  "lon": -74.163386701052,
+  "lat": 40.775387981092
+ },
+ "A0015": {
+  "matched_address": "15 EVERETT ST, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.118720021347,
+  "lat": 42.379980886163
+ },
+ "A0136": {
+  "matched_address": "920 HUDSON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.026733524669,
+  "lat": 40.747367988246
+ },
+ "A0257": {
+  "matched_address": "5 COMMER CT, SAN FRANCISCO, CA, 94124",
+  "match_type": "Exact",
+  "lon": -122.384674255589,
+  "lat": 37.732351895037
+ },
+ "A0378": {
+  "matched_address": "4053 IDAHO ST, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.133775905803,
+  "lat": 32.751323560417
+ },
+ "A0499": {
+  "matched_address": "8519 WILLIS AVE, PANORAMA CITY, CA, 91402",
+  "match_type": "Non_Exact",
+  "lon": -118.455356959313,
+  "lat": 34.225076986186
+ },
+ "A0140": {
+  "matched_address": "459 BEACON ST, BOSTON, MA, 02115",
+  "match_type": "Exact",
+  "lon": -71.088098655836,
+  "lat": 42.351156189935
+ },
+ "A0261": {
+  "matched_address": "525 ADAMS ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.03569006655,
+  "lat": 40.743627056924
+ },
+ "A0382": {
+  "matched_address": "119 DAY ST, SAN FRANCISCO, CA, 94131",
+  "match_type": "Exact",
+  "lon": -122.425132126354,
+  "lat": 37.742927740317
+ },
+ "A0020": {
+  "matched_address": "648 N 6TH ST, NEWARK, NJ, 07107",
+  "match_type": "Non_Exact",
+  "lon": -74.180587460657,
+  "lat": 40.771224225449
+ },
+ "A0141": {
+  "matched_address": "2601 43RD AVE, SAN FRANCISCO, CA, 94116",
+  "match_type": "Exact",
+  "lon": -122.501210314083,
+  "lat": 37.73813158911
+ },
+ "A0262": {
+  "matched_address": "2924 JUNIPER ST, SAN DIEGO, CA, 92104",
+  "match_type": "Non_Exact",
+  "lon": -117.13126954968,
+  "lat": 32.729713456435
+ },
+ "A0383": {
+  "matched_address": "1908 CALIFORNIA ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.280023113182,
+  "lat": 37.872036512971
+ },
+ "A0260": {
+  "matched_address": "2479 LE CONTE AVE, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.261370866713,
+  "lat": 37.87682628993
+ },
+ "A0381": {
+  "matched_address": "523 MARKET ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.155856508272,
+  "lat": 40.732015014036
+ },
+ "A0007": {
+  "matched_address": "4257 SAN PEDRO PL, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.271165204282,
+  "lat": 34.006235579229
+ },
+ "A0249": {
+  "matched_address": "500 HAWTHORNE AVE, NEWARK, NJ, 07112",
+  "match_type": "Non_Exact",
+  "lon": -74.215280471054,
+  "lat": 40.719775769166
+ },
+ "A0008": {
+  "matched_address": "1065 SUMMIT AVE, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.049026204465,
+  "lat": 40.751069898526
+ },
+ "A0129": {
+  "matched_address": "532 MULBERRY ST, NEWARK, NJ, 07114",
+  "match_type": "Non_Exact",
+  "lon": -74.176858130312,
+  "lat": 40.719764997574
+ },
+ "A0001": {
+  "matched_address": "6238 DE LONGPRE AVE, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.324865073863,
+  "lat": 34.096133031379
+ },
+ "A0122": {
+  "matched_address": "4812 S BROADWAY, LOS ANGELES, CA, 90037",
+  "match_type": "Exact",
+  "lon": -118.278252342985,
+  "lat": 33.999020066962
+ },
+ "A0243": {
+  "matched_address": "664 OCEAN AVE, JERSEY CITY, NJ, 07305",
+  "match_type": "Exact",
+  "lon": -74.076659540243,
+  "lat": 40.709014299361
+ },
+ "A0485": {
+  "matched_address": "302 WESTERN AVE, CAMBRIDGE, MA, 02139",
+  "match_type": "Non_Exact",
+  "lon": -71.112809787533,
+  "lat": 42.364518126675
+ },
+ "A0002": {
+  "matched_address": "1035 CLINTON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.03181724923,
+  "lat": 40.74981078208
+ },
+ "A0123": {
+  "matched_address": "123 CONDOR ST, EAST BOSTON, MA, 02128",
+  "match_type": "Exact",
+  "lon": -71.035437146913,
+  "lat": 42.382539410028
+ },
+ "A0244": {
+  "matched_address": "1126 HUDSON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.025921583962,
+  "lat": 40.75007710711
+ },
+ "A0365": {
+  "matched_address": "3940 IDAHO ST, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.13391504862,
+  "lat": 32.749235987165
+ },
+ "A0486": {
+  "matched_address": "2280 MISSION ST, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.419309809634,
+  "lat": 37.760560895514
+ },
+ "A0120": {
+  "matched_address": "139 ELM ST, NEWARK, NJ, 07105",
+  "match_type": "Exact",
+  "lon": -74.165047104124,
+  "lat": 40.72835234588
+ },
+ "A0241": {
+  "matched_address": "913 GARDEN ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.029507685512,
+  "lat": 40.747790932129
+ },
+ "A0362": {
+  "matched_address": "368 RIVERWAY, BOSTON, MA, 02115",
+  "match_type": "Non_Exact",
+  "lon": -71.110791246894,
+  "lat": 42.334291810524
+ },
+ "A0483": {
+  "matched_address": "1580 MARKET ST, SAN FRANCISCO, CA, 94102",
+  "match_type": "Exact",
+  "lon": -122.420119239496,
+  "lat": 37.774588554781
+ },
+ "A0121": {
+  "matched_address": "4079 FRONT ST, SAN DIEGO, CA, 92103",
+  "match_type": "Exact",
+  "lon": -117.16494526813,
+  "lat": 32.751421595306
+ },
+ "A0242": {
+  "matched_address": "87 SIERRA RD, HYDE PARK, MA, 02136",
+  "match_type": "Non_Exact",
+  "lon": -71.126219924108,
+  "lat": 42.23648761117
+ },
+ "A0363": {
+  "matched_address": "2451 SHATTUCK AVE, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.267324831145,
+  "lat": 37.864690284096
+ },
+ "A0005": {
+  "matched_address": "1609 ADDISON ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.279293972449,
+  "lat": 37.869830696926
+ },
+ "A0126": {
+  "matched_address": "1350 POTRERO AVE, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.406250403098,
+  "lat": 37.750954392609
+ },
+ "A0247": {
+  "matched_address": "4957 CAPE MAY AVE, SAN DIEGO, CA, 92107",
+  "match_type": "Exact",
+  "lon": -117.248171449465,
+  "lat": 32.748875084016
+ },
+ "A0368": {
+  "matched_address": "1430 FRANCISCO ST, SAN FRANCISCO, CA, 94123",
+  "match_type": "Exact",
+  "lon": -122.428752796943,
+  "lat": 37.802780409256
+ },
+ "A0489": {
+  "matched_address": "204 GRAND ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.036041272823,
+  "lat": 40.739786868515
+ },
+ "A0006": {
+  "matched_address": "71 WESTLAND AVE, BOSTON, MA, 02115",
+  "match_type": "Non_Exact",
+  "lon": -71.08876547331,
+  "lat": 42.343794186875
+ },
+ "A0127": {
+  "matched_address": "10029 N SEPULVEDA BLVD, MISSION HILLS, CA, 91345",
+  "match_type": "Non_Exact",
+  "lon": -118.467596873721,
+  "lat": 34.252367056179
+ },
+ "A0248": {
+  "matched_address": "941 S KENMORE AVE, LOS ANGELES, CA, 90006",
+  "match_type": "Exact",
+  "lon": -118.296589306557,
+  "lat": 34.054561165408
+ },
+ "A0369": {
+  "matched_address": "3260 CALIFORNIA ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.276013172823,
+  "lat": 37.848609498456
+ },
+ "A0003": {
+  "matched_address": "878 S 14TH ST, NEWARK, NJ, 07108",
+  "match_type": "Non_Exact",
+  "lon": -74.210426110952,
+  "lat": 40.724856764464
+ },
+ "A0124": {
+  "matched_address": "35 BROOKLINE ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Non_Exact",
+  "lon": -71.102457805365,
+  "lat": 42.362941773312
+ },
+ "A0245": {
+  "matched_address": "30 W HOWELL ST, DORCHESTER, MA, 02125",
+  "match_type": "Non_Exact",
+  "lon": -71.059503187262,
+  "lat": 42.325356355842
+ },
+ "A0366": {
+  "matched_address": "230 EVERETT ST, EAST BOSTON, MA, 02128",
+  "match_type": "Exact",
+  "lon": -71.030306589214,
+  "lat": 42.365643672949
+ },
+ "A0487": {
+  "matched_address": "2118 FILLMORE ST, SAN FRANCISCO, CA, 94115",
+  "match_type": "Exact",
+  "lon": -122.433810595937,
+  "lat": 37.789124926129
+ },
+ "A0004": {
+  "matched_address": "10050 MOUNTAIR AVE, TUJUNGA, CA, 91042",
+  "match_type": "Non_Exact",
+  "lon": -118.293109199528,
+  "lat": 34.251842346844
+ },
+ "A0125": {
+  "matched_address": "227 GRAND ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.035814894303,
+  "lat": 40.740020460669
+ },
+ "A0246": {
+  "matched_address": "4386 COPELAND AVE, SAN DIEGO, CA, 92105",
+  "match_type": "Exact",
+  "lon": -117.104047557974,
+  "lat": 32.756800937083
+ },
+ "A0367": {
+  "matched_address": "219 S 35TH ST, SAN DIEGO, CA, 92113",
+  "match_type": "Exact",
+  "lon": -117.118695602941,
+  "lat": 32.704217966085
+ },
+ "A0488": {
+  "matched_address": "197 BEACON ST, BOSTON, MA, 02116",
+  "match_type": "Exact",
+  "lon": -71.076768182377,
+  "lat": 42.354230756113
+ },
+ "A0250": {
+  "matched_address": "211 BALDWIN AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.060120792112,
+  "lat": 40.729192320523
+ },
+ "A0371": {
+  "matched_address": "80 BRUEN ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.166930355672,
+  "lat": 40.730337311596
+ },
+ "A0492": {
+  "matched_address": "800 S HARVARD BLVD, LOS ANGELES, CA, 90005",
+  "match_type": "Exact",
+  "lon": -118.304091662787,
+  "lat": 34.057623861111
+ },
+ "A0130": {
+  "matched_address": "554 MARKET ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.154426811823,
+  "lat": 40.731588087906
+ },
+ "A0251": {
+  "matched_address": "4663 33RD ST, SAN DIEGO, CA, 92116",
+  "match_type": "Exact",
+  "lon": -117.122794711786,
+  "lat": 32.762436259509
+ },
+ "A0372": {
+  "matched_address": "314 7TH ST, JERSEY CITY, NJ, 07302",
+  "match_type": "Exact",
+  "lon": -74.047955557321,
+  "lat": 40.726486238182
+ },
+ "A0493": {
+  "matched_address": "4450 GEARY BLVD, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.466976349979,
+  "lat": 37.781029854011
+ },
+ "A0490": {
+  "matched_address": "526 ADAMS ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.035830171347,
+  "lat": 40.743676400471
+ },
+ "A0370": {
+  "matched_address": "2222 TOBERMAN ST, LOS ANGELES, CA, 90007",
+  "match_type": "Exact",
+  "lon": -118.281203744904,
+  "lat": 34.034721924415
+ },
+ "A0491": {
+  "matched_address": "37 IRVING ST, NEWARK, NJ, 07104",
+  "match_type": "Exact",
+  "lon": -74.158667478138,
+  "lat": 40.778727063623
+ },
+ "A0317": {
+  "matched_address": "2233 CHANNING WAY, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.264363578265,
+  "lat": 37.866269484742
+ },
+ "A0438": {
+  "matched_address": "62 CAMBRIDGE AVE, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.048682819823,
+  "lat": 40.744904276955
+ },
+ "A0318": {
+  "matched_address": "2041 FRANCISCO ST, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.270236431385,
+  "lat": 37.875520264007
+ },
+ "A0439": {
+  "matched_address": "225 25TH AVE, SAN FRANCISCO, CA, 94121",
+  "match_type": "Exact",
+  "lon": -122.485184671551,
+  "lat": 37.78525700396
+ },
+ "A0315": {
+  "matched_address": "5233 CARTWRIGHT AVE, NORTH HOLLYWOOD, CA, 91601",
+  "match_type": "Non_Exact",
+  "lon": -118.363242167449,
+  "lat": 34.165516896714
+ },
+ "A0436": {
+  "matched_address": "832 WILLOW AVE, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.031844915269,
+  "lat": 40.747085607112
+ },
+ "A0316": {
+  "matched_address": "3978 FLORIDA ST, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.143805824838,
+  "lat": 32.749889290623
+ },
+ "A0437": {
+  "matched_address": "2969 SAN MARINO ST, LOS ANGELES, CA, 90006",
+  "match_type": "Exact",
+  "lon": -118.293871486247,
+  "lat": 34.05457350989
+ },
+ "A0319": {
+  "matched_address": "2315 GRANT ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.27469711854,
+  "lat": 37.866407956138
+ },
+ "A0430": {
+  "matched_address": "1950 ADDISON ST, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.272637519825,
+  "lat": 37.870562012406
+ },
+ "A0310": {
+  "matched_address": "55 ASHFORD ST, ALLSTON, MA, 02134",
+  "match_type": "Non_Exact",
+  "lon": -71.126531334249,
+  "lat": 42.354497619427
+ },
+ "A0431": {
+  "matched_address": "245 EUCLID AVE, SAN DIEGO, CA, 92114",
+  "match_type": "Exact",
+  "lon": -117.084936538347,
+  "lat": 32.706728960145
+ },
+ "A0313": {
+  "matched_address": "319 W RUNYON ST, NEWARK, NJ, 07108",
+  "match_type": "Non_Exact",
+  "lon": -74.209161967359,
+  "lat": 40.719489638436
+ },
+ "A0434": {
+  "matched_address": "1225 HYDE ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.417712027591,
+  "lat": 37.792202707791
+ },
+ "A0314": {
+  "matched_address": "6640 LELAND WAY, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.334062631211,
+  "lat": 34.096954047102
+ },
+ "A0435": {
+  "matched_address": "310 MONROE ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.039361820557,
+  "lat": 40.741775604922
+ },
+ "A0311": {
+  "matched_address": "38 SOMME ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.150647497602,
+  "lat": 40.731405439225
+ },
+ "A0432": {
+  "matched_address": "14605 RAYEN ST, PANORAMA CITY, CA, 91402",
+  "match_type": "Non_Exact",
+  "lon": -118.450479396041,
+  "lat": 34.231842925425
+ },
+ "A0312": {
+  "matched_address": "25 ORLANDO ST, MATTAPAN, MA, 02126",
+  "match_type": "Exact",
+  "lon": -71.0991080589,
+  "lat": 42.274643004403
+ },
+ "A0433": {
+  "matched_address": "720 W 27TH ST, LOS ANGELES, CA, 90007",
+  "match_type": "Exact",
+  "lon": -118.278944633921,
+  "lat": 34.028044141305
+ },
+ "A0306": {
+  "matched_address": "335A HARVARD ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Non_Exact",
+  "lon": -71.109090354517,
+  "lat": 42.370715584888
+ },
+ "A0427": {
+  "matched_address": "7665 W FOUNTAIN AVE, LOS ANGELES, CA, 90046",
+  "match_type": "Non_Exact",
+  "lon": -118.356732566622,
+  "lat": 34.094477803207
+ },
+ "A0307": {
+  "matched_address": "296 VAN BUREN ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.16080945112,
+  "lat": 40.721814664163
+ },
+ "A0304": {
+  "matched_address": "4541 HAMILTON ST, SAN DIEGO, CA, 92116",
+  "match_type": "Exact",
+  "lon": -117.136296909949,
+  "lat": 32.759898286948
+ },
+ "A0425": {
+  "matched_address": "650 POST ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.412614041685,
+  "lat": 37.787814500247
+ },
+ "A0305": {
+  "matched_address": "638 45TH AVE, SAN FRANCISCO, CA, 94121",
+  "match_type": "Exact",
+  "lon": -122.505895195699,
+  "lat": 37.776456954836
+ },
+ "A0426": {
+  "matched_address": "1307 COLUSA ST, SAN DIEGO, CA, 92110",
+  "match_type": "Exact",
+  "lon": -117.190773729749,
+  "lat": 32.768532440161
+ },
+ "A0308": {
+  "matched_address": "1032 HUDSON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.026323440877,
+  "lat": 40.748749351079
+ },
+ "A0429": {
+  "matched_address": "12 BLACKWOOD ST, BOSTON, MA, 02115",
+  "match_type": "Exact",
+  "lon": -71.082683836307,
+  "lat": 42.34315888883
+ },
+ "A0309": {
+  "matched_address": "1706 N STANLEY AVE, LOS ANGELES, CA, 90046",
+  "match_type": "Exact",
+  "lon": -118.356114053762,
+  "lat": 34.101835421105
+ },
+ "A0420": {
+  "matched_address": "4419 CLEVELAND AVE, SAN DIEGO, CA, 92116",
+  "match_type": "Exact",
+  "lon": -117.149951913385,
+  "lat": 32.757581273133
+ },
+ "A0302": {
+  "matched_address": "6 CLINTON ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Non_Exact",
+  "lon": -71.106823748323,
+  "lat": 42.367516001139
+ },
+ "A0423": {
+  "matched_address": "10 CAMELOT CT, BRIGHTON, MA, 02135",
+  "match_type": "Exact",
+  "lon": -71.141330315148,
+  "lat": 42.349362810146
+ },
+ "A0303": {
+  "matched_address": "188 E 35TH ST, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.271171829397,
+  "lat": 34.016877079827
+ },
+ "A0424": {
+  "matched_address": "208 JEFFERSON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.037883549718,
+  "lat": 40.740157173654
+ },
+ "A0300": {
+  "matched_address": "36 TROWBRIDGE ST, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.111648701864,
+  "lat": 42.371850975157
+ },
+ "A0421": {
+  "matched_address": "17106 CHATSWORTH ST, GRANADA HILLS, CA, 91344",
+  "match_type": "Non_Exact",
+  "lon": -118.505814381942,
+  "lat": 34.264737200693
+ },
+ "A0301": {
+  "matched_address": "165 HAMPSHIRE ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.098439445715,
+  "lat": 42.371842605201
+ },
+ "A0422": {
+  "matched_address": "23 MARION ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Non_Exact",
+  "lon": -71.088992232886,
+  "lat": 42.372408944103
+ },
+ "A0218": {
+  "matched_address": "15 RICHDALE AVE, CAMBRIDGE, MA, 02140",
+  "match_type": "Exact",
+  "lon": -71.121620396425,
+  "lat": 42.388324409245
+ },
+ "A0339": {
+  "matched_address": "124 BERKSHIRE ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Exact",
+  "lon": -71.090029432444,
+  "lat": 42.371616346646
+ },
+ "A0219": {
+  "matched_address": "3735 32ND ST, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.124937736826,
+  "lat": 32.746245203063
+ },
+ "A0216": {
+  "matched_address": "2309 HASTE ST, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.262957356662,
+  "lat": 37.865531910644
+ },
+ "A0337": {
+  "matched_address": "66 MONROE ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.158991782803,
+  "lat": 40.730254220709
+ },
+ "A0458": {
+  "matched_address": "1670 E 48TH PL, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.243996855675,
+  "lat": 33.999307703621
+ },
+ "A0217": {
+  "matched_address": "172 MAVERICK ST, EAST BOSTON, MA, 02128",
+  "match_type": "Non_Exact",
+  "lon": -71.037362951665,
+  "lat": 42.369519627611
+ },
+ "A0459": {
+  "matched_address": "202 SOUTH ST, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.051069939161,
+  "lat": 40.750737802252
+ },
+ "A0210": {
+  "matched_address": "1432 N CURSON AVE, LOS ANGELES, CA, 90046",
+  "match_type": "Exact",
+  "lon": -118.354938535163,
+  "lat": 34.096815880701
+ },
+ "A0331": {
+  "matched_address": "344 IRVINE TURNER BLVD, NEWARK, NJ, 07108",
+  "match_type": "Non_Exact",
+  "lon": -74.193318622525,
+  "lat": 40.722514194915
+ },
+ "A0452": {
+  "matched_address": "1310 N LAS PALMAS AVE, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.336242443207,
+  "lat": 34.094610686343
+ },
+ "A0211": {
+  "matched_address": "499 BEACON ST, BOSTON, MA, 02215",
+  "match_type": "Exact",
+  "lon": -71.089845858115,
+  "lat": 42.350692439566
+ },
+ "A0332": {
+  "matched_address": "26 SONOMA ST, DORCHESTER, MA, 02121",
+  "match_type": "Exact",
+  "lon": -71.086856518884,
+  "lat": 42.308190903587
+ },
+ "A0453": {
+  "matched_address": "11 CARLISLE ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.097785158487,
+  "lat": 42.372350092405
+ },
+ "A0450": {
+  "matched_address": "94 NEPTUNE AVE, JERSEY CITY, NJ, 07305",
+  "match_type": "Non_Exact",
+  "lon": -74.094734510649,
+  "lat": 40.691942000511
+ },
+ "A0330": {
+  "matched_address": "5229 WILLOWCREST AVE, NORTH HOLLYWOOD, CA, 91601",
+  "match_type": "Non_Exact",
+  "lon": -118.362200030188,
+  "lat": 34.165448094429
+ },
+ "A0451": {
+  "matched_address": "7300 VALMONT ST, TUJUNGA, CA, 91042",
+  "match_type": "Non_Exact",
+  "lon": -118.291114794412,
+  "lat": 34.252257110602
+ },
+ "A0214": {
+  "matched_address": "358 HARVARD ST, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.110911398922,
+  "lat": 42.371082219474
+ },
+ "A0335": {
+  "matched_address": "125 BEMIS ST, SAN FRANCISCO, CA, 94131",
+  "match_type": "Exact",
+  "lon": -122.430367276697,
+  "lat": 37.737182683157
+ },
+ "A0456": {
+  "matched_address": "2151 CHATSWORTH BLVD, SAN DIEGO, CA, 92107",
+  "match_type": "Exact",
+  "lon": -117.228546774402,
+  "lat": 32.738822467011
+ },
+ "A0215": {
+  "matched_address": "2295 CALIFORNIA ST, SAN FRANCISCO, CA, 94115",
+  "match_type": "Exact",
+  "lon": -122.432052589153,
+  "lat": 37.789075325053
+ },
+ "A0336": {
+  "matched_address": "151 N FIRST ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Exact",
+  "lon": -71.075526736217,
+  "lat": 42.372482137906
+ },
+ "A0457": {
+  "matched_address": "1856 GREEN ST, SAN FRANCISCO, CA, 94123",
+  "match_type": "Exact",
+  "lon": -122.429684738163,
+  "lat": 37.796928164046
+ },
+ "A0212": {
+  "matched_address": "1311 S VAN NESS AVE, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.4161731875,
+  "lat": 37.752168513331
+ },
+ "A0333": {
+  "matched_address": "3752 33RD ST, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.12293391208,
+  "lat": 32.746101678529
+ },
+ "A0454": {
+  "matched_address": "8944 COLUMBUS AVE, NORTH HILLS, CA, 91343",
+  "match_type": "Non_Exact",
+  "lon": -118.465331558771,
+  "lat": 34.232706363083
+ },
+ "A0213": {
+  "matched_address": "11649 ACAMA ST, STUDIO CITY, CA, 91604",
+  "match_type": "Non_Exact",
+  "lon": -118.386856598286,
+  "lat": 34.145584078078
+ },
+ "A0334": {
+  "matched_address": "2025 FRANCISCO ST, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.270586610925,
+  "lat": 37.875475369217
+ },
+ "A0455": {
+  "matched_address": "78 STEVENS AVE, JERSEY CITY, NJ, 07305",
+  "match_type": "Non_Exact",
+  "lon": -74.087633111396,
+  "lat": 40.701284285212
+ },
+ "A0460": {
+  "matched_address": "229 SHEPHARD AVE, NEWARK, NJ, 07112",
+  "match_type": "Non_Exact",
+  "lon": -74.211611863532,
+  "lat": 40.712390393489
+ },
+ "A0207": {
+  "matched_address": "705 W 23RD ST, LOS ANGELES, CA, 90007",
+  "match_type": "Exact",
+  "lon": -118.276733095547,
+  "lat": 34.032030548439
+ },
+ "A0449": {
+  "matched_address": "338 CLINTON PL, NEWARK, NJ, 07112",
+  "match_type": "Non_Exact",
+  "lon": -74.215190276398,
+  "lat": 40.712312782686
+ },
+ "A0208": {
+  "matched_address": "126 ADAMS ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.037275318111,
+  "lat": 40.738937251272
+ },
+ "A0329": {
+  "matched_address": "51 MADISON ST, NEWARK, NJ, 07105",
+  "match_type": "Exact",
+  "lon": -74.159407511479,
+  "lat": 40.730936900745
+ },
+ "A0205": {
+  "matched_address": "2425 GRANT ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.274486388915,
+  "lat": 37.864419418207
+ },
+ "A0326": {
+  "matched_address": "46 JEFFERSON ST, NEWARK, NJ, 07105",
+  "match_type": "Exact",
+  "lon": -74.16011411828,
+  "lat": 40.731191686503
+ },
+ "A0447": {
+  "matched_address": "208 CLINTON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.035067789528,
+  "lat": 40.73966668696
+ },
+ "A0206": {
+  "matched_address": "401 43RD AVE, SAN FRANCISCO, CA, 94121",
+  "match_type": "Exact",
+  "lon": -122.504228232138,
+  "lat": 37.78106651207
+ },
+ "A0327": {
+  "matched_address": "1605 N MARTEL AVE, LOS ANGELES, CA, 90046",
+  "match_type": "Exact",
+  "lon": -118.350240944927,
+  "lat": 34.099942749927
+ },
+ "A0448": {
+  "matched_address": "153 LAFAYETTE ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.16637215896,
+  "lat": 40.730765527611
+ },
+ "A0209": {
+  "matched_address": "19 TROWBRIDGE ST, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.11237412069,
+  "lat": 42.371041072612
+ },
+ "A0320": {
+  "matched_address": "408 MADISON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.038062021201,
+  "lat": 40.742822649905
+ },
+ "A0441": {
+  "matched_address": "4017 ILLINOIS ST, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.127623761555,
+  "lat": 32.750692356257
+ },
+ "A0200": {
+  "matched_address": "1853 N HIGHLAND AVE, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.337549044749,
+  "lat": 34.105004287023
+ },
+ "A0321": {
+  "matched_address": "200 NUNDA AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Exact",
+  "lon": -74.079221896001,
+  "lat": 40.729025280221
+ },
+ "A0442": {
+  "matched_address": "7014 LANEWOOD AVE, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.341876805569,
+  "lat": 34.099151448276
+ },
+ "A0440": {
+  "matched_address": "4042 FULTON ST, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.47502114247,
+  "lat": 37.773046725887
+ },
+ "A0203": {
+  "matched_address": "2930 WASHINGTON ST, ROXBURY, MA, 02119",
+  "match_type": "Non_Exact",
+  "lon": -71.095569636405,
+  "lat": 42.31845754666
+ },
+ "A0324": {
+  "matched_address": "2003 FRANKLIN ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.424604033397,
+  "lat": 37.792904441436
+ },
+ "A0445": {
+  "matched_address": "8790 VAN NUYS BLVD, PANORAMA CITY, CA, 91402",
+  "match_type": "Non_Exact",
+  "lon": -118.450185423298,
+  "lat": 34.229751001698
+ },
+ "A0204": {
+  "matched_address": "208 6TH AVE W, NEWARK, NJ, 07107",
+  "match_type": "Non_Exact",
+  "lon": -74.186173040995,
+  "lat": 40.756210023298
+ },
+ "A0325": {
+  "matched_address": "38A GAUTIER AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.079307176087,
+  "lat": 40.72613987341
+ },
+ "A0446": {
+  "matched_address": "610 COLUMBUS AVE, BOSTON, MA, 02118",
+  "match_type": "Exact",
+  "lon": -71.083459763098,
+  "lat": 42.339112790328
+ },
+ "A0201": {
+  "matched_address": "2737 BENVENUE AVE, BERKELEY, CA, 94705",
+  "match_type": "Exact",
+  "lon": -122.25463879726,
+  "lat": 37.861084663474
+ },
+ "A0322": {
+  "matched_address": "227 CYPRESS DR, SAN YSIDRO, CA, 92173",
+  "match_type": "Exact",
+  "lon": -117.045151967648,
+  "lat": 32.555470956839
+ },
+ "A0443": {
+  "matched_address": "3526 FAIRMOUNT AVE, SAN DIEGO, CA, 92105",
+  "match_type": "Exact",
+  "lon": -117.101032546312,
+  "lat": 32.742658851729
+ },
+ "A0202": {
+  "matched_address": "1446 JACKSON ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.41889836579,
+  "lat": 37.794522791984
+ },
+ "A0323": {
+  "matched_address": "4627 COMPTON AVE, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.247839866285,
+  "lat": 34.001632563866
+ },
+ "A0444": {
+  "matched_address": "231 COMMONWEALTH AVE, BOSTON, MA, 02116",
+  "match_type": "Exact",
+  "lon": -71.082259034359,
+  "lat": 42.351030509952
+ },
+ "A0500": {
+  "matched_address": "8811 BURNET AVE, NORTH HILLS, CA, 91343",
+  "match_type": "Non_Exact",
+  "lon": -118.463342888059,
+  "lat": 34.230253637086
+ },
+ "A0416": {
+  "matched_address": "882 PAVONIA AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.069855824873,
+  "lat": 40.734106488592
+ },
+ "A0417": {
+  "matched_address": "4957 CAHUENGA BLVD, NORTH HOLLYWOOD, CA, 91601",
+  "match_type": "Non_Exact",
+  "lon": -118.361590637042,
+  "lat": 34.160498077424
+ },
+ "A0414": {
+  "matched_address": "1987 CALIFORNIA ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.426993113372,
+  "lat": 37.789718887946
+ },
+ "A0415": {
+  "matched_address": "95 WAYNE ST, JERSEY CITY, NJ, 07302",
+  "match_type": "Exact",
+  "lon": -74.046863038788,
+  "lat": 40.719860194431
+ },
+ "A0418": {
+  "matched_address": "221 SIP AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.070139397713,
+  "lat": 40.731794725913
+ },
+ "A0419": {
+  "matched_address": "1538 HENRY ST, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.2705189327,
+  "lat": 37.879313015271
+ },
+ "A0412": {
+  "matched_address": "231 GRAFTON AVE, NEWARK, NJ, 07104",
+  "match_type": "Non_Exact",
+  "lon": -74.167287967397,
+  "lat": 40.778250739849
+ },
+ "A0413": {
+  "matched_address": "2209 GRAND AVE, SAN DIEGO, CA, 92109",
+  "match_type": "Exact",
+  "lon": -117.229073590912,
+  "lat": 32.800271149641
+ },
+ "A0410": {
+  "matched_address": "319 SUMMIT AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Exact",
+  "lon": -74.064026798734,
+  "lat": 40.726387646101
+ },
+ "A0411": {
+  "matched_address": "1833 BERKELEY WAY, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.27465308516,
+  "lat": 37.87232876757
+ },
+ "A0405": {
+  "matched_address": "10214 FERNGLEN AVE, TUJUNGA, CA, 91042",
+  "match_type": "Non_Exact",
+  "lon": -118.294269681844,
+  "lat": 34.254405539147
+ },
+ "A0406": {
+  "matched_address": "170 W SPRINGFIELD ST, BOSTON, MA, 02118",
+  "match_type": "Exact",
+  "lon": -71.079433474181,
+  "lat": 42.339468331482
+ },
+ "A0403": {
+  "matched_address": "45 MYRTLE ST, BOSTON, MA, 02114",
+  "match_type": "Exact",
+  "lon": -71.066075463637,
+  "lat": 42.359416672345
+ },
+ "A0404": {
+  "matched_address": "240 BOWERS ST, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.053172054328,
+  "lat": 40.749176716976
+ },
+ "A0409": {
+  "matched_address": "4428 GRESHAM ST, SAN DIEGO, CA, 92109",
+  "match_type": "Exact",
+  "lon": -117.244179056101,
+  "lat": 32.79763108496
+ },
+ "A0407": {
+  "matched_address": "4188 GREENBUSH AVE, SHERMAN OAKS, CA, 91423",
+  "match_type": "Non_Exact",
+  "lon": -118.426009923389,
+  "lat": 34.146796782796
+ },
+ "A0408": {
+  "matched_address": "14375 POLK ST, SYLMAR, CA, 91342",
+  "match_type": "Non_Exact",
+  "lon": -118.446247129705,
+  "lat": 34.310760350581
+ },
+ "A0401": {
+  "matched_address": "257 14TH ST, SAN FRANCISCO, CA, 94103",
+  "match_type": "Exact",
+  "lon": -122.419001453676,
+  "lat": 37.768275245554
+ },
+ "A0402": {
+  "matched_address": "2914 LARKIN ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.421779262494,
+  "lat": 37.804747750317
+ },
+ "A0078": {
+  "matched_address": "115 BAYVIEW AVE, JERSEY CITY, NJ, 07305",
+  "match_type": "Non_Exact",
+  "lon": -74.080499166258,
+  "lat": 40.705324743987
+ },
+ "A0199": {
+  "matched_address": "42 BAY STATE RD, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.140083871382,
+  "lat": 42.387191106272
+ },
+ "A0079": {
+  "matched_address": "2361 PORTLAND ST, LOS ANGELES, CA, 90007",
+  "match_type": "Exact",
+  "lon": -118.282094130957,
+  "lat": 34.032231820463
+ },
+ "A0076": {
+  "matched_address": "304 E KINNEY ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.162836470045,
+  "lat": 40.724076460199
+ },
+ "A0197": {
+  "matched_address": "1611 62ND ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.274812039507,
+  "lat": 37.846527054842
+ },
+ "A0077": {
+  "matched_address": "91 BROOKLINE ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.103733351887,
+  "lat": 42.361566486333
+ },
+ "A0198": {
+  "matched_address": "194 HAVRE ST, EAST BOSTON, MA, 02128",
+  "match_type": "Exact",
+  "lon": -71.036497835188,
+  "lat": 42.374496794147
+ },
+ "A0081": {
+  "matched_address": "145 TAYLOR ST, SAN FRANCISCO, CA, 94102",
+  "match_type": "Exact",
+  "lon": -122.410947938983,
+  "lat": 37.783758897294
+ },
+ "A0082": {
+  "matched_address": "63 INMAN ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.102833387558,
+  "lat": 42.370344257321
+ },
+ "A0080": {
+  "matched_address": "690 S CATALINA ST, LOS ANGELES, CA, 90005",
+  "match_type": "Exact",
+  "lon": -118.295327996925,
+  "lat": 34.060127849082
+ },
+ "A0085": {
+  "matched_address": "1101 CHURCH ST, SAN FRANCISCO, CA, 94114",
+  "match_type": "Exact",
+  "lon": -122.427505338235,
+  "lat": 37.753239144697
+ },
+ "A0086": {
+  "matched_address": "67 PLYMOUTH ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Exact",
+  "lon": -71.093495991755,
+  "lat": 42.369083221693
+ },
+ "A0083": {
+  "matched_address": "38 KENILWORTH ST, ROXBURY, MA, 02119",
+  "match_type": "Exact",
+  "lon": -71.087424612529,
+  "lat": 42.328651609512
+ },
+ "A0084": {
+  "matched_address": "1725 CHESTNUT ST, SAN FRANCISCO, CA, 94123",
+  "match_type": "Exact",
+  "lon": -122.431739349227,
+  "lat": 37.801332618559
+ },
+ "A0067": {
+  "matched_address": "1335 N VISTA ST, LOS ANGELES, CA, 90046",
+  "match_type": "Exact",
+  "lon": -118.351799391859,
+  "lat": 34.095045778052
+ },
+ "A0188": {
+  "matched_address": "2819 MCGEE AVE, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.275258218951,
+  "lat": 37.856959944236
+ },
+ "A0068": {
+  "matched_address": "42 CLEARWAY ST, BOSTON, MA, 02115",
+  "match_type": "Non_Exact",
+  "lon": -71.085769499369,
+  "lat": 42.345336985524
+ },
+ "A0189": {
+  "matched_address": "1811 CARLETON ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.273498335777,
+  "lat": 37.860487333983
+ },
+ "A0065": {
+  "matched_address": "63 BAILEY ST, DORCHESTER, MA, 02124",
+  "match_type": "Exact",
+  "lon": -71.066465126331,
+  "lat": 42.284452236737
+ },
+ "A0186": {
+  "matched_address": "107 BEACON AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Exact",
+  "lon": -74.054827866989,
+  "lat": 40.736920404507
+ },
+ "A0066": {
+  "matched_address": "1318 N ORANGE DR, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.341484249454,
+  "lat": 34.0947022093
+ },
+ "A0187": {
+  "matched_address": "146 CARLTON AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.060798217241,
+  "lat": 40.744920038222
+ },
+ "A0069": {
+  "matched_address": "2277 UNION ST, SAN FRANCISCO, CA, 94123",
+  "match_type": "Exact",
+  "lon": -122.436717035924,
+  "lat": 37.796874616444
+ },
+ "A0070": {
+  "matched_address": "43 FAYETTE ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.103267573782,
+  "lat": 42.372611705618
+ },
+ "A0191": {
+  "matched_address": "60 KIRKLAND ST, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.110680713996,
+  "lat": 42.377309547812
+ },
+ "A0071": {
+  "matched_address": "16 VANDINE ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Non_Exact",
+  "lon": -71.0905953379,
+  "lat": 42.368814396347
+ },
+ "A0192": {
+  "matched_address": "780 POST ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.414659903737,
+  "lat": 37.787554937568
+ },
+ "A0190": {
+  "matched_address": "283 ADAMS ST, NEWARK, NJ, 07105",
+  "match_type": "Exact",
+  "lon": -74.16236498265,
+  "lat": 40.722831839974
+ },
+ "A0074": {
+  "matched_address": "717 S BERENDO ST, LOS ANGELES, CA, 90005",
+  "match_type": "Exact",
+  "lon": -118.294210099909,
+  "lat": 34.059391478589
+ },
+ "A0195": {
+  "matched_address": "1848 COMMONWEALTH AVE, BRIGHTON, MA, 02135",
+  "match_type": "Non_Exact",
+  "lon": -71.152111420394,
+  "lat": 42.339062553814
+ },
+ "A0075": {
+  "matched_address": "27 EVERETT ST, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.117508170008,
+  "lat": 42.379922700614
+ },
+ "A0196": {
+  "matched_address": "16915 BLACKHAWK ST, GRANADA HILLS, CA, 91344",
+  "match_type": "Non_Exact",
+  "lon": -118.500920253647,
+  "lat": 34.258955182522
+ },
+ "A0072": {
+  "matched_address": "1251 10TH AVE, SAN FRANCISCO, CA, 94122",
+  "match_type": "Exact",
+  "lon": -122.467520089918,
+  "lat": 37.764890627041
+ },
+ "A0193": {
+  "matched_address": "1626 BONITA AVE, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.272592199936,
+  "lat": 37.877436210953
+ },
+ "A0073": {
+  "matched_address": "37 INMAN ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Non_Exact",
+  "lon": -71.103956176776,
+  "lat": 42.368713915313
+ },
+ "A0194": {
+  "matched_address": "72 BURBANK ST, BOSTON, MA, 02115",
+  "match_type": "Exact",
+  "lon": -71.08932121797,
+  "lat": 42.34449244891
+ },
+ "A0099": {
+  "matched_address": "822 WASHINGTON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.028270964888,
+  "lat": 40.746308514721
+ },
+ "A0089": {
+  "matched_address": "935 PARK AVE, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.030368120288,
+  "lat": 40.748211954503
+ },
+ "A0087": {
+  "matched_address": "323 BLOOMFIELD ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.030768159948,
+  "lat": 40.740414697817
+ },
+ "A0088": {
+  "matched_address": "201 CLEMENT ST, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.461275217487,
+  "lat": 37.783026502307
+ },
+ "A0092": {
+  "matched_address": "2514 PIEDMONT AVE, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.251697248224,
+  "lat": 37.865583367618
+ },
+ "A0093": {
+  "matched_address": "90 BICKFORD ST, JAMAICA PLAIN, MA, 02130",
+  "match_type": "Exact",
+  "lon": -71.101924371068,
+  "lat": 42.324002818423
+ },
+ "A0090": {
+  "matched_address": "30 JACKSON ST, NEWARK, NJ, 07105",
+  "match_type": "Exact",
+  "lon": -74.155787524567,
+  "lat": 40.731204856376
+ },
+ "A0091": {
+  "matched_address": "2229 DWIGHT WAY, BERKELEY, CA, 94704",
+  "match_type": "Exact",
+  "lon": -122.264605312198,
+  "lat": 37.864405329327
+ },
+ "A0096": {
+  "matched_address": "81 WESTLAND AVE, BOSTON, MA, 02115",
+  "match_type": "Exact",
+  "lon": -71.089157903457,
+  "lat": 42.343854353427
+ },
+ "A0097": {
+  "matched_address": "1560 MASON ST, SAN FRANCISCO, CA, 94133",
+  "match_type": "Exact",
+  "lon": -122.411949673166,
+  "lat": 37.79780463687
+ },
+ "A0094": {
+  "matched_address": "1371 27TH ST, SAN DIEGO, CA, 92154",
+  "match_type": "Exact",
+  "lon": -117.075371141803,
+  "lat": 32.571862077109
+ },
+ "A0095": {
+  "matched_address": "23 ELM ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.098495150944,
+  "lat": 42.367845841037
+ },
+ "A0034": {
+  "matched_address": "25 GORE ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Exact",
+  "lon": -71.079128226997,
+  "lat": 42.371703436562
+ },
+ "A0155": {
+  "matched_address": "473 HARVARD ST, DORCHESTER, MA, 02124",
+  "match_type": "Exact",
+  "lon": -71.09239312943,
+  "lat": 42.288741879366
+ },
+ "A0276": {
+  "matched_address": "4361 ILLINOIS ST, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.127636770855,
+  "lat": 32.756358147896
+ },
+ "A0397": {
+  "matched_address": "1677 BUSH ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.424817163952,
+  "lat": 37.788065631555
+ },
+ "A0035": {
+  "matched_address": "5239 HARMONY AVE, NORTH HOLLYWOOD, CA, 91601",
+  "match_type": "Non_Exact",
+  "lon": -118.366516457468,
+  "lat": 34.165618179362
+ },
+ "A0277": {
+  "matched_address": "2736 GRANT ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.273424660577,
+  "lat": 37.85849365947
+ },
+ "A0398": {
+  "matched_address": "890 GREEN ST, SAN FRANCISCO, CA, 94133",
+  "match_type": "Exact",
+  "lon": -122.413748040152,
+  "lat": 37.798969157635
+ },
+ "A0032": {
+  "matched_address": "63 OAK ST, JERSEY CITY, NJ, 07304",
+  "match_type": "Non_Exact",
+  "lon": -74.077148779124,
+  "lat": 40.7137999274
+ },
+ "A0153": {
+  "matched_address": "366 E 55TH ST, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.268297439622,
+  "lat": 33.992394354537
+ },
+ "A0274": {
+  "matched_address": "7072 EASTMAN ST, SAN DIEGO, CA, 92111",
+  "match_type": "Exact",
+  "lon": -117.168439360297,
+  "lat": 32.789776238445
+ },
+ "A0395": {
+  "matched_address": "1632 RUSSELL ST, BERKELEY, CA, 94703",
+  "match_type": "Exact",
+  "lon": -122.275797862561,
+  "lat": 37.85541480374
+ },
+ "A0033": {
+  "matched_address": "1260 KEARNY ST, SAN FRANCISCO, CA, 94133",
+  "match_type": "Exact",
+  "lon": -122.405709002561,
+  "lat": 37.79964889858
+ },
+ "A0154": {
+  "matched_address": "4568 IDAHO ST, SAN DIEGO, CA, 92116",
+  "match_type": "Exact",
+  "lon": -117.133977948208,
+  "lat": 32.760412374063
+ },
+ "A0275": {
+  "matched_address": "4091 MORRELL ST, SAN DIEGO, CA, 92109",
+  "match_type": "Exact",
+  "lon": -117.231646719173,
+  "lat": 32.795607414483
+ },
+ "A0396": {
+  "matched_address": "3244 CLAIREMONT DR, SAN DIEGO, CA, 92117",
+  "match_type": "Exact",
+  "lon": -117.195770657922,
+  "lat": 32.800141615463
+ },
+ "A0038": {
+  "matched_address": "154 YUKON ST, SAN FRANCISCO, CA, 94114",
+  "match_type": "Exact",
+  "lon": -122.442397125228,
+  "lat": 37.757178828285
+ },
+ "A0159": {
+  "matched_address": "104 SUNSET AVE, NEWARK, NJ, 07106",
+  "match_type": "Non_Exact",
+  "lon": -74.226709353047,
+  "lat": 40.74245866913
+ },
+ "A0039": {
+  "matched_address": "1 CRAIGIE ST, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.125838882455,
+  "lat": 42.379449621711
+ },
+ "A0036": {
+  "matched_address": "33 WARD ST, SOUTH BOSTON, MA, 02127",
+  "match_type": "Exact",
+  "lon": -71.054524489253,
+  "lat": 42.32946722555
+ },
+ "A0157": {
+  "matched_address": "2701 RIDGE RD, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.257026606732,
+  "lat": 37.876494513292
+ },
+ "A0278": {
+  "matched_address": "1800 FRANKLIN ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.424100965563,
+  "lat": 37.791146664293
+ },
+ "A0399": {
+  "matched_address": "227 WILLOW AVE, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.033923758593,
+  "lat": 40.739690854009
+ },
+ "A0037": {
+  "matched_address": "770 IROLO ST, LOS ANGELES, CA, 90005",
+  "match_type": "Exact",
+  "lon": -118.300824624602,
+  "lat": 34.058302827517
+ },
+ "A0158": {
+  "matched_address": "2522 HILGARD AVE, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.260493108118,
+  "lat": 37.878591221585
+ },
+ "A0280": {
+  "matched_address": "1215 11TH AVE, SAN FRANCISCO, CA, 94122",
+  "match_type": "Exact",
+  "lon": -122.468630232306,
+  "lat": 37.76547270684
+ },
+ "A0041": {
+  "matched_address": "122 TIFFANY AVE, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.421406384884,
+  "lat": 37.744990908268
+ },
+ "A0162": {
+  "matched_address": "1640 N POINSETTIA PL, LOS ANGELES, CA, 90046",
+  "match_type": "Exact",
+  "lon": -118.347788965715,
+  "lat": 34.100552498586
+ },
+ "A0283": {
+  "matched_address": "90 BARTLETT ST, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.41994757491,
+  "lat": 37.755542885749
+ },
+ "A0042": {
+  "matched_address": "320 FORREST ST, JERSEY CITY, NJ, 07304",
+  "match_type": "Exact",
+  "lon": -74.077362139063,
+  "lat": 40.713202456168
+ },
+ "A0163": {
+  "matched_address": "235 2ND ST, JERSEY CITY, NJ, 07302",
+  "match_type": "Non_Exact",
+  "lon": -74.043552476848,
+  "lat": 40.722395074274
+ },
+ "A0284": {
+  "matched_address": "345 COLUMBIA ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Exact",
+  "lon": -71.095359909702,
+  "lat": 42.371521199602
+ },
+ "A0160": {
+  "matched_address": "86 CHARLES ST, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.05173810144,
+  "lat": 40.749433761671
+ },
+ "A0281": {
+  "matched_address": "1725 N GOWER ST, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.32242566214,
+  "lat": 34.102103469042
+ },
+ "A0040": {
+  "matched_address": "75 JACKSON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.041089522043,
+  "lat": 40.738840718117
+ },
+ "A0161": {
+  "matched_address": "317 UNION ST, JERSEY CITY, NJ, 07304",
+  "match_type": "Non_Exact",
+  "lon": -74.083091056543,
+  "lat": 40.717916452711
+ },
+ "A0282": {
+  "matched_address": "2240 10TH ST, BERKELEY, CA, 94710",
+  "match_type": "Exact",
+  "lon": -122.292299289201,
+  "lat": 37.865429346313
+ },
+ "A0029": {
+  "matched_address": "284 VERONA AVE, NEWARK, NJ, 07104",
+  "match_type": "Non_Exact",
+  "lon": -74.166168698177,
+  "lat": 40.78286229736
+ },
+ "A0023": {
+  "matched_address": "843 IROLO ST, LOS ANGELES, CA, 90005",
+  "match_type": "Exact",
+  "lon": -118.300958567015,
+  "lat": 34.0569182313
+ },
+ "A0144": {
+  "matched_address": "114 AMORY ST, ROXBURY, MA, 02119",
+  "match_type": "Non_Exact",
+  "lon": -71.100197786289,
+  "lat": 42.319506233426
+ },
+ "A0265": {
+  "matched_address": "102 BALDWIN AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Exact",
+  "lon": -74.062860646313,
+  "lat": 40.725395005355
+ },
+ "A0386": {
+  "matched_address": "3654 ARIZONA ST, SAN DIEGO, CA, 92104",
+  "match_type": "Exact",
+  "lon": -117.1379712012,
+  "lat": 32.744723856404
+ },
+ "A0024": {
+  "matched_address": "227 CHARLES ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Exact",
+  "lon": -71.084850671785,
+  "lat": 42.368207474124
+ },
+ "A0145": {
+  "matched_address": "4515 FELTON ST, SAN DIEGO, CA, 92116",
+  "match_type": "Exact",
+  "lon": -117.121714561521,
+  "lat": 32.759371284084
+ },
+ "A0266": {
+  "matched_address": "52 BRIGHT ST, JERSEY CITY, NJ, 07302",
+  "match_type": "Non_Exact",
+  "lon": -74.04716146876,
+  "lat": 40.716964287987
+ },
+ "A0387": {
+  "matched_address": "10303 CMT ALVAREZ, SAN DIEGO, CA, 92126",
+  "match_type": "Exact",
+  "lon": -117.169286391696,
+  "lat": 32.9053438981
+ },
+ "A0021": {
+  "matched_address": "22 PRECITA AVE, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.418913690663,
+  "lat": 37.746697199975
+ },
+ "A0142": {
+  "matched_address": "4615 AVALON BLVD, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.265290530936,
+  "lat": 34.001426079007
+ },
+ "A0263": {
+  "matched_address": "1636 MARTIN LUTHER KING JR WAY, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.273753258644,
+  "lat": 37.877104430999
+ },
+ "A0022": {
+  "matched_address": "10908 HARTSOOK ST, NORTH HOLLYWOOD, CA, 91601",
+  "match_type": "Non_Exact",
+  "lon": -118.368312978253,
+  "lat": 34.163485706471
+ },
+ "A0143": {
+  "matched_address": "75 ELM HILL AVE, DORCHESTER, MA, 02121",
+  "match_type": "Exact",
+  "lon": -71.087061380822,
+  "lat": 42.310212727666
+ },
+ "A0264": {
+  "matched_address": "589 ELIZABETH AVE, NEWARK, NJ, 07112",
+  "match_type": "Non_Exact",
+  "lon": -74.203997082351,
+  "lat": 40.706702590971
+ },
+ "A0385": {
+  "matched_address": "1059 UNION ST, SAN FRANCISCO, CA, 94133",
+  "match_type": "Exact",
+  "lon": -122.416408067433,
+  "lat": 37.79947735291
+ },
+ "A0027": {
+  "matched_address": "3918 FULTON ST, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.473684296131,
+  "lat": 37.773108534668
+ },
+ "A0148": {
+  "matched_address": "166 5TH ST, NEWARK, NJ, 07107",
+  "match_type": "Non_Exact",
+  "lon": -74.190058099169,
+  "lat": 40.751386045226
+ },
+ "A0269": {
+  "matched_address": "1015 CLINTON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.031887796981,
+  "lat": 40.749581279292
+ },
+ "A0028": {
+  "matched_address": "585 N 5TH ST, NEWARK, NJ, 07107",
+  "match_type": "Non_Exact",
+  "lon": -74.180832847404,
+  "lat": 40.768516151715
+ },
+ "A0149": {
+  "matched_address": "25 EVERETT ST, EAST BOSTON, MA, 02128",
+  "match_type": "Exact",
+  "lon": -71.036711056222,
+  "lat": 42.368309769533
+ },
+ "A0025": {
+  "matched_address": "2341 8TH ST, BERKELEY, CA, 94710",
+  "match_type": "Exact",
+  "lon": -122.293815269518,
+  "lat": 37.863231048622
+ },
+ "A0146": {
+  "matched_address": "93-95 HAWKINS ST, NEWARK, NJ, 07105",
+  "match_type": "Exact",
+  "lon": -74.138947612797,
+  "lat": 40.727984681112
+ },
+ "A0267": {
+  "matched_address": "1314 N VAN NESS AVE, LOS ANGELES, CA, 90038",
+  "match_type": "Non_Exact",
+  "lon": -118.31568631956,
+  "lat": 34.095065338349
+ },
+ "A0388": {
+  "matched_address": "155 CLERK ST, JERSEY CITY, NJ, 07305",
+  "match_type": "Non_Exact",
+  "lon": -74.075725799324,
+  "lat": 40.708921674003
+ },
+ "A0026": {
+  "matched_address": "59 OAK ST, JERSEY CITY, NJ, 07304",
+  "match_type": "Non_Exact",
+  "lon": -74.076996657496,
+  "lat": 40.713718828723
+ },
+ "A0147": {
+  "matched_address": "2850 GOLDEN GATE AVE, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.457612633148,
+  "lat": 37.776358944957
+ },
+ "A0268": {
+  "matched_address": "1848 FRANKLIN ST, SAN FRANCISCO, CA, 94109",
+  "match_type": "Exact",
+  "lon": -122.42417782805,
+  "lat": 37.791524228684
+ },
+ "A0389": {
+  "matched_address": "923 GARDEN ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.029472700113,
+  "lat": 40.747908908406
+ },
+ "A0390": {
+  "matched_address": "70 DARCY ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.149929644264,
+  "lat": 40.726005356196
+ },
+ "A0030": {
+  "matched_address": "2051 DIVISADERO ST, SAN FRANCISCO, CA, 94115",
+  "match_type": "Exact",
+  "lon": -122.440651886856,
+  "lat": 37.788524403095
+ },
+ "A0151": {
+  "matched_address": "16 QUEENSBERRY ST, BOSTON, MA, 02215",
+  "match_type": "Exact",
+  "lon": -71.095965021374,
+  "lat": 42.343098317562
+ },
+ "A0272": {
+  "matched_address": "5 EVERETT ST, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.11923068717,
+  "lat": 42.380002159495
+ },
+ "A0393": {
+  "matched_address": "91 JORDAN AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.064895908212,
+  "lat": 40.72674257266
+ },
+ "A0031": {
+  "matched_address": "5624 S SAN PEDRO ST, LOS ANGELES, CA, 90011",
+  "match_type": "Exact",
+  "lon": -118.270046050706,
+  "lat": 33.991312087929
+ },
+ "A0152": {
+  "matched_address": "1669 SUNSET CLIFFS BLVD, SAN DIEGO, CA, 92107",
+  "match_type": "Exact",
+  "lon": -117.25076493005,
+  "lat": 32.74094590948
+ },
+ "A0273": {
+  "matched_address": "3911 CENTRE ST, SAN DIEGO, CA, 92103",
+  "match_type": "Exact",
+  "lon": -117.147965593551,
+  "lat": 32.749136257741
+ },
+ "A0394": {
+  "matched_address": "45 RAVINE AVE, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.049129869145,
+  "lat": 40.74028302667
+ },
+ "A0270": {
+  "matched_address": "29 CONCORD ST, JERSEY CITY, NJ, 07306",
+  "match_type": "Exact",
+  "lon": -74.052574845456,
+  "lat": 40.733442605846
+ },
+ "A0391": {
+  "matched_address": "265 22ND ST, SAN DIEGO, CA, 92102",
+  "match_type": "Exact",
+  "lon": -117.143904241304,
+  "lat": 32.707989329138
+ },
+ "A0150": {
+  "matched_address": "3784 BROADWAY, SAN DIEGO, CA, 92102",
+  "match_type": "Non_Exact",
+  "lon": -117.11184048031,
+  "lat": 32.716024799043
+ },
+ "A0271": {
+  "matched_address": "4115 LINCOLN WAY, SAN FRANCISCO, CA, 94122",
+  "match_type": "Exact",
+  "lon": -122.502100180635,
+  "lat": 37.764244000512
+ },
+ "A0392": {
+  "matched_address": "4545 39TH ST, SAN DIEGO, CA, 92116",
+  "match_type": "Non_Exact",
+  "lon": -117.110733157421,
+  "lat": 32.759875365223
+ },
+ "A0056": {
+  "matched_address": "43 EDGERLY RD, BOSTON, MA, 02115",
+  "match_type": "Non_Exact",
+  "lon": -71.087947355571,
+  "lat": 42.345644184192
+ },
+ "A0177": {
+  "matched_address": "166 HIGHLAND AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.073105945172,
+  "lat": 40.729583045817
+ },
+ "A0298": {
+  "matched_address": "361 WASHINGTON ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.099392946846,
+  "lat": 42.365668497367
+ },
+ "A0057": {
+  "matched_address": "57 STONE ST, NEWARK, NJ, 07104",
+  "match_type": "Non_Exact",
+  "lon": -74.174377039669,
+  "lat": 40.753432421375
+ },
+ "A0178": {
+  "matched_address": "5308 RIVERTON AVE, NORTH HOLLYWOOD, CA, 91601",
+  "match_type": "Non_Exact",
+  "lon": -118.365290745355,
+  "lat": 34.166828679585
+ },
+ "A0299": {
+  "matched_address": "1037 WASHINGTON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.027266530035,
+  "lat": 40.749050177411
+ },
+ "A0054": {
+  "matched_address": "13 SHETLAND ST, ROXBURY, MA, 02119",
+  "match_type": "Exact",
+  "lon": -71.068028337557,
+  "lat": 42.324986499476
+ },
+ "A0175": {
+  "matched_address": "10 DOVER ST, CAMBRIDGE, MA, 02140",
+  "match_type": "Exact",
+  "lon": -71.126686968537,
+  "lat": 42.394678131873
+ },
+ "A0296": {
+  "matched_address": "85 MCWHORTER ST, NEWARK, NJ, 07105",
+  "match_type": "Non_Exact",
+  "lon": -74.16622635068,
+  "lat": 40.730142326692
+ },
+ "A0055": {
+  "matched_address": "305 10TH AVE, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.46876702789,
+  "lat": 37.782619210817
+ },
+ "A0176": {
+  "matched_address": "15 CHESTER ST, CAMBRIDGE, MA, 02140",
+  "match_type": "Exact",
+  "lon": -71.124477534158,
+  "lat": 42.393657148181
+ },
+ "A0297": {
+  "matched_address": "213 SUMMER AVE, NEWARK, NJ, 07104",
+  "match_type": "Non_Exact",
+  "lon": -74.171685521994,
+  "lat": 40.758931675998
+ },
+ "A0058": {
+  "matched_address": "3137 BOSTON AVE, SAN DIEGO, CA, 92113",
+  "match_type": "Exact",
+  "lon": -117.126888325341,
+  "lat": 32.693817730505
+ },
+ "A0179": {
+  "matched_address": "7006 LANEWOOD AVE, LOS ANGELES, CA, 90028",
+  "match_type": "Exact",
+  "lon": -118.341635208217,
+  "lat": 34.09915207252
+ },
+ "A0059": {
+  "matched_address": "86 WALNUT ST, NEWARK, NJ, 07102",
+  "match_type": "Non_Exact",
+  "lon": -74.170855709577,
+  "lat": 40.729215526845
+ },
+ "A0180": {
+  "matched_address": "845 S KINGSLEY DR, LOS ANGELES, CA, 90005",
+  "match_type": "Exact",
+  "lon": -118.303137913263,
+  "lat": 34.056870603736
+ },
+ "A0060": {
+  "matched_address": "5737 WILLOWCREST AVE, NORTH HOLLYWOOD, CA, 91601",
+  "match_type": "Non_Exact",
+  "lon": -118.362720761505,
+  "lat": 34.174656039346
+ },
+ "A0181": {
+  "matched_address": "931 GARDEN ST, HOBOKEN, NJ, 07030",
+  "match_type": "Exact",
+  "lon": -74.029444711794,
+  "lat": 40.748003289428
+ },
+ "A0063": {
+  "matched_address": "11 CORTES ST, BOSTON, MA, 02116",
+  "match_type": "Exact",
+  "lon": -71.069583391995,
+  "lat": 42.348290028212
+ },
+ "A0184": {
+  "matched_address": "156 W 32ND ST, LOS ANGELES, CA, 90007",
+  "match_type": "Exact",
+  "lon": -118.273514783778,
+  "lat": 34.020782218595
+ },
+ "A0064": {
+  "matched_address": "26 CONCORD AVE, CAMBRIDGE, MA, 02138",
+  "match_type": "Non_Exact",
+  "lon": -71.125842851741,
+  "lat": 42.379416219968
+ },
+ "A0185": {
+  "matched_address": "154 TERHUNE AVE, JERSEY CITY, NJ, 07305",
+  "match_type": "Non_Exact",
+  "lon": -74.096225420442,
+  "lat": 40.705096415554
+ },
+ "A0061": {
+  "matched_address": "106 18TH AVE, SAN FRANCISCO, CA, 94121",
+  "match_type": "Exact",
+  "lon": -122.477559726965,
+  "lat": 37.785919313984
+ },
+ "A0182": {
+  "matched_address": "923 CLINTON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.032259129478,
+  "lat": 40.748382853996
+ },
+ "A0062": {
+  "matched_address": "77 HOFF ST, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.420395727367,
+  "lat": 37.763766231452
+ },
+ "A0183": {
+  "matched_address": "2427 HILGARD AVE, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.262349376787,
+  "lat": 37.87845544308
+ },
+ "A0045": {
+  "matched_address": "12829 BRANFORD ST, PACOIMA, CA, 91331",
+  "match_type": "Non_Exact",
+  "lon": -118.41212012105,
+  "lat": 34.241771886514
+ },
+ "A0166": {
+  "matched_address": "1 POTTER PARK, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.12020099261,
+  "lat": 42.384310248934
+ },
+ "A0287": {
+  "matched_address": "404 GRAND ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.035272884466,
+  "lat": 40.742295062797
+ },
+ "A0046": {
+  "matched_address": "12 SODEN ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Non_Exact",
+  "lon": -71.108340513884,
+  "lat": 42.365690566108
+ },
+ "A0167": {
+  "matched_address": "4616 FLORIDA ST, SAN DIEGO, CA, 92116",
+  "match_type": "Exact",
+  "lon": -117.143850889032,
+  "lat": 32.76124264042
+ },
+ "A0288": {
+  "matched_address": "75 CLENDENNY AVE, JERSEY CITY, NJ, 07304",
+  "match_type": "Non_Exact",
+  "lon": -74.0811726863,
+  "lat": 40.718013229375
+ },
+ "A0043": {
+  "matched_address": "4 ORCHARD ST, CAMBRIDGE, MA, 02140",
+  "match_type": "Exact",
+  "lon": -71.119075629483,
+  "lat": 42.390119763731
+ },
+ "A0164": {
+  "matched_address": "725 14TH ST, SAN FRANCISCO, CA, 94114",
+  "match_type": "Exact",
+  "lon": -122.42951948205,
+  "lat": 37.76763837901
+ },
+ "A0285": {
+  "matched_address": "5255 HARMONY AVE, NORTH HOLLYWOOD, CA, 91601",
+  "match_type": "Non_Exact",
+  "lon": -118.366517318934,
+  "lat": 34.165894818542
+ },
+ "A0044": {
+  "matched_address": "775 SANDFORD AVE, NEWARK, NJ, 07106",
+  "match_type": "Non_Exact",
+  "lon": -74.237036956138,
+  "lat": 40.735737050359
+ },
+ "A0165": {
+  "matched_address": "734 JAMAICA CT, SAN DIEGO, CA, 92109",
+  "match_type": "Exact",
+  "lon": -117.252245356556,
+  "lat": 32.773642646317
+ },
+ "A0286": {
+  "matched_address": "27 IRVING TER, CAMBRIDGE, MA, 02138",
+  "match_type": "Exact",
+  "lon": -71.111412032264,
+  "lat": 42.375840853959
+ },
+ "A0049": {
+  "matched_address": "721 CLINTON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.033058218101,
+  "lat": 40.745798808889
+ },
+ "A0047": {
+  "matched_address": "14 RUTGERS AVE, JERSEY CITY, NJ, 07305",
+  "match_type": "Non_Exact",
+  "lon": -74.090865859165,
+  "lat": 40.698116647571
+ },
+ "A0289": {
+  "matched_address": "1741 MARTIN LUTHER KING JR WAY, BERKELEY, CA, 94709",
+  "match_type": "Exact",
+  "lon": -122.273285380013,
+  "lat": 37.874873789784
+ },
+ "A0048": {
+  "matched_address": "1619 COMMONWEALTH AVE, BRIGHTON, MA, 02135",
+  "match_type": "Exact",
+  "lon": -71.143549067491,
+  "lat": 42.343402761946
+ },
+ "A0169": {
+  "matched_address": "115 KILSYTH RD, BRIGHTON, MA, 02135",
+  "match_type": "Exact",
+  "lon": -71.146633078674,
+  "lat": 42.340367940381
+ },
+ "A0290": {
+  "matched_address": "21 FOREST ST, CAMBRIDGE, MA, 02140",
+  "match_type": "Exact",
+  "lon": -71.116197964756,
+  "lat": 42.385243189976
+ },
+ "A0170": {
+  "matched_address": "8917 CEDROS AVE, PANORAMA CITY, CA, 91402",
+  "match_type": "Non_Exact",
+  "lon": -118.453618335394,
+  "lat": 34.232064015614
+ },
+ "A0052": {
+  "matched_address": "88 GARDNER ST, ALLSTON, MA, 02134",
+  "match_type": "Exact",
+  "lon": -71.125813095903,
+  "lat": 42.353518237841
+ },
+ "A0173": {
+  "matched_address": "13180 FOOTHILL BLVD, SYLMAR, CA, 91342",
+  "match_type": "Non_Exact",
+  "lon": -118.421538456805,
+  "lat": 34.299371281369
+ },
+ "A0294": {
+  "matched_address": "178 RICHDALE AVE, CAMBRIDGE, MA, 02140",
+  "match_type": "Exact",
+  "lon": -71.126525304753,
+  "lat": 42.389122123461
+ },
+ "A0053": {
+  "matched_address": "32 GARRISON ST, BOSTON, MA, 02116",
+  "match_type": "Exact",
+  "lon": -71.07944707371,
+  "lat": 42.345890982312
+ },
+ "A0174": {
+  "matched_address": "84 HAMPSHIRE ST, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.0943940217,
+  "lat": 42.368359091009
+ },
+ "A0050": {
+  "matched_address": "36 HOFF ST, SAN FRANCISCO, CA, 94110",
+  "match_type": "Exact",
+  "lon": -122.420573521471,
+  "lat": 37.764124413322
+ },
+ "A0171": {
+  "matched_address": "127 OGDEN AVE, JERSEY CITY, NJ, 07307",
+  "match_type": "Non_Exact",
+  "lon": -74.04663280324,
+  "lat": 40.738902438048
+ },
+ "A0292": {
+  "matched_address": "24 BERKSHIRE ST, CAMBRIDGE, MA, 02141",
+  "match_type": "Exact",
+  "lon": -71.091628846996,
+  "lat": 42.368859452865
+ },
+ "A0051": {
+  "matched_address": "65 OAKLAND AVE, JERSEY CITY, NJ, 07306",
+  "match_type": "Non_Exact",
+  "lon": -74.055436604985,
+  "lat": 40.734681117954
+ },
+ "A0172": {
+  "matched_address": "8504 WILLIS AVE, PANORAMA CITY, CA, 91402",
+  "match_type": "Non_Exact",
+  "lon": -118.455218605953,
+  "lat": 34.224850838975
+ },
+ "A0293": {
+  "matched_address": "1314 NATOMA ST, SAN FRANCISCO, CA, 94103",
+  "match_type": "Exact",
+  "lon": -122.418602494007,
+  "lat": 37.768086302987
+ },
+ "A0338": {
+  "matched_address": "521 S 17TH ST, NEWARK, NJ, 07103",
+  "match_type": "Non_Exact",
+  "lon": -74.20839765431,
+  "lat": 40.738187740265
+ },
+ "A0115": {
+  "matched_address": "397 5TH AVE, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.46329611176,
+  "lat": 37.78123618708
+ },
+ "A0357": {
+  "matched_address": "173 7TH ST, SAN FRANCISCO, CA, 94103",
+  "match_type": "Exact",
+  "lon": -122.409540179118,
+  "lat": 37.778180361844
+ },
+ "A0009": {
+  "matched_address": "322 WESTERN AVE, CAMBRIDGE, MA, 02139",
+  "match_type": "Exact",
+  "lon": -71.113348085886,
+  "lat": 42.364468228676
+ },
+ "A0229": {
+  "matched_address": "5164 3RD ST, SAN FRANCISCO, CA, 94124",
+  "match_type": "Exact",
+  "lon": -122.392090570269,
+  "lat": 37.731288264664
+ },
+ "A0328": {
+  "matched_address": "1845 8TH AVE, SAN FRANCISCO, CA, 94122",
+  "match_type": "Exact",
+  "lon": -122.464604457855,
+  "lat": 37.753910517548
+ },
+ "A0364": {
+  "matched_address": "125 3RD AVE, SAN FRANCISCO, CA, 94118",
+  "match_type": "Exact",
+  "lon": -122.461516266857,
+  "lat": 37.786437508473
+ },
+ "A0343": {
+  "matched_address": "408 N 5TH ST, NEWARK, NJ, 07107",
+  "match_type": "Non_Exact",
+  "lon": -74.184334826891,
+  "lat": 40.762113405795
+ },
+ "A0484": {
+  "matched_address": "1801 8TH AVE, SAN FRANCISCO, CA, 94122",
+  "match_type": "Exact",
+  "lon": -122.464658373009,
+  "lat": 37.754690646826
+ },
+ "A0168": {
+  "matched_address": "600 JACKSON ST, HOBOKEN, NJ, 07030",
+  "match_type": "Non_Exact",
+  "lon": -74.039281685445,
+  "lat": 40.745283626731
+ }
+}

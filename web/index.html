@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rental Housing Law Navigator</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-stone-50 text-stone-900 antialiased">
+  <div class="bg-amber-100 border-b border-amber-300 text-amber-900 text-sm">
+    <div class="max-w-4xl mx-auto px-4 py-2"><strong>Not legal advice.</strong> This tool shows what the supplied public law text says for a building. It is not a compliance certification. Ask a lawyer or your local rent board before acting.</div>
+  </div>
+  <main class="max-w-4xl mx-auto px-4 py-8">
+    <h1 class="text-2xl font-semibold tracking-tight">Rental Housing Law Navigator</h1>
+    <p class="text-stone-600 mt-1">Which housing rules apply to this building on the date you pick, with the law they come from.</p>
+
+    <form method="get" action="/" class="mt-6 flex flex-wrap gap-3 items-end bg-white border border-stone-200 rounded-lg p-4">
+      <label class="flex-1 min-w-[18rem]">
+        <span class="block text-xs font-medium text-stone-500 uppercase tracking-wide">Building</span>
+        <select name="address_id" class="mt-1 w-full border border-stone-300 rounded-md px-2 py-2 bg-white">$options</select>
+      </label>
+      <label>
+        <span class="block text-xs font-medium text-stone-500 uppercase tracking-wide">As of</span>
+        <input type="date" name="as_of" value="$as_of" class="mt-1 border border-stone-300 rounded-md px-2 py-2">
+      </label>
+      <button type="submit" class="bg-stone-900 text-white rounded-md px-4 py-2 font-medium hover:bg-stone-700">Look up</button>
+    </form>
+
+    $body
+  </main>
+</body>
+</html>

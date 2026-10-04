@@ -1,0 +1,31 @@
+{
+ "doc_id": "D039",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "pending",
+   "title": "Report on algorithm-based rent-setting software and feasibility of ban",
+   "citation": "Los Angeles City Council Motion dated September 3, 2024",
+   "quote": "I THEREFORE MOVE that the City Council instruct the Los Angeles Housing Department to report on the number of ownership and management entities that are using algorithm-based software to establish rents and the feasibility of instituting a ban on the use of this software to set rents in the City.",
+   "summary": "The City Council is requesting a report on how many landlords use algorithmic rent-setting software and whether the City can ban its use.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

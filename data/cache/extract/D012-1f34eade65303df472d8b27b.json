@@ -1,0 +1,30 @@
+{
+ "doc_id": "D012",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "Boston, MA",
+   "status": "enacted",
+   "title": "Prohibition on source-of-income discrimination (rental assistance)",
+   "citation": "Boston Fair Housing Regulations",
+   "quote": "In the City of Boston, it's illegal to discriminate when renting, buying, selling, or securing financing for any housing. You can't discriminate someone based on their: Race Color Religion Disability National Origin Ancestry Sex Gender Identity Gender Expression Age Sexual Orientation Marital Status Rental Assistance * Family Status ** Military Status",
+   "summary": "In Boston, landlords cannot discriminate against tenants based on their source of rental assistance, including Section 8 vouchers, social security disability vouchers, and veterans vouchers.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

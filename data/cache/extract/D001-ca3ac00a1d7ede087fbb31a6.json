@@ -1,0 +1,31 @@
+{
+ "doc_id": "D001",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "Berkeley, CA",
+   "status": "enacted",
+   "title": "Prohibition on the Sale or Use of Coordinated Pricing Algorithms to Set Rents or Manage Occupancy Levels for Residential Dwelling Units",
+   "citation": "Berkeley Municipal Code \u00a7 13.63.030",
+   "quote": "It shall be unlawful to sell, license, or otherwise provide to City of Berkeley landlords any coordinated pricing algorithm that sets or recommends rents or occupancy levels that may be achieved for residential dwelling units in the City of Berkeley. It shall be unlawful for a landlord to use a coordinated pricing algorithm described in subsection A when setting rents or occupancy levels for residential dwelling units in the City of Berkeley.",
+   "summary": "It is illegal for landlords to use coordinated pricing algorithms that set or recommend rents or occupancy levels for residential units in Berkeley, and it is also illegal to sell or provide such algorithms to Berkeley landlords.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "residential dwelling units in the City of Berkeley",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Does not include: (a) products that publish aggregated/anonymous rental data without recommendations; (b) products for establishing affordable housing rent/income limits; (c) products for market research, appraisals, or software development/testing",
+   "penalty": "Civil penalties of up to $1,000 per violation, damages, injunctive relief, restitution/return of illegal profits, and attorney's fees. Each separate month and each separate unit constitute separate violations."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "doc_id": "D057",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "application_screening_fees",
+   "jurisdiction": "MA",
+   "status": "enacted",
+   "title": "Broker fee must be paid by party who engaged the broker",
+   "citation": "M.G.L. c. 112 \u00a7 87DDD1/2",
+   "quote": "Any fee shall only be paid by the party, lessor or tenant who originally engaged and entered into a contract with the licensed broker or salesperson.",
+   "summary": "A broker or salesperson fee for finding rental housing may only be paid by the party (landlord or tenant) who originally hired and contracted with the broker.",
+   "key_value": null,
+   "effective_date": "2025-08-01",
+   "effective_date_evidence": "Text of section as amended by 2025, 9, Sec. 43 effective August 1, 2025.  See 2025, 9, Sec. 136.",
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

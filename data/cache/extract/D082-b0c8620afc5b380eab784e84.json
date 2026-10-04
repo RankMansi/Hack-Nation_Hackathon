@@ -1,0 +1,53 @@
+{
+ "doc_id": "D082",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Francisco, CA",
+   "status": "enacted",
+   "title": "Relocation Payments for Owner/Relative Move-in, Demolition/Permanent Removal, Temporary Capital Improvement, or Substantial Rehabilitation Evictions",
+   "citation": "S.F. Rent Ordinance \u00a7 37.9C",
+   "quote": "Relocation Payments for Evictions based on Owner/Relative Move-in OR Demolition/Permanent Removal of Unit from Housing Use OR Temporary Capital Improvement Work* OR Substantial Rehabilitation",
+   "summary": "Landlords must pay relocation assistance to tenants evicted for owner/relative move-in, demolition, permanent removal from housing use, temporary capital improvement work, or substantial rehabilitation, with amounts varying by year and enhanced payments for elderly, disabled, or households with minor children.",
+   "key_value": "$8,245.00 per tenant (3/01/26-2/28/27); $24,733.00 max per unit; $5,497.00 additional for elderly/disabled/minor children",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "exemption_note": "Temporary capital improvement evictions for less than 20 days are governed by California Civil Code Section 1947.9",
+   "penalty": null
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Francisco, CA",
+   "status": "enacted",
+   "title": "Relocation Payments for Ellis Act Evictions",
+   "citation": "S.F. Rent Ordinance (Ellis Act relocation payments)",
+   "quote": "Relocation payments for tenants evicted under the Ellis Act",
+   "summary": "Landlords must pay relocation assistance to tenants evicted under the Ellis Act, with higher amounts than other no-fault evictions and enhanced payments for elderly or disabled tenants.",
+   "key_value": "$11,110.05 per tenant (3/01/26-2/28/27); $33,330.13 max per unit; $7,443.90 additional for elderly/disabled",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "exemption_note": "Elderly threshold is 62 years or older for Ellis Act evictions (versus 60 for other no-fault evictions)",
+   "penalty": null
+  }
+ ]
+}

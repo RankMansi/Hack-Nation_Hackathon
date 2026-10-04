@@ -1,0 +1,2437 @@
+{
+ "A0119": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0117": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0238": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0359": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0118": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0239": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0111": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0232": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0353": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0474": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0112": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0233": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0354": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0475": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0230": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0351": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0472": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0110": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0231": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0473": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0236": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0478": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0116": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0237": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0358": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0479": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0113": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0234": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0355": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0476": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0114": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0235": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0356": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0477": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0360": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0481": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0240": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0361": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0482": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0480": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0108": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0109": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0106": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0227": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0348": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0469": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0107": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0228": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0349": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0100": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0221": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0342": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0463": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0101": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0222": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0464": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0340": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0461": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0220": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0341": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0462": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0104": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0225": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0467": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0105": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0226": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0347": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0468": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0102": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0223": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0344": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0465": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0103": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0224": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0345": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0466": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0470": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0350": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0471": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0018": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0139": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0019": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0012": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0133": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0254": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0375": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0496": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0013": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0134": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0255": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0497": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0010": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0131": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0252": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0373": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0494": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0011": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0132": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0253": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0374": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0495": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0016": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0137": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0258": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0379": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0017": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0138": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0259": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0014": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0135": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0256": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0377": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0498": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0015": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0136": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0257": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0378": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0499": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0140": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0261": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0382": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0020": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0141": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0262": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0383": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0260": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0381": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0007": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0249": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0008": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0129": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0001": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0122": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0243": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0485": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0002": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0123": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0244": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0365": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0486": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0120": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0241": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0362": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0483": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0121": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0242": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0363": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0005": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0126": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0247": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0368": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0489": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0006": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0127": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0248": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0369": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0003": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0124": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0245": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0366": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0487": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0004": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0125": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0246": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0367": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0488": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0250": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0371": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0492": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0130": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0251": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0372": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0493": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0490": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0370": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0491": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0317": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0438": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0318": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0439": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0315": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0436": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0316": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0437": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0319": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0430": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0310": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0431": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0313": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0434": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0314": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0435": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0311": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0432": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0312": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0433": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0306": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0427": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0307": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0304": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0425": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0305": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0426": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0308": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0429": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0309": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0420": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0302": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0423": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0303": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0424": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0300": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0421": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0301": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0422": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0218": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0339": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0219": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0216": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0337": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0458": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0217": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0459": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0210": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0331": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0452": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0211": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0332": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0453": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0450": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0330": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0451": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0214": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0335": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0456": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0215": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0336": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0457": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0212": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0333": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0454": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0213": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0334": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0455": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0460": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0207": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0449": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0208": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0329": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0205": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0326": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0447": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0206": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0327": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0448": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0209": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0320": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0441": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0200": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0321": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0442": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0440": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0203": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0324": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0445": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0204": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0325": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0446": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0201": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0322": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0443": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0202": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0323": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0444": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0500": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0416": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0417": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0414": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0415": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0418": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0419": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0412": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0413": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0410": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0411": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0405": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0406": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0403": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0404": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0409": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0407": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0408": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0401": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0402": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0078": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0199": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0079": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0076": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0197": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0077": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0198": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0081": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0082": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0080": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0085": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0086": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0083": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0084": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0067": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0188": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0068": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0189": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0065": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0186": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0066": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0187": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0069": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0070": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0191": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0071": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0192": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0190": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0074": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0195": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0075": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0196": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0072": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0193": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0073": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0194": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0099": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0089": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0087": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0088": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0092": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0093": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0090": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0091": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0096": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0097": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0094": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0095": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0034": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0155": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0276": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0397": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0035": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0277": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0398": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0032": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0153": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0274": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0395": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0033": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0154": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0275": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0396": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0038": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0159": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0039": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0036": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0157": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0278": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0399": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0037": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0158": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0280": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0041": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0162": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0283": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0042": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0163": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0284": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0160": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0281": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0040": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0161": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0282": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0029": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0023": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0144": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0265": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0386": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0024": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0145": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0266": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0387": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0021": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0142": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0263": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0022": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0143": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0264": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0385": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0027": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0148": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0269": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0028": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0149": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0025": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0146": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0267": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0388": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0026": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0147": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0268": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0389": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0390": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0030": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0151": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0272": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0393": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0031": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0152": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0273": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0394": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0270": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0391": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0150": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0271": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0392": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0056": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0177": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0298": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0057": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0178": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0299": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0054": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0175": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0296": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0055": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0176": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0297": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0058": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0179": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0059": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0180": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0060": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0181": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0063": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0184": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0064": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0185": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0061": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0182": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0062": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0183": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0045": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0166": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0287": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0046": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0167": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0288": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0043": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0164": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0285": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0044": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0165": {
+  "state": "CA",
+  "county": "San Diego County",
+  "place": "San Diego"
+ },
+ "A0286": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0049": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ },
+ "A0047": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0289": {
+  "state": "CA",
+  "county": "Alameda County",
+  "place": "Berkeley"
+ },
+ "A0048": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0169": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0290": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0170": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0052": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0173": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0294": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0053": {
+  "state": "MA",
+  "county": "Suffolk County",
+  "place": "Boston"
+ },
+ "A0174": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0050": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0171": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0292": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0051": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Jersey City"
+ },
+ "A0172": {
+  "state": "CA",
+  "county": "Los Angeles County",
+  "place": "Los Angeles"
+ },
+ "A0293": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0338": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0343": {
+  "state": "NJ",
+  "county": "Essex County",
+  "place": "Newark"
+ },
+ "A0115": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0357": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0009": {
+  "state": "MA",
+  "county": "Middlesex County",
+  "place": "Cambridge"
+ },
+ "A0229": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0328": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0364": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0484": {
+  "state": "CA",
+  "county": "San Francisco County",
+  "place": "San Francisco"
+ },
+ "A0168": {
+  "state": "NJ",
+  "county": "Hudson County",
+  "place": "Hoboken"
+ }
+}

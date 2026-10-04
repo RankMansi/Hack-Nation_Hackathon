@@ -1,0 +1,33 @@
+{
+ "doc_id": "D029",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "Cambridge, MA",
+   "status": "enacted",
+   "title": "Cambridge Fair Housing Ordinance - Source of Income Discrimination Prohibition",
+   "citation": "Cambridge Fair Housing Ordinance, chapter 14.04",
+   "quote": "The protected categories under the Cambridge Human Rights Ordinance and the Cambridge Fair Housing Ordinance are the following: ... Source of Income, includes Section 8 and public benefits",
+   "summary": "Landlords in Cambridge cannot discriminate against tenants based on their source of income, which includes Section 8 vouchers and public benefits.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "The Fair Housing Ordinance prohibits discrimination in real estate transactions such as: viewing or renting an apartment, terms and conditions of tenancy",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "units",
+    "owner_type"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "there is an exemption for 2-family dwellings, when the owner lives there",
+   "penalty": "The Commission has the authority to provide various remedies after hearing, including filing a criminal complaint in District Court, levying civil fines of up to $300 for each violation, filing a civil complaint in Superior Court seeking injunctive relief"
+  }
+ ]
+}

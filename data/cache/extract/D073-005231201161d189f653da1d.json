@@ -1,0 +1,65 @@
+{
+ "doc_id": "D073",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "Just Cause Required for Termination of Tenancy",
+   "citation": "San Diego Municipal Code \u00a7 98.0704",
+   "quote": "A landlord shall not terminate a tenancy without just cause. For purposes of this Division, just cause includes at-fault just cause and no-fault just cause.",
+   "summary": "Landlords may only terminate a tenancy for just cause, which includes at-fault reasons (like nonpayment of rent or lease violations) or no-fault reasons (like owner move-in or substantial remodel).",
+   "key_value": null,
+   "effective_date": "2023-06-24",
+   "effective_date_evidence": "Retitled to \"Residential Tenant Protections\" on 5-25-2023 by O-21647 N.S.; effective 6-24-2023.",
+   "coverage_text": "residential rental property subject to this Division",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Exemptions include transient hotels, short-term rentals, deed-restricted affordable housing, subsidized housing (excluding Section 8), mobilehomes under Mobilehome Residency Law, nonprofit facilities, dormitories, shared facilities with landlord, owner-occupied single-family or duplex, housing with certificate of occupancy within 15 years (unless mobilehome), and certain condos/single-family homes where landlord is not a REIT or corporation and tenants receive notice of exemption.",
+   "penalty": "Tenant may seek injunctive relief, equitable relief, money damages including punitive damages; wrongful eviction damages of not less than three times actual economic damages; failure to provide relocation assistance results in liability of not less than three times the required amount plus actual damages; reasonable attorney's fees and costs in court's discretion."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Diego, CA",
+   "status": "enacted",
+   "title": "Relocation Assistance for No-Fault Just Cause Eviction",
+   "citation": "San Diego Municipal Code \u00a7 98.0706(c)",
+   "quote": "Unless section 98.0706(c)(1)(A)(ii) applies, the direct payment to the tenant shall be in an amount equal to two months of actual rent under the tenant's lease in effect at the date of the notice. If the tenant is a senior or disabled, the direct payment to the tenant shall be in an amount equal to three months of actual rent under the tenant's lease in effect at the date of the notice.",
+   "summary": "For no-fault just cause evictions, landlords must provide relocation assistance equal to two months' rent, or three months' rent if the tenant is a senior (62+) or disabled, either as direct payment or rent waiver.",
+   "key_value": "2 months' rent (3 months for seniors/disabled)",
+   "effective_date": "2023-06-24",
+   "effective_date_evidence": "Retitled to \"Residential Tenant Protections\" on 5-25-2023 by O-21647 N.S.; effective 6-24-2023.",
+   "coverage_text": "residential rental property subject to this Division",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "year_built",
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Same exemptions as \u00a7 98.0704. Any relocation assistance required by this Division shall be credited against any other relocation assistance required by any federal, state, or other local law.",
+   "penalty": "Landlord who fails to provide relocation assistance shall be liable to the tenant in a civil action for not less than three times the required relocation assistance and actual economic damages."
+  }
+ ]
+}

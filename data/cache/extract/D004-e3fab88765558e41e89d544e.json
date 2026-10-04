@@ -1,0 +1,53 @@
+{
+ "doc_id": "D004",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Berkeley, CA",
+   "status": "enacted",
+   "title": "Owner move-in eviction relocation assistance (2026 adjustment)",
+   "citation": "Berkeley Rent Stabilization and Good Cause for Eviction Ordinance",
+   "quote": "The Rent Stabilization and Good Cause for Eviction Ordinance requires owners to pay tenants relocation assistance in the event of an owner move-in eviction.",
+   "summary": "Owners must pay tenants relocation assistance when evicting for owner move-in, with a standard payment of $19,413 and an additional $6,471 for qualifying households, effective January 1, 2026.",
+   "key_value": "$19,413 standard; $6,471 additional for qualifying households",
+   "effective_date": "2026-01-01",
+   "effective_date_evidence": "At its October 16, 2025 Special Meeting, the Rent Board approved relocation assistance payment increases that will go into effect on January 1, 2026.",
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "exemption_note": null,
+   "penalty": null
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Berkeley, CA",
+   "status": "enacted",
+   "title": "Ellis Act eviction relocation assistance (2026 adjustment)",
+   "citation": "Berkeley Ellis Implementation Ordinance",
+   "quote": "The Ellis Implementation Ordinance requires the same relocation assistance payments for tenants evicted so the owner can remove a property from the rental housing market.",
+   "summary": "Owners must pay tenants relocation assistance when evicting under the Ellis Act to remove property from the rental market, with a standard payment of $19,413 and an additional $6,471 for qualifying households, effective January 1, 2026.",
+   "key_value": "$19,413 standard; $6,471 additional for qualifying households",
+   "effective_date": "2026-01-01",
+   "effective_date_evidence": "At its October 16, 2025 Special Meeting, the Rent Board approved relocation assistance payment increases that will go into effect on January 1, 2026.",
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

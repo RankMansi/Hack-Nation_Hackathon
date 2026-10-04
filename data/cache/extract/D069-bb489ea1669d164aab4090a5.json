@@ -1,0 +1,31 @@
+{
+ "doc_id": "D069",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "NJ",
+   "status": "enacted",
+   "title": "Forbidding the Algorithmic Inflation of Rent (FAIR) Act - prohibition on use of algorithmic pricing coordinators",
+   "citation": "P.L. 2026, c.43",
+   "quote": "It shall be unlawful and a violation of the \"New Jersey Antitrust Act,\" P.L.1970, c.73 (C.56:9-1 et seq.) for: a. a rental property owner, or any agent, representative, or subcontractor thereof, to receive, subscribe to, contract for, or otherwise exchange any form of consideration in return for the use of, the services of a coordinator; b. a coordinator to facilitate a tacit or express agreement among rental property owners that restricts competition with respect to residential dwelling units, including by performing a coordinating function",
+   "summary": "Rental property owners are prohibited from using coordinator services that employ algorithmic devices to set or recommend rents using competitively sensitive information from multiple landlords, and coordinators are prohibited from performing such coordinating functions.",
+   "key_value": null,
+   "effective_date": "2027-07-01",
+   "effective_date_evidence": "approved July 20, 2026... This act shall take effect on the first day of the twelfth month next following the date of enactment.",
+   "coverage_text": "applies to rental property owners of residential dwelling units in New Jersey",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Excludes affordability-controlled units, research/statistical analysis, free public rent estimates, real estate brokerage databases that don't set prices, and government entities setting rents through affordability controls",
+   "penalty": "Violation of the New Jersey Antitrust Act, P.L.1970, c.73 (C.56:9-1 et seq.)"
+  }
+ ]
+}

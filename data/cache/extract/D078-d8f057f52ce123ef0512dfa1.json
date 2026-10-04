@@ -1,0 +1,33 @@
+{
+ "doc_id": "D078",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "San Francisco, CA",
+   "status": "enacted",
+   "title": "Fair Chance Ordinance - Criminal History Protection in Affordable Housing",
+   "citation": "San Francisco Fair Chance Ordinance",
+   "quote": "San Francisco's Fair Chance Ordinance protects residents with arrest or conviction history in affordable housing decisions.",
+   "summary": "The Fair Chance Ordinance prohibits discrimination based on arrest or conviction history when making affordable housing decisions in San Francisco.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "affordable housing",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Applies to affordable housing only",
+   "penalty": null
+  }
+ ]
+}

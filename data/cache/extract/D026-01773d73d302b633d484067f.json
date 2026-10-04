@@ -1,0 +1,31 @@
+{
+ "doc_id": "D026",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "application_screening_fees",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Application screening fee cap and consumer protections",
+   "citation": "Cal. Civ. Code \u00a7 1950.6",
+   "quote": "In no case shall the amount of the application screening fee charged by the landlord or their agent be greater than thirty dollars ($30) per applicant. The thirty dollar ($30) application screening fee may be adjusted annually by the landlord or their agent commensurate with an increase in the Consumer Price Index, beginning on January 1, 1998.",
+   "summary": "Landlords may not charge more than $30 per applicant for an application screening fee, with annual CPI adjustments allowed since 1998.",
+   "key_value": "$30 + annual CPI adjustment",
+   "effective_date": "2026-01-01",
+   "effective_date_evidence": "Effective January 1, 2026.",
+   "coverage_text": "residential rental property",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Does not apply to federal or state housing assistance programs with their own deposit and fee regulations.",
+   "penalty": "Landlord or agent must return any amount of screening fee not used for authorized purposes to the applicant; must refund fee within seven days if application not considered due to multiple concurrent submissions."
+  }
+ ]
+}

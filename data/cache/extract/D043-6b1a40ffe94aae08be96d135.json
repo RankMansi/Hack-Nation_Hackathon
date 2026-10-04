@@ -1,0 +1,80 @@
+{
+ "doc_id": "D043",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "No-Fault Eviction Relocation Assistance \u2013 RSO & JCO Standard Amounts",
+   "citation": "Los Angeles Municipal Code (LAMC) \u00a7\u00a7 151.09, 165.03, 165.06",
+   "quote": "All tenant not- at-fault evictions require payment of relocation assistance and the filing of a Declaration of Intent to Evict form with the Los Angeles Housing Department (LAHD) before evicting tenants from units covered by the Rent Stabilization Ordinance (RSO) or the Just Cause Ordinance (JCO).",
+   "summary": "Landlords must pay relocation assistance and file a Declaration of Intent to Evict with LAHD before evicting tenants for no-fault reasons under the RSO or JCO.",
+   "key_value": "Eligible: $11,000 (< 3 yrs) / $14,400 (\u2265 3 yrs or low income); Qualified: $23,150 / $27,400",
+   "effective_date": "2026-07-01",
+   "effective_date_evidence": "Effective July 1, 2026 through June 30, 2027",
+   "coverage_text": "units covered by the Rent Stabilization Ordinance (RSO) or the Just Cause Ordinance (JCO)",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Mom and Pop properties (4 or fewer units) may pay reduced amounts ($10,550 eligible / $21,250 qualified) for owner/family occupancy evictions if conditions met. Single-family dwellings owned by natural persons under JCO may pay one month's rent.",
+   "penalty": "Failure to file the Landlord Declaration with the LAHD makes the eviction a violation of the RSO or JCO."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Relocation Assistance for Demolition for New Construction \u2013 RPO Enhanced Payments",
+   "citation": "Los Angeles Municipal Code (LAMC) Ordinances #188481 and #188482; California Government Code \u00a7 66300.6(b)(4)(A)",
+   "quote": "The City's Resident Protections Ordinance (RPO) and the State's Housing Crisis Act (HCA) require that ONLY lower income households (80% AMI or lower) being displaced for demolition of their units where the owner will replace the units with new construction receive relocation payment consistent to the relocation benefits required to be paid by public entities under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 (Government Code 66300.6(b)(4)(A)).",
+   "summary": "Lower-income households (80% AMI or below) displaced by demolition for new construction receive enhanced relocation payments under the Resident Protections Ordinance, with extremely low-income tenants receiving $115,480, very low-income receiving $96,750, and low-income receiving $87,450.",
+   "key_value": "Extremely Low Income: $115,480; Very Low Income: $96,750; Low Income: $87,450",
+   "effective_date": "2025-02-11",
+   "effective_date_evidence": "On February 11, 2025, the Los Angeles City Council adopted the RPO which codified and expanded upon replacement requirements and occupant protections of the HCA, and enhanced requirements for Restricted Affordable Units.",
+   "coverage_text": "Protected Units demolished for the purpose of new construction occupied by lower income households",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Only applies to Protected Units (RSO units, units with affordability covenants, units rented by lower/very-low income households within past 5 years, or Ellis Act withdrawals within past 10 years) being demolished for new construction. Above low-income tenants receive standard RSO/JCO amounts.",
+   "penalty": "Failure to comply with the RPO may result in financial penalties starting at $250,000 per displaced unit and withholding of LAHD permit clearances."
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Relocation Assistance Payment Timing Requirements",
+   "citation": "Los Angeles Municipal Code (LAMC) \u00a7\u00a7 151.09, 165.06",
+   "quote": "Payment shall be made available within fifteen (15) days of service of the written notice of eviction; however, At the landlord's sole discretion and cost, the landlord may elect to pay the monetary relocation benefits through an escrow account. The monies must be placed in the escrow account within the required 15-day period.",
+   "summary": "Landlords must make relocation assistance payments available within 15 days of serving the eviction notice, either directly or through an escrow account established within that period.",
+   "key_value": "15 days",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": null,
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "exemption_note": null,
+   "penalty": null
+  }
+ ]
+}

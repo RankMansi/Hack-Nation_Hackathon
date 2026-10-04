@@ -1,0 +1,35 @@
+{
+ "doc_id": "D048",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "rent_increase_limits",
+   "jurisdiction": "MA",
+   "status": "enacted",
+   "title": "General prohibition on rent control",
+   "citation": "M.G.L. c. 40P \u00a7 4",
+   "quote": "No city or town may enact, maintain or enforce rent control of any kind, except that any city or town that accepts this chapter may adopt rent control regulation that provides: (a) after six months from the date of the initial adoption of rent control regulation by a particular city or town, compliance on the part of property owners as to the rent control regulation or any subsequently adopted rent control regulation shall be entirely voluntary and uncoerced",
+   "summary": "Massachusetts cities and towns may not enact or enforce rent control of any kind, except that municipalities accepting this chapter may adopt rent control that becomes voluntary for property owners after six months.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "except that any city or town that accepts this chapter may adopt rent control regulation that provides compliance shall be entirely voluntary after six months, may not regulate occupancy, services, evictions, condominium conversion, nor apply to rental units owned by persons owning less than ten rental units or with fair market rent exceeding $400",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 9,
+   "facts_required": [
+    "units",
+    "owner_type",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Exempt if owned by person or entity owning less than 10 rental units or if fair market rent exceeds $400; municipalities must compensate owners for difference between fair market rent and controlled rent from general funds",
+   "penalty": null
+  }
+ ]
+}

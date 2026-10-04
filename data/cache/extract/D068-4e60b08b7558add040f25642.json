@@ -1,0 +1,33 @@
+{
+ "doc_id": "D068",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "NJ",
+   "status": "enacted",
+   "title": "Source of lawful income protection in housing",
+   "citation": "N.J.S.A. 10:5 (Law Against Discrimination)",
+   "quote": "The LAD also prohibits housing discrimination based on the source of lawful income or source of lawful rent or mortgage payment a tenant or purchaser uses. This means, for example, that a landlord cannot deny the lawful recipient of a Section 8 HUD voucher the right to rent an apartment based solely on that source of lawful income.",
+   "summary": "Landlords cannot discriminate against tenants based on their source of lawful income, including Section 8 vouchers.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "applies to the sale or rental of all property including open land, whether for business or residential purposes, with exceptions for owner-occupied two-family dwellings (rental of single unit), rooms in owner-occupied one-family dwellings, and certain religious organization preferences",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": 2,
+   "facts_required": [
+    "units",
+    "owner_type"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Does not apply to rental of single apartment in owner-occupied two-family dwelling or room rental in owner-occupied one-family dwelling",
+   "penalty": "Complaint may be filed with Division on Civil Rights within 180 days or in Superior Court within 2 years; may result in administrative hearing and remedial orders"
+  }
+ ]
+}

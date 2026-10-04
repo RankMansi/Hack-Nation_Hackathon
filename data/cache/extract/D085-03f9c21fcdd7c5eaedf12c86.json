@@ -1,0 +1,87 @@
+{
+ "doc_id": "D085",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "rent_increase_limits",
+   "jurisdiction": "Santa Ana, CA",
+   "status": "enacted",
+   "title": "Santa Ana Rent Stabilization Ordinance",
+   "citation": "Santa Ana Rent Stabilization Ordinance",
+   "quote": "Increase in residential rents are limited to the lower of 3% per year, or 80% of the percent change in the Consumer Price Index over the most recent 12-month period. If the CPI is negative, no rent increase is permitted.",
+   "summary": "Annual rent increases are capped at the lower of 3% or 80% of CPI; if CPI is negative, no increase is allowed.",
+   "key_value": "Lower of 3% or 80% of CPI",
+   "effective_date": "2021-11-19",
+   "effective_date_evidence": "The new ordinances are not effective until November 19, 2021.",
+   "coverage_text": "The rent cap does not apply to residential buildings constructed after February 1, 1995, or to mobile home spaces offered for rent after January 1, 1990.",
+   "built_on_or_before": "1995-02-01",
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "year_built",
+    "use_code"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Mobile home spaces offered for rent after January 1, 1990 are exempt.",
+   "penalty": null
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Santa Ana, CA",
+   "status": "enacted",
+   "title": "Santa Ana Just Cause Eviction Ordinance",
+   "citation": "Santa Ana Just Cause Eviction Ordinance",
+   "quote": "After 30 days, an owner shall not terminate a tenancy without just cause, which shall be stated in a written notice.",
+   "summary": "After 30 days of tenancy, landlords can only terminate a tenancy for just cause stated in a written notice.",
+   "key_value": null,
+   "effective_date": "2021-11-19",
+   "effective_date_evidence": "The new ordinances are not effective until November 19, 2021.",
+   "coverage_text": "The Just Cause Ordinance shall not apply to certain types of residential property, including housing produced in the last 15 years; deed-restricted affordable housing; hotel and transient occupancy; hospital and care facilities; dormitories; and other shared living quarters.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "year_built",
+    "use_code",
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Deed-restricted affordable housing, hotels, hospitals, care facilities, dormitories, and shared living quarters are exempt.",
+   "penalty": null
+  },
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Santa Ana, CA",
+   "status": "enacted",
+   "title": "Santa Ana No-Fault Eviction Relocation Assistance",
+   "citation": "Santa Ana Just Cause Eviction Ordinance",
+   "quote": "Under a no-fault just cause termination, the owner shall either provide 3 months of relocation assistance or waive payment of rent for the final 3 months of the tenancy.",
+   "summary": "For no-fault evictions, landlords must provide either three months of relocation assistance or waive the final three months of rent.",
+   "key_value": "3 months",
+   "effective_date": "2021-11-19",
+   "effective_date_evidence": "The new ordinances are not effective until November 19, 2021.",
+   "coverage_text": "The Just Cause Ordinance shall not apply to certain types of residential property, including housing produced in the last 15 years; deed-restricted affordable housing; hotel and transient occupancy; hospital and care facilities; dormitories; and other shared living quarters.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": 15,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "year_built",
+    "use_code",
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Deed-restricted affordable housing, hotels, hospitals, care facilities, dormitories, and shared living quarters are exempt.",
+   "penalty": null
+  }
+ ]
+}

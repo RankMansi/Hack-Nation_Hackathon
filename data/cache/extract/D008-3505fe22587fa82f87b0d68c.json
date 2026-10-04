@@ -1,0 +1,32 @@
+{
+ "doc_id": "D008",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "rent_increase_limits",
+   "jurisdiction": "Berkeley, CA",
+   "status": "enacted",
+   "title": "Annual General Adjustment (AGA) for Year 2026",
+   "citation": "Berkeley Rent Stabilization Board Regulation 1148",
+   "quote": "The Berkeley Rent Stabilization Board adopted the Annual General Adjustment (AGA) Order for Year 2026 which will allow eligible landlords to increase the 2025 permanent rent ceilings by 1.0% no earlier than January 1, 2026. The 2026 AGA of 1.0% represents 65% of the increase in the Consumer Price Index (CPI) for All Urban Consumers in the Bay Area during the period from July 1, 2024 - June 30, 2025, which was 1.5% as posted by the Bureau of Labor Statistics.",
+   "summary": "Berkeley allows eligible landlords to increase rent by 1.0% starting January 1, 2026, calculated as 65% of the Bay Area CPI increase.",
+   "key_value": "1.0% (65% of CPI)",
+   "effective_date": "2026-01-01",
+   "effective_date_evidence": "which will allow eligible landlords to increase the 2025 permanent rent ceilings by 1.0% no earlier than January 1, 2026",
+   "coverage_text": "The 2026 AGA may not adjust tenants' rents when their tenancy began on or after January 1, 2025, and who had their rents set pursuant to the Costa-Hawkins Rental Housing Act.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Does not apply to tenancies that began on or after January 1, 2025 with rents set pursuant to Costa-Hawkins Rental Housing Act",
+   "penalty": null
+  }
+ ]
+}

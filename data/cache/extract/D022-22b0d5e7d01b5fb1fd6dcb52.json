@@ -1,0 +1,57 @@
+{
+ "doc_id": "D022",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Prohibition on using or distributing common pricing algorithms in restraint of trade",
+   "citation": "Cal. Bus. & Prof. Code \u00a7 16729",
+   "quote": "It shall be unlawful for a person to use or distribute a common pricing algorithm as part of a contract, combination in the form of a trust, or conspiracy to restrain trade or commerce in violation of this chapter.",
+   "summary": "It is unlawful to use or distribute a common pricing algorithm as part of a contract, combination, or conspiracy that restrains trade or commerce.",
+   "key_value": null,
+   "effective_date": "2026-01-01",
+   "effective_date_evidence": "Approved by Governor October 06, 2025. Filed with Secretary of State October 06, 2025.",
+   "coverage_text": "Applies to any person using or distributing a common pricing algorithm (methodology used by two or more persons that uses competitor data to recommend, align, stabilize, set, or otherwise influence a price or commercial term) as part of restraint of trade",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "End consumers of a product or service are not included in the definition of 'person' subject to this law",
+   "penalty": "Violation is punishable as a crime under the Cartwright Act"
+  },
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "CA",
+   "status": "enacted",
+   "title": "Prohibition on coercing price adoption from common pricing algorithm",
+   "citation": "Cal. Bus. & Prof. Code \u00a7 16729(b)",
+   "quote": "It shall be unlawful for a person to use or distribute a common pricing algorithm if the person coerces another person to set or adopt a recommended price or commercial term recommended by the common pricing algorithm for the same or similar products or services in the jurisdiction of this state.",
+   "summary": "It is unlawful to use or distribute a common pricing algorithm if you coerce another person to adopt a recommended price or commercial term for the same or similar products or services.",
+   "key_value": null,
+   "effective_date": "2026-01-01",
+   "effective_date_evidence": "Approved by Governor October 06, 2025. Filed with Secretary of State October 06, 2025.",
+   "coverage_text": "Applies to any person who coerces another to set or adopt recommended prices or commercial terms from a common pricing algorithm for the same or similar products or services",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "End consumers of a product or service are not included in the definition of 'person' subject to this law",
+   "penalty": "Violation is punishable as a crime under the Cartwright Act"
+  }
+ ]
+}

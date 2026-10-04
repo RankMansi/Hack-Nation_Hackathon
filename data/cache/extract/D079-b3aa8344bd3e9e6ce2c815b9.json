@@ -1,0 +1,34 @@
+{
+ "doc_id": "D079",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "San Francisco, CA",
+   "status": "enacted",
+   "title": "Just cause eviction requirement",
+   "citation": "S.F. Rent Ordinance \u00a7 37.9(a)",
+   "quote": "In order to evict a tenant from a rental unit covered by the Rent Ordinance, a landlord must have a \"just cause\" reason that is the dominant motive for pursuing the eviction. Note that the mere expiration of a rental agreement or a change in ownership does not constitute \"just cause\" for eviction.",
+   "summary": "Landlords must have one of the seventeen enumerated just cause reasons as the dominant motive to evict a tenant from a rental unit covered by the Rent Ordinance, and mere expiration of a lease or change in ownership does not constitute just cause.",
+   "key_value": "17 just cause reasons",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "Some tenancies that are exempt from the rent increase limitations of the Ordinance are still subject to the eviction provisions of the Ordinance, and tenants in these categories can only be evicted for one of the \"just cause\" reasons listed in the Ordinance. This includes tenancies in newly constructed rental units that first obtained a Certificate of Occupancy after June 13, 1979, tenancies that are eligible for a rent increase under the Costa-Hawkins Rental Housing Act, and some tenancies where the rent is regulated by another government agency.",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "year_built",
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": "Newly constructed rental units with Certificate of Occupancy after June 13, 1979 are exempt from rent increase limitations but still subject to just cause eviction requirements.",
+   "penalty": "If a landlord evicts or tries to evict a tenant unlawfully, the landlord may be subject to substantial civil and/or criminal liability."
+  }
+ ]
+}

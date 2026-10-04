@@ -1,0 +1,31 @@
+{
+ "doc_id": "D013",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "just_cause_eviction",
+   "jurisdiction": "Boston, MA",
+   "status": "enacted",
+   "title": "Housing Stability Notification Act - Notice of Tenant Rights Required",
+   "citation": "Boston City Ordinances \u00a7 10-11.7",
+   "quote": "The Housing Stability Notification Act requires ALL LANDLORDS planning to end a tenancy agreement to provide the tenant with a Notice of Tenants' Rights and Resources. The Notice of Tenants' Rights and Resources should be delivered at the same time as the Notice to quit or Notice of non-renewal of lease.",
+   "summary": "Landlords ending a tenancy must provide tenants with a Notice of Tenant's Rights and Resources at the same time as serving a notice to quit or notice of non-renewal of lease.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "ALL LANDLORDS planning to end a tenancy agreement",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "caps_rent": false,
+   "exemption_note": null,
+   "penalty": "1st Offense: Warning; 2nd and Subsequent Offenses: $300 per day"
+  }
+ ]
+}

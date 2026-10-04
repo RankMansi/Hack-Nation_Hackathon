@@ -1,0 +1,30 @@
+{
+ "doc_id": "D069",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "algorithmic_rent_setting",
+   "jurisdiction": "NJ",
+   "status": "enacted",
+   "title": "Forbidding the Algorithmic Inflation of Rent (FAIR) Act",
+   "citation": "P.L. 2026, c.43 (N.J.S.A. 56:9-20 to 56:9-26)",
+   "quote": "It shall be unlawful and a violation of the \"New Jersey Antitrust Act,\" P.L.1970, c.73 (C.56:9-1 et seq.) for: a. a rental property owner, or any agent, representative, or subcontractor thereof, to receive, subscribe to, contract for, or otherwise exchange any form of consideration in return for the use of, the services of a coordinator; b. a coordinator to facilitate a tacit or express agreement among rental property owners that restricts competition with respect to residential dwelling units, including by performing a coordinating function;",
+   "summary": "It is unlawful for rental property owners to use coordinator services that perform coordinating functions or facilitate agreements restricting competition with respect to residential dwelling units.",
+   "key_value": null,
+   "effective_date": "2027-07-01",
+   "effective_date_evidence": "approved July 20, 2026 ... This act shall take effect on the first day of the twelfth month next following the date of enactment.",
+   "coverage_text": "residential dwelling units (any house, apartment, accessory unit, or other unit intended to be used as a primary residence in the State)",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [],
+   "yields_to_local": false,
+   "exemption_note": "Does not apply to government affordability controls, research/statistical analysis not used for pricing, public rent estimates, real estate brokerage databases that don't set prices, or spreadsheets without AI requiring human analysis.",
+   "penalty": "Violation of the New Jersey Antitrust Act, subject to sections 6 through 17 of P.L.1970, c.73 (C.56:9-6 through 9-17)"
+  }
+ ]
+}

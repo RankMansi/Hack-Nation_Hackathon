@@ -1,0 +1,33 @@
+{
+ "doc_id": "D042",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v4",
+ "rules": [
+  {
+   "category": "rent_increase_limits",
+   "jurisdiction": "Los Angeles, CA",
+   "status": "enacted",
+   "title": "Los Angeles RSO Annual Rent Increase Limit (July 1, 2025 - June 30, 2026)",
+   "citation": "Los Angeles Rent Stabilization Ordinance",
+   "quote": "Annual rent increases for rental units subject to the City of Los Angeles Rent Stabilization Ordinance (RSO), effective July 1, 2025, through June 30, 2026 is 3%.",
+   "summary": "Rent increases for units covered by the Los Angeles Rent Stabilization Ordinance are limited to 3% per year for the period from July 1, 2025 through June 30, 2026.",
+   "key_value": "3%",
+   "effective_date": "2025-07-01",
+   "effective_date_evidence": "Annual rent increases for rental units subject to the City of Los Angeles Rent Stabilization Ordinance (RSO), effective July 1, 2025, through June 30, 2026 is 3%.",
+   "coverage_text": "rental units subject to the City of Los Angeles Rent Stabilization Ordinance (RSO)",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "caps_rent": true,
+   "exemption_note": "Only applies to rental units subject to RSO; tenants can check RSO status at zimas.lacity.org",
+   "penalty": null
+  }
+ ]
+}

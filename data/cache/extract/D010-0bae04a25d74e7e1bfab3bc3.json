@@ -1,0 +1,57 @@
+{
+ "doc_id": "D010",
+ "model": "claude-sonnet-4-5",
+ "prompt_version": "v3",
+ "rules": [
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "Boston, MA",
+   "status": "enacted",
+   "title": "Boston Fair Chance Tenant Selection Policy - Criminal History Restrictions",
+   "citation": "Boston Fair Chance Tenant Selection Policy",
+   "quote": "The Developer/Agent (Agent) agrees to not consider any of the following categories when determining housing eligibility and or considering eviction: a) Arrests that did not result in conviction. This includes dismissed charges, diversion programs, and similar non-convictions. b) Convictions that are subject to a form of judicial relief, such as expungement, sealing, and certificates for relief from disabilities. c) Juvenile records d) A conviction more than 5 years old.",
+   "summary": "Housing providers may not consider arrests without convictions, expunged or sealed convictions, juvenile records, or convictions more than 5 years old when screening applicants.",
+   "key_value": "5 years",
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "housing providers receiving Department of Neighborhood Development (DND) funding and/or land, or that have income restricted units created under the Boston Planning and Development Agency (BPDA) Inclusionary Development Policy",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Does not apply where there is a direct relationship between a conviction and the housing sought and or unreasonable risk of substantial harm to the safety of others, or to current criminal behavior. Federal or state law preempts this policy.",
+   "penalty": null
+  },
+  {
+   "category": "screening_restrictions",
+   "jurisdiction": "Boston, MA",
+   "status": "enacted",
+   "title": "Boston Fair Chance Tenant Selection Policy - Credit Score Prohibition",
+   "citation": "Boston Fair Chance Tenant Selection Policy",
+   "quote": "The agent agrees not to use the applicant credit score to approve or deny housing applications.",
+   "summary": "Housing providers may not use credit scores to approve or deny housing applications.",
+   "key_value": null,
+   "effective_date": null,
+   "effective_date_evidence": null,
+   "coverage_text": "housing providers receiving Department of Neighborhood Development (DND) funding and/or land, or that have income restricted units created under the Boston Planning and Development Agency (BPDA) Inclusionary Development Policy",
+   "built_on_or_before": null,
+   "built_after": null,
+   "exempt_if_newer_than_years": null,
+   "min_units": null,
+   "max_units": null,
+   "exemption_max_units": null,
+   "facts_required": [
+    "other"
+   ],
+   "yields_to_local": false,
+   "exemption_note": "Property Managers may consider credit history (but not credit score) in lieu of rental history to determine ability to pay rent when rental history is not available.",
+   "penalty": null
+  }
+ ]
+}
