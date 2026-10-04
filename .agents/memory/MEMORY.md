@@ -1,1 +1,2 @@
 - [Legal-source version pitfalls](legal-source-versions.md) — current codifications can remove historical commencement clauses; do not transfer an old draft's date to an amendment.
+- [GitHub upload access](github-upload-access.md) — connector authorization and Git CLI authentication are separate; check remote divergence before uploading.
