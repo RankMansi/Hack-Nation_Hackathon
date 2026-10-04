@@ -1,0 +1,371 @@
+NOTICE: All slip opinions and orders are subject to formal revision and are superseded by the advance sheets and bound volumes of the Official Reports. If you find a typographical error or other formal error, please notify the Reporter of Decisions, Supreme Judicial Court, John Adams Courthouse, 1 Pemberton Square, Suite 2500, Boston, MA, 02108-1750; (617) 557- 1030; SJCReporter@sjc.state.ma.us
+
+SJC-13893
+
+ARCANGELO CELLA & others1 vs. ATTORNEY GENERAL & another. 2
+
+Suffolk. May 6, 2026. -June 23, 2026.
+
+Present: Budd, C.J., Gaziano, Kafker, Wendlandt, Georges, Dewar, & Wolohojian, JJ.
+
+Initiative. Constitutional Law, Initiative petition. Attorney General. Religion. Rent Control, Exemption. Landlord and Tenant, Rent.
+
+Civil action commenced in the Supreme Judicial Court for the county of Suffolk on February 6, 2026.
+
+The case was reported by Gaziano, J.
+
+Edmund P. Daley (Elissa Flynn-Poppey & Kadie D. Martin also present) for the plaintiffs. Phoebe Fischer-Groban, Assistant Attorney General, for the defendants. The following submitted briefs for amici curiae: Frank J. Bailey, Paul R. Johnson, & Gabriela Forero for Pioneer New England Legal Foundation. Laura F. Camara, Courtney Libon, Joseph Michalakes, & Mark Martinez for Homes for All Massachusetts.
+
+1 Teresa del Signore, Katherine Horey, and Susan M. Renfrew.
+
+## Secretary of the Commonwealth.
+
+---
+
+Curtis F. Dowling, of California, & Michael A. Bednarz for California Apartment Association. Thaddeus A. Heuer, Andrew M. London, & Kevin Y. Chen for MassLandlords, Inc. Meredith G. Fierro for Greater Boston Chamber of Commerce & others. Elaine J. Goldenberg & Samuel H. Allen for Chamber of Commerce of the United States of America & others. Kevin J. Powers for Millbury National Bank. Dan Ordorica, Eloise Lawrence, Adam Druckman, Joshua Lilly, & Richard Lin for Massachusetts Teachers Association & others.
+
+J. Nathan Cole & Herling D. Romero for National Electrical
+Contractors Association of Greater Boston, Inc., & others. Thomas Silverstein, of New York, Audrey Lynn Martin, of Maryland, Jane Edmonstone, & Alycia M. Kennedy for Poverty & Race Research Action Council.
+
+GAZIANO, J. The plaintiffs, a group of registered voters,
+
+challenge the Attorney General's certification of Initiative
+
+Petition 25-21, titled "An Initiative Petition to Protect
+
+Tenants by Limiting Rent Increases." The petition proposes a
+
+limit on annual rent increases for residential dwelling units
+
+but exempts several categories of units, including those in
+
+"facilities operated solely for ... religious ... purposes."
+
+Because of this exemption, we conclude that the petition
+
+"relates to religion, religious practices or religious
+
+institutions," an excluded matter under art. 48 of the
+
+Amendments to the Massachusetts Constitution. See art. 48, The
+
+Initiative, II, § 2. Accordingly, art. 48 bars placement of the
+
+petition on the November 2026 Statewide election ballot. 3
+
+We acknowledge the amicus briefs submitted in support of the defendants by Homes for All Massachusetts; the Massachusetts
+
+---
+
+Background. In 2025, a group of Massachusetts voters
+
+submitted the initiative petition, titled "An Initiative
+
+Petition to Protect Tenants by Limiting Rent Increases," to the
+
+Attorney General, who designated the petition as Initiative
+
+## Petition 25-21.
+
+General Laws c. 40P, § 2, "broadly prohibits any regulatory
+
+scheme based upon or implementing rent control." Rent control
+
+is defined to include "any regulation that in any way requires
+
+below-market rents for residential properties." G. L. c. 40P,
+
+§ 3. See G. L. c. 40P, § 4. The petition, if enacted, would
+
+end the Statewide prohibition on rent control "by striking out
+
+[G. L. c. 40P]" and instituting in its place "a limit on any
+
+Teachers Association, Service Employees International Union Local 509, the Network for Public Health Law, Public Health Law Watch, ChangeLab Solutions, and Health in Partnership; and the Poverty & Race Research Action Council. We also acknowledge the amicus briefs submitted in support of the plaintiffs by the California Apartment Association; MassLandlords, Inc.; the Greater Boston Chamber of Commerce, the Charles River Regional Chamber, and the Retailers Association of Massachusetts; the Chamber of Commerce of the United States of America, Associated Industries of Massachusetts, and the National Association of REALTORS®; Millbury National Bank; National Electrical Contractors Association of Greater Boston, Inc., Associated General Contractors of Massachusetts, Associated Subcontractors of Massachusetts, Inc., Greater Boston Plumbing Contractors Association, New England Mechanical Contractors Association, Building Trades Employers' Association, and Construction Industries of Massachusetts, Inc.; and Pioneer New England Legal Foundation.
+
+---
+
+annual rent increase" set at "the annual increase in Consumer Price Index or [five percent], whichever is lower." 4 Rent control would apply to "covered dwelling unit[s]," defined as "all dwelling units leased for residential, but not commercial, use," with five exemptions. 5 Relevant here, "[d]welling units in facilities operated solely for ... religious ... purposes" would be excluded. On September 3, 2025, the Attorney General certified that the petition contained only subjects that are not excluded from the initiative process and that it otherwise complied with the
+
+4 The stated purpose of the petition "is to provide housing stability for tenants, landlords, and communities across the [C]ommonwealth, and curb displacement as a result of the housing shortage and affordability crisis in Massachusetts." 5 In full, the petition exempts: "(a) Dwelling units in owner-occupied buildings with four or fewer units. "(b) Dwelling units whose rents are subject to regulation by a public authority; provided, however, that occupancy by a tenant with a mobile housing voucher does not constitute being regulated by a public authority. "(c) Dwelling units that are rented primarily to transient guests for a period of less than 14 consecutive days. "(d) Dwelling units in facilities operated solely for educational, religious, or non-profit purposes. "(e) Dwelling units for which the first residential certificate of occupancy is less than 10 years old, for a period of 10 years from the date at which such certificate of occupancy was issued."
+
+---
+
+requirements of art. 48. See art. 48, The Initiative, II, § 3, as amended by art. 74 of the Amendments. The Attorney General also issued a summary of the petition as required by art. 48. See id. The petition's proponents then filed the petition and summary with the Secretary of the Commonwealth (Secretary), who prepared and distributed blank signature forms for the proponents to circulate. After the proponents provided the Secretary with the requisite number of signatures, the Secretary transmitted the petition to the clerk of the House of Representatives. If the proponents timely submit sufficient additional signatures to the Secretary, the petition will be included on the November 2026 Statewide election ballot. On February 6, 2026, the plaintiffs --four registered voters residing in the Commonwealth --commenced an action in the county court against the Attorney General and the Secretary, seeking declaratory relief, as well as relief in the nature of certiorari and mandamus. In their complaint, the plaintiffs requested that the court declare that "the [p]etition is invalid and not in compliance with the requirements of the Massachusetts Constitution," quash the Attorney General's certification of the petition, and enjoin the Secretary from placing the petition on the November 2026 Statewide election ballot. The plaintiffs contend that the Attorney General should not have certified the petition as compliant with art. 48 because, among other things, it impermissibly "relates to religion, religious practices, or religious institutions." 6 On February 9, 2026, the parties filed a joint motion requesting the case be reserved and reported to the full court. A single justice did so the following day. Discussion. Before an initiative petition may be submitted to the people, the Attorney General must certify, among other things, that the petition "contains only subjects not excluded from the popular initiative." Art. 48, The Initiative, II, § 3, as amended by art. 74. See Carney v. Attorney Gen., 447 Mass. 218, 225 (2006), S.C., 451 Mass. 803 (2008) (art. 48 obligates Attorney General "to ferret out obviously improper initiative petitions" [citation omitted]). Our review of the Attorney General's decision to certify an initiative petition is de novo, with due consideration to "the firmly established principle that art. 48 is to be construed to support the people's prerogative to initiate and adopt laws" (citation omitted). Clark v. Attorney Gen., 494 Mass. 187, 190 (2024).
+
+6 Given the result we reach, we do not address the plaintiffs' alternative arguments that the petition is inconsistent with the right to receive compensation for private property appropriated to public use, that it violates art. 48's related subjects requirement, or that the Attorney General's summary of the petition is unfair. See Anderson v. Attorney Gen., 479 Mass. 780, 798 n.9 (2018).
+
+---
+
+1. Religious subjects exclusion. Article 48 reserves the
+power of Massachusetts voters to submit initiative petitions to the people for approval or rejection. See art. 48, I. See also Mazzone v. Attorney Gen., 432 Mass. 515, 519 (2000). But this power is limited. "The people for their own protection have provided that the initiative shall not be employed with respect to certain matters" because "[s]ome matters are naturally unsuitable for popular lawmaking." Collins v. Secretary of the Commonwealth, 407 Mass. 837, 844 (1990), quoting Bowe v. Secretary of the Commonwealth, 320 Mass. 230, 247 (1946). These matters are listed in art. 48's "Excluded Matters" section, which, in relevant part, provides: "No measure that relates to religion, religious practices or religious institutions ... shall be proposed by an initiative petition." Art. 48, The Initiative, II, § 2. 7
+
+7 Art. 48, The Initiative, II, § 2, first par., provides: "No measure that relates to religion, religious practices or religious institutions; or to the appointment, qualification, tenure, removal, recall or compensation of judges; or to the reversal of a judicial decision; or to the powers, creation or abolition of courts; or the operation of which is restricted to a particular town, city or other political division or to particular districts or localities of the commonwealth; or that makes a specific appropriation of money from the treasury of the commonwealth, shall be proposed by an initiative petition; but if a law approved by the people is not repealed, the general court shall raise by taxation or otherwise and shall appropriate such money as may be necessary to carry such law into effect."
+
+---
+
+Our analysis begins with the text of art. 48, giving its words "their natural and obvious sense according to common and approved usage" (citation omitted). Opinion of the Justices, 309 Mass. 555, 557 (1941). Although the plain meaning of words used in art. 48 "cannot be ... controlled" by the historical context, Yont v. Secretary of the Commonwealth, 275 Mass. 365, 369 (1931), we may also consider "the conditions under which [art. 48] ... [was] framed, the ends which it was designed to accomplish, the benefits which it was expected to confer and the evils which it was hoped to remedy" (citation omitted), Mazzone, 432 Mass. at 526. "No measure that relates to religion, religious practices or religious institutions" may be the subject of an initiative petition. Art. 48, The Initiative, II, § 2. "Under the plain meaning of art. 48, where a law by its terms deals with religion, religious practices, or religious institutions, it is excluded" (quotation and citation omitted). Collins, 407 Mass. at 851. In other words, an initiative petition relates to religion if religion is "a factor in [the initiative petition's] application." Opinion of the Justices, 309 Mass. at 558-559. Our interpretation of the religion exclusion comports with the intent of the framers of art. 48, as evidenced by the debates of the constitutional convention of 1917–1918 (convention). See Bates v. Director of the Office of Campaign &
+
+---
+
+Political Fin., 436 Mass. 144, 156 (2002). See also Opinion of the Justices, 413 Mass. 1201, 1204 (1992) (convention debates contextualize "how [art. 48] was received and understood by that convention, and, consequently, how it was commonly understood at the time of its adoption"). During the convention, multiple delegates expressed concern that initiative petitions relating to religion, religious practices, or religious institutions would spark harmful public political debate. See 2 Debates in the Massachusetts Constitutional Convention 1917–1918, 766-769 (1918) (Constitutional Debates). The delegates considered the religion exclusion necessary "to avoid the consequences of permitting State-wide public political discussion" of such matters. Collins, 407 Mass. at 845. See Constitutional Debates, supra at 767-769. The religion exclusion additionally reflects the delegates' general desire to separate religion from politics. As one delegate remarked, based on his belief in "the entire separation of church and State," "[W]e ought to make it as difficult as possible to bring religious questions into the politics of this State." Id. at 769. 8
+
+8 These same convention delegates also sought to separate religion and politics through the anti-aid amendment to the Massachusetts Constitution, which "prohibited any use of public money or property for the aid of any private school." Commonwealth v. School Comm. of Springfield, 382 Mass. 665, 671 (1981). See art. 18 of the Amendments to the Massachusetts Constitution, as amended by art. 46 of the Amendments.
+
+---
+
+We have examined the religion exclusion in two opinions. 9 First, in Opinion of the Justices, 309 Mass. 555, we considered an initiative petition that would allow physicians to provide contraceptive care to married couples. The initiative petition at issue did not include any language expressly concerning religion. See id. at 556. We determined that the initiative petition was unrelated to religion because it concerned "the promotion and preservation of the public health," which, "[a]ccording to common understanding, ... is a secular field." Id. at 558-559. While we acknowledged that "[s]ome or many persons may regard all conduct as involving obedience or disobedience to the will of the Creator," thereby implicating the possibility that all conduct may have religious connotations, we rejected the argument that the proposed law
+
+The convention adopted the anti-aid amendment to "promote civic harmony" by removing religion "as far as possible" from politics (citation omitted). Caplan v. Acton, 479 Mass. 69, 80– 81 (2018). And as one convention delegate noted, the religion exclusion appeared to be "perfectly in harmony with ... the wise provisions of the anti-aid amendment." Constitutional Debates, supra at 768. Beyond adopting the anti-aid amendment, convention delegates added religion as an excluded matter under art. 48 "[t]o further ensure that matters affecting religion would not be subject to public debate." Collins, 407 Mass. at 846 n.8. 9 A group of plaintiffs also challenged an initiative petition under the religion exclusion in Anderson v. Secretary of the Commonwealth, 255 Mass. 366 (1926), but we did not reach the question whether the challenged petition violated art. 48.
+
+---
+
+violated the religion exclusion, as that exclusion "was not intended ... to exclude from the initiative all measures relating to conduct." Id. at 558. Instead, we construed the religion exclusion to prohibit only initiative petitions that "relate distinctively 'to religion, religious practices or religious institutions.'" Id., quoting art. 48, The Initiative, II, § 2. More recently, in Collins, 407 Mass. at 838-839, we determined that a law subject to a referendum10 related to religion in violation of art. 48. The law at issue in Collins concerned discrimination based on sexual orientation in housing, employment, the granting of credit, and public accommodations. Id. at 839-841. If the referendum passed, it "would reinstate ... prior, more limited, statutory exemptions" for religious institutions. Id. at 841. We concluded that the law, which "on its face expressly purport[ed] to alter the rights and obligations of religious institutions," could not be made the subject of a referendum petition because it related to religion, religious practices, or religious institutions within the meaning of art. 48. Id. at 847-849. In so concluding, we
+
+10 Although Collins concerned a referendum petition, while here we are concerned with an initiative petition, the relevant excluded matters language in art. 48 is identical for the two measures. See art. 48, The Initiative, II, § 2; art. 48, The Referendum, III, § 2.
+
+---
+
+stated that the law made religion a "factor in the application of the exemption" and "alter[ed] the legal status of religious institutions with respect to discrimination," providing them with "special treatment." Id. at 847-848. Consequently, if the law had been made the subject of a referendum, voters would have been asked to consider "whether the scope of freedom of religious institutions to discriminate should be expanded or constricted." Id. at 848.
+
+2. Application. Initiative Petition 25-21 subjects all
+"covered dwelling units" to rent control. However, the petition excludes several categories of residential properties from its definition of "covered dwelling units," including those in "facilities operated solely for educational, religious, or non- profit purposes." The petition, like the law subject to a referendum in Collins, 407 Mass. 837, concerns a generally secular subject matter --rent control. But, by including an express exemption for facilities operated solely for religious purposes, the petition impermissibly makes religion "a factor in [the petition's] application." Id. at 851, quoting Opinion of the Justices, 309 Mass. at 559. And in order to enforce the proposed law, the exemption would require the government to determine if a facility is "operated solely for ... religious ... purposes," and then make an enforcement decision based on the facility's religious purpose (or lack thereof). Further, the petition would confer preferential treatment on religious institutions by allowing them to increase rent prices, while limiting rent increases for secular facilities. See Collins, supra at 848. 11 The Attorney General argues that the petition does not discriminate in favor of religious institutions because it also provides exemptions for secular dwelling units, including facilities operated for educational and nonprofit purposes. The presence of secular exemptions does not negate that the petition, on its face, uses religion as "a factor in its application" (citation omitted). Collins, 407 Mass. at 851. Nor do these secular exemptions change the fact that the petition, by including a carveout for religious facilities, brings "religious questions into the politics of this State" (citation omitted). Id. at 846. The Attorney General also argues that the petition was properly certified because its "main purpose" --limiting rent increases --is unrelated to religion. We have applied a "main purpose" test when considering whether an initiative petition concerns another excluded matter: "the powers ... of courts."
+
+11 In the present posture, our role is limited to determining whether the initiative petition complies with art. 48; it does not include positing whether there may be other constitutional ramifications of the proposed law once enacted. See Collins, 407 Mass. at 850 & n.9.
+
+---
+
+Art. 48, The Initiative, II, § 2. See Mazzone, 432 Mass. at 519-522. Under the "main purpose" test, "we have said that an initiative petition is not excluded by art. 48 unless its 'main design' or 'main purpose' is to affect the powers of the courts" (citation omitted). Albano v. Attorney Gen., 437 Mass. 156, 158 (2002). Stated differently, "[t]o fall within the exclusion, the petition must affect the powers of the courts in more than an incidental or subsidiary way." Id. at 158–159. The "main purpose" test is appropriate for initiative petitions concerning the powers of the courts because this subject could be implicated whenever there is "any change in any law that [is] enforceable in the courts" (citation omitted). Mazzone, 432 Mass. at 520. Thus, an "overly rigid interpretation of [that] phrase" would turn the initiative process into "a near nullity" (citation omitted). Id. at 519–
+
+520. We have not yet decided whether the main purpose test applies to measures related to religion. See Collins, 407 Mass. at 851 n.10 (declining to determine whether main purpose test, or variant thereof, applied to art. 48 for measures relating to religion). We decline to apply it here. Unlike the exclusion relating to the powers of the courts, which could otherwise be implicated by virtually any petition proposing a judicially enforceable law, applying the religion exclusion according to its plain language --to exclude all petitions proposing laws that "relate[] to religion, religious practices or religious institutions" --does not threaten to swallow the entirety of art. 48. As we have already recognized, although religious beliefs may encompass a wide array of human conduct, an initiative petition does not "relate[]" to religion within the meaning of art. 48 just because a person's personal religious beliefs might inform his or her views on an otherwise secular subject matter; rather, the measure itself must relate to religion. See Opinion of the Justices, 309 Mass. at 558-559 (initiative petition regarding contraception concerned "secular field" not related to religion). Accordingly, unlike with the exclusion for measures relating to the power of courts, petition proponents may readily avoid this excluded matter by eschewing any "terms deal[ing] with religion, religious practices, or religious institutions" (citation omitted). Collins, supra at
+
+851. Applying a less exacting standard --permitting at least some measures that by their own terms govern religion, religious practices, or religious institutions --would contravene not only the plain language of art. 48, but also the intent of its framers. The convention delegates intended to strictly maintain "the entire separation of church and State" by "mak[ing] it as difficult as possible to bring religious questions into the 
+politics of this State."  Constitutional Debates, supra at 769.  
+Conclusion.  The petition contains matters "relat[ing] to 
+religion, religious practices or religious institutions" in 
+violation of art. 48. Art. 48, The Initiative, II, § 2.  We 
+remand the matter to the county court for entry of a judgment 
+declaring that Initiative Petition 25-21 is not in compliance 
+with the excluded matters section of art. 48, and enjoining the 
+Secretary from taking steps to place the measure on the 2026 
+Statewide election ballot.
+
+So ordered.
+
+---
+
+KAFKER, J. (concurring). I concur albeit on narrower grounds. Although most of the initiative, which proposes to limit residential rent increases for large for-profit landlords, clearly has nothing to do with religion or religious institutions, its exemption for "[d]welling units in facilities
+operated solely for ... religious ... purposes" requires
+application of a test based on religion (emphasis added). This religious test also invites an intrusive review of religious beliefs and practices proscribed by art. 48 of the Amendments to the Massachusetts Constitution, as the test whether a rental
+unit is being operated "solely for ... religious ...
+purposes" requires an inquiry into the internal affairs of, and even the motives and purposes of, a religious institution, as well as its finances. That, in my opinion, is prohibited by art. 48. The express purpose of the initiative in question is "to provide housing stability for tenants, landlords, and communities across the commonwealth, and curb displacement as a result of the housing shortage and affordability crisis in Massachusetts." This express purpose is clearly secular, not religious. The initiative would limit the annual rent increases for residential dwelling units in the Commonwealth by the lower of the annual increase in the Consumer Price Index or five percent. It would apply to "all dwelling units leased for residential, but not commercial, use," except that, as relevant here, it would not apply to "[d]welling units in facilities operated solely for educational, religious, or non-profit purposes." Apart from this one exemption, this initiative does not in any way "relate[] to religion, religious practices or religious institutions." 1 Art. 48, The Initiative, II, § 2. Whether this rent control provision nonetheless relates to religion as proscribed by art. 48 is the question before this court. I conclude that the specific language of the exemption, particularly its required test to determine whether the dwelling
+unit is operated "solely for ... religious ... purposes,"
+renders it improper, as it raises a distinct, intrusive, and potentially divisive religious inquiry. Had the initiative simply stated that it limits rent increases in dwelling units operated by for-profit institutions, but not in dwelling units operated by non-profit institutions, a very different question would have been presented. Distinguishing for-profit from non- profit institutions does not require an analysis that relates to religion or religious institutions. Article 48 provides: "No measure that relates to religion, religious practices or religious institutions ... shall be proposed by an initiative petition." Art. 48, The Initiative,
+
+I am aware of no other State that has such a religion exclusion in its initiative or referendum process.
+
+---
+
+II, § 2. Neither "relates to" nor "religion, religious
+
+practices or religious institutions" are further defined by the
+
+article or other provisions of the Constitution, nor, in my
+
+view, is the plain meaning of these terms obvious. 2 See Opinion
+
+of the Justices, 309 Mass. 555, 557 (1941). This court has also
+
+addressed this provision in only two opinions: the 1941 Opinion
+
+of the Justices, supra, and Collins v. Secretary of the
+
+Commonwealth, 407 Mass. 837 (1990), both of which provide only
+
+## limited guidance.
+
+In attempting to discern the meaning of the provision, the
+
+court in Collins reviewed the constitutional history of the
+
+provision, explaining that the sponsor of the amendment that
+
+would become the religion provision in art. 48, Louis Swig of
+
+Taunton,
+
+"expressed his purpose to 'protect the initiative and referendum against those ... [who] try to get political preferment because of their religious belief, and . . . to protect the initiative and referendum from the efforts that will be made . . . to drag constantly before the people these religious fights.' [2 Debates in the Massachusetts Constitutional Convention 1917-1918, 766-767 (1918)]. [Edwin] Curtis of Boston expressed the view 'that all religious subjects would be handled better by considering
+
+2 Concern about the ambiguity of the religion exclusion's language was raised at the constitutional convention that ratified art. 48. As one delegate put it, "some court would have to say what is religion and what is not, what is a religious practice and what is not, and you know how we all differ on those matters. I think that psalm-singing is a religious practice, and you do not, and we never can agree on it." 2 Debates in the Massachusetts Constitutional Convention 1917-1918, 982 (1918).
+
+---
+
+them before the Legislature than . . . [by] making them the subject of a general discussion by the people at large.' Id. at 768. [Frederick] Anderson of Newton stated his belief 'in the entire separation of church and State, .. . that religion has no place in politics at all, . . . [and] that we ought to make it as difficult as possible to bring religious questions into the politics of this State.' Id. at 769."
+
+Collins, 407 Mass. at 845-846. E. Gerry Brown of Brockton
+
+referenced the anti-aid amendment, which was also debated and
+
+passed at the same constitutional convention and prevented
+
+public funds from being used to support religious schools. 3
+
+Ultimately, "Swig's amendment was carried by voice vote ...
+
+and was later inserted into the provisions governing the
+
+referendum." Id. at 846. As discussed infra, this
+
+constitutional history is subject to conflicting interpretations
+
+when addressing exceptions, in otherwise secular initiatives,
+
+designed to preserve the separation of church and State or to
+
+## protect the free exercise of religion.
+
+The Justices attempted to clarify the meaning and scope of
+
+the art. 48 "relates to religion" prohibition in Opinion of the
+
+3 "Proponents of [the anti-aid amendment at the same constitutional convention] urged that liberty of conscience was infringed whenever a citizen was taxed to support the religious institutions of others; that the churches would benefit in independence and dignity by not relying on governmental support; and, more generally or colloquially, that to promote civic harmony the irritating question of religion should be removed from politics as far as possible, and with it the unseemly and potentially dangerous scramble of religious institutions for public funds in ever-increasing amounts." Bloom v. School Comm. of Springfield, 376 Mass. 35, 39 (1978).
+
+---
+
+Justices. In that opinion, the Justices considered a proposed law entitled "An Act to allow physicians to provide medical contraceptive care to married persons for the protection of life or health." Opinion of the Justices, 309 Mass. at 556. As summarized by the Attorney General at the time: "The proposed measure provides that the present statutes
+which make it a crime ... knowingly to advertise, ...
+publish, ... or circulate any matter containing reference to any person from whom or place where any drug, instrument or means whatever, or any advice or information may be obtained, for the purpose of preventing pregnancy, or to sell,... offer or advertise any drug, medicine, instrument or other article for the prevention of conception, ... shall not apply to treatment or prescription given to married persons for protection of life or health by or under the direction of registered physicians nor to teaching in chartered medical schools nor to publication or sale of medical treatises or journals." Opinion of the Justices, 309 Mass. at 556-557. In concluding that the initiative did not relate to religion, the Justices recognized that "[s]ome or many persons may regard all conduct as involving obedience or disobedience to the will of the Creator," but that is not the standard for evaluating what is proscribed by art. 48. Id. at 558. The Justices instead recognized that "a measure to be excluded thereby from the initiative must relate distinctively'to religion, religious practices or religious institutions'" (emphasis added). Id. The law at issue did not for a number of reasons. As further explained by the Justices:
+
+---
+
+"The proposed law ... for the promotion and preservation of the public health by regulating medical prescription and treatment and teaching ... [is, a]ccording to common
+understanding, ... in general ... secular. . . . The
+proposed law is [also] purely permissive. Religion is not a factor in its application and, if approved by the voters, it will not interfere with the freedom of any person within its scope to act in strict accordance with his religious views."
+
+Opinion of the Justices, 309 Mass. at 558-559. 4
+
+Further guidance in the application of the religion
+
+exclusion was provided in Collins, 407 Mass. at 844-852. In
+
+that case, the referendum at issue was of "An Act making it
+
+unlawful to discriminate on the basis of sexual orientation." 5
+
+Id. at 838. That act, however, included two provisions that
+
+expanded religious institutions' current exemption from
+
+antidiscrimination laws. Not only did it provide an exemption
+
+for religious institutions against discrimination based on
+
+sexual orientation, but it also expanded existing religious
+
+## exemptions. The act
+
+"include[d] a broad 'preferment' of religious institutions to discriminate on the basis of race, color, religious creed, national origin, sex, age, ancestry, handicap and
+
+4 Justice Henry T. Lummus, signatory to the 1941 Opinion of the Justices, not only was a delegate to the 1917-1918 constitutional convention, but was also a member of the convention's committee on initiative and referendum.
+
+5 In addition to enabling initiative petitions proposing new legislation, art. 48 also provides for referendums on existing laws, which are subject to the identical prohibition on religious matters. Analysis of the religion exclusion is therefore the same, whether the art. 48 ballot measure in question is an initiative petition or referendum.
+
+---
+
+.. . sexual orientation in ways not permitted of any other 
+persons or organizations.  [If such a preferment] were made 
+the subject of a referendum, the public would be permitted 
+to vote directly on how religious institutions may conduct 
+themselves."
+
+Id. at 848. The court distinguished this referendum from the 
+initiative addressed in Opinion of the Justices, 309 Mass. 555:
+"In contrast . . . , these provisions [expanding the exemption 
+of religious institutions from antidiscrimination laws] make an 
+institution's connection with religion the sole factor in the 
+application of the exemption, and make 'religious principles' 
+the sole basis upon which [certain] discrimination is 
+permitted."  Collins, supra.
+
+In applying these two opinions to the facts of the instant 
+case, I recognize that the line drawing in this area is 
+difficult.  Where the initiative concerns matters commonly 
+understood to be secular, interference with the power of the 
+people to legislate should be respected.  See Opinion of the 
+Justices, 309 Mass. at 558.  See also Yankee Atomic Elec. Co. v.
+Secretary of the Commonwealth, 403 Mass. 203, 211 (1988) ("art. 
+48 is to be construed to support the people's prerogative to 
+initiate and adopt laws").  Opinion of the Justices, 309 Mass. 
+at 558, makes this point explicitly.  It was also, however, 
+important to the Justices that the initiative at issue involved 
+the express application of no tests based in any way on religion. Id. at 559 ("[r]eligion is not a factor in its
+
+application").
+
+Where distinctions are expressly drawn based on religion,
+
+as they were in Collins, a different set of considerations come
+
+into play. Whether all such distinctions violate art. 48 is in
+
+my view a very difficult question. Is the recognition in an
+
+initiative of any distinction necessary to preserve the
+
+separation of church and State, or to protect the right to the
+
+free exercise of religion as required by the State or Federal
+
+Constitutions, 6 or to prohibit State support of religious
+
+institutions as required by the anti-aid amendment enough to
+
+6 In the view of at least two Justices, the religious exemption to the antidiscrimination law in Collins was included for this precise reason. See Collins, 407 Mass. at 852 (Nolan,
+
+J., dissenting) ("Clearly, the Legislature added §§ 1 and 14, not to benefit religious institutions, but to mitigate the risk of the statute being attacked on constitutional grounds"). I further note that the United States Supreme Court has found the procedures and processes for State initiative petitions to be in violation of the First Amendment to the United States Constitution. See, e.g., Buckley v. American Constitutional Law Found., 525 U.S. 182, 193-197 (1999) (holding that State constitutional amendment requiring initiative petition circulators to be registered voters violated First Amendment). See also Hermann v. Attorney Gen., 492 Mass. 51, 59-60 (2023) ("While the question whether a proposed law [imposing limits on political contributions] bears on an excluded subject under art. 48 is by its terms a question of State constitutional law, in the instant cases, the question to be decided ultimately revolves around Federal constitutional law. This is because we cannot provide less protection under the Massachusetts Declaration of Rights for political contributions than that provided for such contributions under the First Amendment ...").
+
+---
+
+render an otherwise permissible secular initiative a violation of the "relates to religion" prohibition of art. 48? Preservation of the separation of church and State, protecting the right to the free exercise of religion, and prohibiting State support of religious schools were also important constitutional objectives at the constitutional convention. See, e.g., art. 46 of the Amendments to the Massachusetts Constitution (containing anti-aid and free exercise provisions devised at same convention as art. 48). The constitutional history thus cuts both ways when considering an exception in an otherwise secular initiative designed to protect the separation of church and State, the free exercise of religion, and anti-aid principles. To avoid the difficult constitutional questions presented by initiatives recognizing such necessary distinctions, I would decide the validity of this initiative on much narrower grounds, as did the court in Collins. 7
+
+7 It is true that the Collins court stated that "the inquiry whether a law is excluded from the initiative under art. 48 is a separate and distinct inquiry from whether it would be constitutional if enacted." Collins, 407 Mass. at 850. That is because of the difficulty of conclusively resolving constitutional questions prematurely and "abstractly," an observation this court has found "particularly pertinent with respect to constitutional questions regarding the rights of religious institutions" (citation omitted). Id. at 850 n.9. That question, however, is distinct from the interpretive question whether an initiative that seeks to anticipate and avoid a constitutional question regarding religion through an exception in an otherwise secular initiative is nonetheless in violation of the religion prohibition in art. 48. The presence
+
+---
+
+The court in Collins could have simply said that any
+
+initiative or referendum that contains any religious distinction
+
+in any provision runs afoul of the art. 48 prohibition against
+
+initiatives or referendums that relate to religion, but it did
+
+not. The court's holding focused instead on the significant
+
+expansion of the religious exemption in the act that was the
+
+subject of the referendum. See Collins, 407 Mass. at 848. I
+
+would likewise focus on the significance, and potential
+
+divisiveness, of the religious exemption being drawn here. 8
+
+Although the essence of the initiative here involves a
+
+secular subject, rent control, as drafted it would require an
+
+express religious consideration in determining whether an
+
+exemption applied. That exemption also would not simply
+
+reference a religious exception already well recognized in
+
+of such distinctions in the initiative itself may help to reassure voters considering whether to vote in favor of passing an initiative that it does not violate such constitutional rights.
+
+8 I agree with the court that we do not employ a "main purpose" test to determine whether the initiative violates the "relates to religion" prohibition in art. 48. Even if the main purpose relates to something else, as the act at issue in Collins related to sexual orientation discrimination, it may still present a significant, divisive question related to religion that is sufficient to trigger the prohibition. This can occur even in a few provisions, as it did in Collins. At the same time, some religious exemptions may be too insignificant or uncontroversial to derail an initiative, for example, a referendum on whether to exclude church bingo from the list of permissible games of chance --a measure that reached the ballot in 1944. See G. L. c. 271, § 22A.
+
+---
+
+existing law, which would have presented a more difficult question. Rather the exemption provided would require an analysis whether the dwelling unit of a religious institution
+was being operated "solely for ... religious ... purposes."
+This is a fraught inquiry. It invites an analysis into the internal affairs of religious organizations and their motivations for providing the dwelling units, and the costs they charge for them. Whether a dwelling unit in a religious institution, including a religious retirement community, university, or sober house, for example, is being operated solely for religious purposes appears to require a deep dive into not only the religious institution's finances, but also its religious practices and beliefs. For these reasons, I conclude, the religious exemption, as drafted, runs afoul of the prohibition in art. 48.

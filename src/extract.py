@@ -158,7 +158,7 @@ def chunks(text: str) -> list[str]:
     return parts
 
 
-def load_documents() -> list[dict]:
+def load_documents(include_incoming: bool = False) -> list[dict]:
     docs = []
     with MANIFEST.open(newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
@@ -173,7 +173,7 @@ def load_documents() -> list[dict]:
                 "retrieved_at": row["retrieved_at"],
                 "incoming": False,
             })
-    for path in sorted(INCOMING.glob("*.txt")):
+    for path in sorted(INCOMING.glob("*.txt")) if include_incoming else []:
         text = path.read_text(encoding="utf-8")
         url = re.search(r"^SOURCE:\s*(\S+)", text, re.M)
         ret = re.search(r"^RETRIEVED:\s*(.+)$", text, re.M)
@@ -251,7 +251,19 @@ def validate(raw: dict, doc: dict, text: str, audit: list) -> dict | None:
         return drop("jurisdiction not in list")
     span = ground_quote(raw.get("quote", ""), text)
     if not span:
-        return drop("quote not found in source")
+        # The model sometimes joins consecutive lettered clauses, omitting the
+        # "B." between them. Recover the first exact clause only if EVERY
+        # proposed sentence has independent grounding. Never accept a partial
+        # fabricated quote.
+        sentences = re.split(r"(?<=\.)\s+(?=[A-Z])", raw.get("quote", ""))
+        grounded = [ground_quote(s, text) for s in sentences]
+        if len(grounded) > 1 and all(grounded):
+            span = grounded[0]
+            audit.append({"doc_id": doc["doc_id"], "decision": "quote_recovered",
+                          "reason": "All sentences grounded separately; stored first contiguous clause",
+                          "additional_quoted_spans": grounded[1:]})
+        else:
+            return drop("quote not found in source")
     if not citation_grounded(raw.get("citation", ""), text):
         return drop("citation not found in source")
     rule = dict(raw)
@@ -276,24 +288,28 @@ def citation_key(citation: str) -> str:
 def dedupe(rules: list[dict]) -> list[dict]:
     groups: dict[tuple, list[dict]] = {}
     for r in rules:
-        groups.setdefault((r["jurisdiction"], r["category"], citation_key(r["citation"])), []).append(r)
+        predicates = json.dumps({k: r.get(k) for k in (
+            "built_on_or_before", "built_after", "exempt_if_newer_than_years",
+            "min_units", "max_units", "exemption_max_units", "facts_required",
+            "yields_to_local", "caps_rent", "exemption_note")}, sort_keys=True)
+        groups.setdefault((r["jurisdiction"], r["category"], citation_key(r["citation"]),
+                           r.get("effective_date"), normalize(r["quote"]), predicates,
+                           r.get("incoming", False)), []).append(r)
     out = []
     for group in groups.values():
         group.sort(key=lambda r: (not r["_hint_match"], r["source_doc_id"]))
         best = dict(group[0])
-        if not best.get("effective_date"):
-            best["effective_date"] = next((g["effective_date"] for g in group if g.get("effective_date")), None)
         best["also_found_in"] = sorted({g["source_doc_id"] for g in group[1:]} - {best["source_doc_id"]})
         out.append(best)
     return out
 
 
-def run(refresh: bool = False) -> list[dict]:
+def run(refresh: bool = False, include_incoming: bool = False) -> list[dict]:
     model = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-5")
-    docs = load_documents()
+    docs = load_documents(include_incoming)
     misses = [d for d in docs if refresh or not cache_path(model, d).exists()]
     if misses and not os.environ.get("ANTHROPIC_API_KEY"):
-        raise SystemExit(f"ANTHROPIC_API_KEY is not set and {len(misses)} documents need the model. Put it in .env and run with `uv run --env-file .env ...`.")
+        raise SystemExit(f"{len(misses)} uncached documents require extraction. Configure ANTHROPIC_API_KEY through Replit Secrets; cached runs need no credential.")
     client = anthropic.Anthropic(max_retries=4) if misses else None
     print(f"extract: {len(docs)} documents with model {model} ({len(misses)} model calls, {len(docs) - len(misses)} cached)")
 

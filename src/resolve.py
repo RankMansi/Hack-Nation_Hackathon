@@ -59,6 +59,7 @@ def load_addresses() -> list[dict]:
                 "use_code": get("use_code") or None,
                 "use_description": get("use_description") or None,
                 "source_dataset": get("source_dataset") or None,
+                "retrieved_at": get("retrieved_at") or None,
             })
     return rows
 
@@ -197,6 +198,8 @@ def run() -> dict[str, dict]:
             "geocoded": bool(geo),
             "matched_address": matches.get(aid, {}).get("matched_address"),
             "geocoder": ("single-address" if aid in single else "batch") if geo else None,
+            "unit_conflict": bool(a["units"] and any(
+                int(n) > a["units"] for n in re.findall(r"(\d+)U\b", a.get("use_description") or ""))),
             "stack": {
                 "state": state if state in STATES else None,
                 "county": geo["county"] if geo else None,

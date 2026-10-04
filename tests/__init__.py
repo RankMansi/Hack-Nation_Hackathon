@@ -1,0 +1,1 @@
+"""Regression tests for the supplied challenge, separate from any official scorer."""

@@ -1,0 +1,159 @@
+[Skip to main content](https://www.sf.gov/information--sec-372-definitions#main-content)
+
+Info Page
+
+# Sec. 37.2 - Definitions
+
+[Rent Board](https://www.sf.gov/departments--rent-board)
+
+Part of
+
+[The Rent Ordinance](https://www.sf.gov/rent-ordinance)
+
+Sec. 37.2 Definitions.
+
+(a) Base Rent.
+
+(1) That rent which is charged a tenant upon initial occupancy plus any rent increase allowable and imposed under this chapter; provided, however, that,
+
+(A) Base rent shall not include increases imposed pursuant to Section 37.7.
+
+(B) Base rent shall not include utility passthroughs or water revenue bond passthroughs or general obligation bond passthroughs pursuant to Sections 37.2(q), 37.3(a)(5)(B), and 37.3(a)(6).
+
+(C) Base rent for tenants of RAP rental units in areas designated on or after July 1, 1977 shall be that rent which was established pursuant to Section 32.73-1 of the San Francisco Administrative Code. Rent increases attributable to the Chief Administrative Officer's amortization of a RAP loan in an area designated on or after July 1, 1977 shall not be included in the base rent.
+
+(D) Good Samaritan Status. As of February 8, 2011 and after, Good Samaritan occupancy status occurs when a landlord and new tenant agree in writing for the tenant to commence temporary occupancy following an emergency such as fire, earthquake, landslide, or similar emergency situation, that required unexpected vacation of the tenant’s previous unit, and the agreement includes a reduced rent rate for the replacement unit for a specified period of time up to twelve (12) months (“Original Good Samaritan Status Period”). “Reduced rent rate” means the base rent the tenant was paying for the previous unit at the time of the emergency or an amount up to ten (10) percent above that amount, except that if the owner of the previous unit is the same as the owner of the replacement unit then “reduced rent rate” means the rent the tenant was paying for the previous unit at the time of the emergency. For Good Samaritan Status to exist, the written agreement as referenced in this Subsection must include a statement that the agreement is temporary in nature, must refer to this Subsection, and must state that the tenant has been displaced from his or her previous unit as certified in Subsection (iii), below.
+
+(i) The landlord and tenant may agree, in writing, to extend the reduced rent rate for a period of time beyond the Original Good Samaritan Status Period, up to a total of twenty-four (24) months from the beginning to the end of all Good Samaritan Status (“Extended Good Samaritan Status Period”).
+
+(ii) By accepting occupancy in Good Samaritan Status, a tenant does not waive any right to compensation or any right to return to the tenant’s previous unit that he or she otherwise may have under Chapter 37 or other source of law based on the emergency vacation of the tenant’s previous unit.
+
+(iii) Good Samaritan Status may only be utilized upon certification in writing by one of the following officials, or his or her designee, that as a result of fire, earthquake, landslide, or similar emergency situation, the tenant’s previous unit is in such condition that, as a matter of public health and safety and as a matter of habitability, the tenant cannot or should not reside there until the unit has been appropriately repaired: Mayor; Fire Chief; Director of the Department of Building Inspection; Director of the Department of Public Health; or Other Official as authorized by law. The Rent Board shall make a form available, that the Official may use for this purpose.
+
+(iv) The tenant’s rent increase anniversary date for a Good Samaritan occupancy shall be the date the tenancy commenced; the first annual allowable increase shall take effect no less than one year from the anniversary date, but when imposed after one year, shall set a new anniversary date for the imposition of future rent increases. The base rent used for calculation of the annual allowable increase pursuant to Section 37.3(a)(1) during a Good Samaritan occupancy, shall be the reduced rent rate in effect on the date the Good Samaritan occupancy commences.
+
+(v) The landlord may serve a notice of termination of tenancy under Section 37.9(a)(16) within 60 days after expiration of the Original and any Extended Good Samaritan Status Period. Alternatively, within sixty (60) days after expiration of the Original and any Extended Good Samaritan Status Period, if the Good Samaritan rental agreement states the dollar amount of the tenant’s initial base rent that can be imposed after expiration of the Original and any Extended Good Samaritan Status Period, the landlord may give legal notice of the rent increase to the tenant and then increase the tenant’s rent from the temporary reduced rent rate to the previously agreed upon initial base rent for the unit.
+
+(vi) The Rent Board shall make a form available that explains the temporary nature of tenant occupancy in Good Samaritan Status, and describes the other provisions of Section 37.2(a)(1)(D)(v).
+
+The Good Samaritan landlord shall provide the tenant with this disclosure form prior to commencement of the Good Samaritan tenancy. However, failure by the landlord to provide the tenant with such disclosure form:
+
+(2) From and after August 30, 1998, the base rent for tenants occupying rental units which have received certain tenant-based or project-based rental assistance shall be as follows:
+
+(A) With respect to tenant-based rental assistance:
+
+(i) For any tenant receiving tenant-based rental assistance as of August 30, 1998 under a program that does not establish the tenant’s share of base rent as a fixed percentage of a tenant’s income, such as in the Housing Choice Voucher Program or the Over-FMR Tenancy program, and continuing to receive such tenant-based rental assistance thereafter, the initial base rent for each unit occupied by such tenant shall be the rent payable for that unit under the Housing Assistance Payments contract, as amended, between the San Francisco Housing Authority or the Human Services Agency and the landlord (the "HAP Contract") with respect to that unit immediately prior to August 30, 1998 (the "HAP Contract Rent").
+
+(ii) For any tenant receiving tenant-based rental assistance under a program that does not establish the tenant’s share of base rent as a fixed percentage of a tenant’s income, such as in the Housing Choice Voucher Program or the Over-FMR Tenancy program, and commencing occupancy of a rental unit after August 30, 1998, the initial base rent for each unit occupied by such a tenant shall be the HAP Contract Rent in effect as of the date the tenant commences occupancy of such unit.
+
+(iii) For any tenant receiving rental assistance under the HOPWA rental subsidy program as of May 17, 2016, and continuing to receive such assistance under the HOPWA rental subsidy program thereafter, the initial base rent for each unit occupied by such tenant shall be the HAP Contract Rent in effect as of May 17, 2016.
+
+(iv) For any tenant receiving rental assistance under the HOPWA rental subsidy program who commenced occupancy of a rental unit after May 17, 2016, the initial base rent for each unit occupied by such tenant shall be the HAP Contract Rent in effect as of the date the tenant commences occupancy of such unit.
+
+(v) For any tenant whose tenant-based rental assistance terminates or expires, for whatever reason, after August 30, 1998, the base rent for each such unit following expiration or termination shall be the HAP Contract Rent in effect for that unit immediately prior to the expiration or termination of the tenant-based rental assistance.
+
+(B) For any tenant occupying a unit upon the expiration or termination, for whatever reason, of a project-based HAP Contract under Section 8 of the United States Housing Act of 1937 (42 USC §1437f, as amended), the base rent for each such unit following expiration or termination shall be the "contract rent" in effect for that unit immediately prior to the expiration or termination of the project-based HAP Contract.
+
+(C) For any tenant occupying a unit upon the prepayment or expiration of any mortgage insured by the United States Department of Housing and Urban Development ("HUD"), including but not limited to mortgages provided under sections 221(d)(3), 221(d)(4) and 236 of the National Housing Act (12 USC §1715z-1), the base rent for each such unit shall be the "basic rental charge" (described in 12 USC 1715z-1(f), or successor legislation) in effect for that unit immediately prior to the prepayment of the mortgage, which charge excludes the "interest reduction payment" attributable to that unit prior to the mortgage prepayment or expiration.
+
+(b) Board. The Residential Rent Stabilization and Arbitration Board.
+
+(c) Capital Improvements. Those improvements which materially add to the value of the property, appreciably prolong its useful life, or adapt it to new uses, and which may be amortized over the useful life of the improvement of the building.
+
+(d) CPI. Consumer Price Index for all Urban Consumers for the San Francisco-Oakland Metropolitan Area, U.S. Department of Labor.
+
+(e) Energy Conservation Improvements. Work performed pursuant to the requirements of Chapter 12 of the San Francisco Housing Code.
+
+(f) Administrative Law Judge. A person, designated by the board, who arbitrates and mediates rental increase disputes, and performs other duties as required pursuant to this Chapter 37.
+
+(g) Housing Services. Services provided by the landlord connected with the use or occupancy of a rental unit including, but not limited to: quiet enjoyment of the premises, without harassment by the landlord as provided in Section 37.10B; repairs; replacement; maintenance; painting; light; heat; water; elevator service; laundry facilities and privileges; janitor service; refuse removal; furnishings; telephone; parking; rights permitted the tenant by agreement, including the right to have a specific number of occupants, whether express or implied, and whether or not the agreement prohibits subletting and/or assignment; and any other benefits, privileges or facilities.
+
+(h) Landlord. An owner, lessor, sublessor, who receives or is entitled to receive rent for the use and occupancy of any residential rental unit or portion thereof in the City and County of San Francisco, and the agent, representative or successor of any of the foregoing.
+
+(i) Member. A member of the Residential Rent Stabilization and Arbitration Board.
+
+(j) Over FMR Tenancy Program. A regular certificate tenancy program whereby the base rent, together with a utility allowance in an amount determined by HUD, exceeds the fair market rent limitation for a particular unit size as determined by HUD.
+
+(k) Payment Standard. An amount determined by the San Francisco Housing Authority that is used to determine the amount of assistance paid by the San Francisco Housing Authority on behalf of a tenant under the Housing Choice Voucher Program (24 CFR Part 982). The term “payment standard” shall also refer to the rent standard used to determine the amount of assistance paid by the Human Services Agency under the HOPWA rental subsidy program (24 CFR Part 574).
+
+(l) Rap. Residential Rehabilitation Loan Program (Chapter 32, San Francisco Administrative Code).
+
+(m) RAP Rental Units. Residential dwelling units subject to RAP loans pursuant to Chapter 32, San Francisco Administrative Code.
+
+(n) Real Estate Department. A city department in the City and County of San Francisco.
+
+(o) Rehabilitation Work. Any rehabilitation or repair work done by the landlord with regard to a rental unit, or to the common areas of the structure containing the rental unit, which work was done in order to be in compliance with State or local law, or was done to repair damage resulting from fire, earthquake or other casualty or natural disaster.
+
+(p) Rent. The consideration, including any bonus, benefits or gratuity, demanded or received by a landlord for or in connection with the use or occupancy of a rental unit, or the assignment of a lease for such a unit, including but not limited to monies demanded or paid for parking, furnishings, food service, housing services of any kind, or subletting.
+
+(q) Rent Increases. Any additional monies demanded or paid for rent as defined in item (p) above, or any reduction in housing services without a corresponding reduction in the monies demanded or paid for rent; provided, however, that passthroughs of the following cost increases pursuant to this Chapter 37 do not constitute rent increases: (1) where the landlord has been paying the tenant's utilities and the cost of those utilities increases; (2) where the landlord is passing through to the tenant the change in the landlord's property tax attributable to a general obligation bond in accordance with Section 37.3(a)(6); and (3) where the landlord is passing through to the tenant water rate increases resulting from issuance of water revenue bonds authorized at the November 5, 2002 election in accordance with Section 37.3(a)(5)(B).
+
+(r) Rental Units. All residential dwelling units in the City together with the land and appurtenant buildings thereto, and all housing services, privileges, furnishings and facilities supplied in connection with the use or occupancy thereof, including garage and parking facilities.
+
+Garage facilities, parking facilities, driveways, storage spaces, laundry rooms, decks, patios, or gardens on the same lot, or kitchen facilities or lobbies in single room occupancy (SRO) hotels, supplied in connection with the use or occupancy of a unit, may not be severed from the tenancy by the landlord without just cause as required by Section 37.9(a). Any severance, substantial reduction or removal of a housing service, even if permitted under Section 37.9(a), shall be offset by a corresponding reduction in rent. Either a landlord or a tenant may file a petition with the Rent Board to determine the amount of the rent reduction. In addition, a tenant may petition the Rent Board for a determination on whether an Accessory Dwelling Unit proposed to be constructed under Planning Code Section 207(c)(4) would sever, substantially reduce, or remove a housing service, pursuant to the procedures set forth in subsection 207(c)(4)(C)(iii). The issuance of a permit for construction of an Accessory Dwelling Unit does not, in and of itself, constitute a just cause for the purpose of severing a housing service.
+
+Notwithstanding the preceding paragraph, a landlord may temporarily sever one or more housing services listed in that paragraph in order to perform seismic work required by Building Code Chapter 34B “Mandatory Earthquake Retrofit of Wood-Frame Buildings” (“mandatory seismic work”) if: (1) the landlord has given the notice to temporarily sever as required by Administrative Code Section 65A.2; (2) the landlord has obtained all necessary permits on or before the date the notice to temporarily sever is given; (3) the housing service(s) will only be severed for the minimum time required to complete the mandatory seismic work and in no event for a longer period than provided by Building Code Section 106A.4.4, Table B; and (4) the temporarily severed housing service(s) will be fully restored immediately upon completion of the mandatory seismic work. For such temporary severance of one or more of the specified housing services due to mandatory seismic work required by Building Code Chapter 34B, tenants will not be entitled to a reduction in rent, but tenants shall be entitled to either compensation or a substitute housing service as provided in Administrative Code Chapter 65A.
+
+The term "rental units" shall not include:
+
+(1) Housing accommodations in hotels, motels, inns, tourist houses, rooming and boarding houses, provided that at such time as an accommodation has been occupied by a tenant for thirty-two (32) continuous days or more, such accommodation shall become a rental unit subject to the provisions of this chapter; provided further, no landlord shall bring an action to recover possession of such unit in order to avoid having the unit come within the provisions of this chapter. An eviction for a purpose not permitted under Sec. 37.9(a) shall be deemed to be an action to recover possession in order to avoid having a unit come within the provisions of this Chapter;
+
+(2) Dwelling units in non-profit cooperatives owned, occupied and controlled by a majority of the residents or dwelling units solely owned by a non-profit public benefit corporation governed by a board of directors the majority of which are residents of the dwelling units and where it is required in the corporate by-laws that rent increases be approved by a majority of the residents;
+
+(3) Housing accommodations in any hospital, convent, monastery, extended care facility, asylum, residential care or adult day health care facility for the elderly which must be operated pursuant to a license issued by the California Department of Social Services, as required by California Health and Safety Chapters 3.2 and 3.3, or in dormitories owned and operated by an institution of higher education, a high school, or an elementary school;
+
+(4) Except as provided in Subsections (A)-(D), dwelling units whose rents are controlled or regulated by any government unit, agency or authority, excepting those unsubsidized and/or unassisted units which are insured by the United States Department of Housing and Urban Development; provided, however, that units in unreinforced masonry buildings which have undergone seismic strengthening in accordance with Existing Building Code Chapters 5B and 5C shall remain subject to the Rent Ordinance to the extent that the Ordinance is not in conflict with the seismic strengthening bond program or with the program's loan agreements or with any regulations promulgated thereunder;
+
+(A) For purposes of sections 37.2, 37.3(a)(10)(A), 37.4, 37.5, 37.6. 37.9, 37.9A, 37.10A, 37.11A and 37.13, and the arbitration provisions of sections 37.8 and 37.8A applicable only to the provisions of section 37.3(a)(10)(A), the term "rental units" shall include units occupied by recipients of tenant-based rental assistance where the tenant-based rental assistance program does not establish the tenant's share of base rent as a fixed percentage of a tenant's income, such as in the Housing Choice Voucher Program and the Over-FMR Tenancy program, and shall also include units occupied by recipients of tenant-based rental assistance under the HOPWA rental subsidy program;
+
+(B) For purposes of sections 37.2, 37.3(a)(10)(B), 37.4, 37.5, 37.6, 37.9, 37.9A, 37.10A, 37.11A and 37.13, the term "rental units" shall include units occupied by recipients of tenant-based rental assistance where the rent payable by the tenant under the tenant-based rental assistance program is a fixed percentage of the tenant's income, such as in the Section 8 Certificate Program;
+
+(C) The term "rental units" shall include units in a building for which either tax credits are reserved or obtained pursuant to the federal Low-Income Housing Tax Credit program under Section 42 of the Internal Revenue Code, 26 U.S.C. Section 42 ("LIHTC "), and/or tax-exempt multifamily revenue bonds are allocated or obtained pursuant to Section 142(d) of the Internal Revenue Code, 26 U.S.C Section 142(d} ("Bonds"), and that were already tenant-occupied and subject to this Chapter 37 at the time the applicable LIHTC regulatory agreement and/or Bond regulatory agreement was recorded, as follows:
+
+(i) If a tenant's occupancy of the unit began before the applicable LIHTC regulatory agreement and/or Bond regulatory agreement was recorded, then subsection (C) shall apply to that unit so long as any of the occupants who resided in the unit at the time of the recording still permanently reside there. If the applicable regulatory agreement(s) were recorded on or after January 1, 2018, then the base rent as of the effective date of the ordinance in Board File No. 230770 shall be equal to the rent that was in effect as of the date the recording plus any annual rent increases that may have been allowed under Sections 37.3(a)(1)-(2).
+
+(ii) The tenants in a unit described in subsection (C)(i) shall have a one-time option at any time to opt the unit out of subsection (C), and thereby subject the unit going forward to such rent controls and use restrictions as may apply under the applicable LIHTC and/or Bond regulatory agreement(s). All tenants residing in the unit at the time of the opt-out must consent to the opt-out in writing, on a form prepared by the Rent Board, that advises the tenants of the requirements under subsection (C) and that opt-outs may not be withdrawn. Once an opt-out has occurred in a unit, subsection (C) will not apply to that unit and the unit will be exempt from Chapter 37 for the remaining duration of the applicable regulatory agreement(s).
+
+(iii) This exception for tenant-occupied units subject to LIHTC and/or Bond regulatory agreements is not intended to affect the application of Section 37.2(r)(4) where the rent is otherwise controlled or regulated by any use restrictions imposed by the City and County of San Francisco, the Office of Community Investment and Infrastructure, the Housing Authority of the City and County of San Francisco, the State of California Department of Housing and Community Development, or the United States Department of Housing and Urban Development.
+
+(iv) Nothing in this subsection 37.2(r)(4)(C) precludes a landlord from seeking an exemption from rent regulation on the basis of substantial rehabilitation under Section 37.3(g).
+
+(D) The term “rental units” shall include (i) Accessory Dwelling Units constructed pursuant to Section 207(c)(4) of the Planning Code and that have received a waiver of the density limits and/or the parking, rear yard, and open space standards from the Zoning Administrator pursuant to Planning Code Section 307(l), and (ii) New Unit(s) constructed and funded pursuant to Administrative Code Chapter 85; (iii) new dwelling units created pursuant to the density exception set forth in Section 207(c)(8) of the Planning Code; (iv) new dwelling units created pursuant to the HOME-SF Program set forth in Section 206.3(c)(1)(B) of the Planning Code; (v) new dwelling units created pursuant to the density exception set forth in Section 249.94(d)(1) of the Planning Code; (vi) dwelling units that obtain the exemption from the conditional use authorization set forth in Section 317(c)(10) of the Planning Code; and (vii) any unit subject to a Regulatory Agreement imposing the rent increase limitations of this Chapter 37, including Replacement Units created under Planning Code Sections 317.2(d)(1)(B) or (d)(2)(D)(ii).
+
+(s) Substantial Rehabilitation. The renovation, alteration or remodeling of residential units of 50 or more years of age which have been condemned or which do not qualify for certificates of occupancy or which require substantial renovation in order to conform the building to contemporary standards for decent, safe and sanitary housing. Substantial rehabilitation may vary in degree from gutting and extensive reconstruction to extensive improvements that cure substantial deferred maintenance. Cosmetic improvements alone such as painting, decorating and minor repairs, or other work which can be performed safely without having the unit vacated do not qualify as substantial rehabilitation.
+
+(t) Tenant. A person entitled by written or oral agreement, sub-tenancy approved by the landlord, or by sufferance, to occupy a residential dwelling unit to the exclusion of others.
+
+(u) Tenant-based Rental Assistance. Rental assistance provided directly to a tenant or directly to a landlord on behalf of a particular tenant, which includes but shall not be limited to certificates, vouchers, and subsidies issued pursuant to Section 8 of the United States Housing Act of 1937, as amended (42 U.S.C. Section 1437f), or the HOPWA program (24 CFR Part 574).
+
+(v) Utilities. The term "utilities" shall refer to gas and electricity exclusively.
+
+(w) Victims of Domestic Violence, Sexual Assault, or Stalking.
+
+(1) “Victim of domestic violence or sexual assault or stalking” means any person who has been, or is currently being, subjected to one or more of the following:
+
+(A) “Domestic violence,” as defined in Section 13700 of the Penal Code or Section 6211 of the Family Code;
+
+(B) “Sexual assault,” as defined in Sections 261, 261.5, 262, 286, 288a, or 289 of the Penal Code; or
+
+(C) “Stalking,” as defined in Section 646.9 of the Penal Code or Section 1708.7 of the Civil Code.
+
+(2) “Protective order” means a temporary restraining order or emergency protective order issued pursuant to Part 3 (commencing with Section 6240) or Part 4 (commencing with Section 6300) or Part 5 (commencing with Section 6400) of the Family Code, Section 136.2 of the Penal Code, Section 527.6 of the Code of Civil Procedure, or Section 213.5 of the Welfare and Institutions Code, that protects the tenant or household member from further domestic violence, sexual assault, or stalking.
+
+(3) “Qualified third party” means a peace officer or victim advocate employed by a state or local law enforcement agency, or Licensed Clinical Social Worker (LCSW) or Marriage and Family Therapist (MFT), acting in his or her official capacity;
+
+(4) “Written documentation from a qualified third party” means a document signed and dated within the preceding 60 days by a qualified third party stating all of the following:
+
+(A) That the tenant notified the qualified third party that he or she was a victim of domestic violence or sexual assault or stalking;
+
+(B) The time, date, and location of the act or acts that constitute the domestic violence or sexual assault or stalking; and
+
+(C) That the tenant informed the qualified third party of the name of the alleged perpetrator of the act or acts of domestic violence or sexual assault or stalking, if known to the victim.
+
+\[Amended by Ord. No. 197-80, effective June 8, 1980; Ord. No. 77-82, effective April 1, 1982; Ord. No. 268-82, effective July 10, 1982; Ord. No. 421-82, effective October 1, 1982; Ord. No. 111-83, effective April 10, 1983; Ord. No. 438-83, effective October 2, 1983; Ord. No. 20-84, effective February 18, 1984; Ord. No. 193-86, effective July 1, 1986; Ord. No. 233-93, effective August 22, 1993; Resolution No. 1004-94, effective December 22, 1994; Ord. No. 446-94, effective January 30, 1995; Ord. No. 179-98, effective June 28, 1998; Ord. No. 250-98, effective August 30, 1998; Ord. No. 237-99, effective September 29, 1999; Ord. No. 347-99 effective January 29, 2000; Ord. No. 116-00, effective July 2, 2000; Ord. No. 02-03, effective February 21, 2003; Ord. No. 107-03, effective July 22, 2003; Ord. No. 178-06, effective September 7, 2006; Ord. No. 252-06, effective November 10, 2006; Ord. No. 281-06, effective January 19, 2007; Ord. No. 92-07, effective May 27, 2007; amended by Proposition M, effective December 19, 2008; Ord. No. 28-09, effective March 22, 2009; Ord. No. 60-10, effective April 25, 2010; Ord. No. 72-11, effective May 27, 2011; Ord. No. 49-14, effective May 17, 2014; Ord. No 173-14, effective August 30, 2014; Ord. Nos. 161-15 and 162-15, effective October 18, 2015; Ord. No. 119-16, effective July 31, 2016; Ord.No. 162-16, effective September 4, 2016; Ord. No. 296-19, effective January 20, 2020; Ord. No. 213-20, effective November 30, 2020; Ord. No. 208-21, effective December 12, 2021; Ord. No. 172-22, effective September 4, 2022; Ord. No. 210-22, effective November 28, 2022; Ord. No. 91-23, effective June 26, 2023; Ord. No. 160-23, effective August 28, 2023; Ord. No. 195-23, effective October 16, 2023; Ord. No. 64-24, effective April 28, 2024; Ord. No. 92-24, effective June 10, 2024, operative July 1, 2024; Ord. No. 3-26, effective February 9, 2026\]
+
+### Return
+
+Return to the [Rent Ordinance](https://www.sf.gov/reports/august-2023/rent-ordinance) page.
+
+Did you find what you needed?

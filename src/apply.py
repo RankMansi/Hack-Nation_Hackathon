@@ -51,7 +51,9 @@ def coverage(rule: dict, facts: dict, as_of: str) -> tuple[str, list[str]]:
     for key, op, word in (("min_units", lambda u, n: u >= n, "at least"), ("max_units", lambda u, n: u <= n, "at most")):
         if c.get(key) is not None:
             n = c[key]
-            if units is None:
+            if facts.get("unit_conflict"):
+                add(UNKNOWN, "unit count conflicts with assessor use description")
+            elif units is None:
                 add(UNKNOWN, f"covers buildings with {word} {n} units and the unit count is not in the data")
             elif op(units, n):
                 add(COVERED, f"{units} units ({word} {n})")
@@ -59,12 +61,17 @@ def coverage(rule: dict, facts: dict, as_of: str) -> tuple[str, list[str]]:
                 add(NOT_COVERED, f"{units} units, rule covers {word} {n}")
     if c.get("exemption_max_units") is not None:
         n = c["exemption_max_units"]
-        if units is None:
+        if facts.get("unit_conflict"):
+            add(UNKNOWN, "the recorded unit count conflicts with the assessor description; building versus parcel units need verification")
+        elif units is None:
             add(UNKNOWN, f"an exemption applies to properties with {n} or fewer units and the unit count is not in the data")
         elif units > n:
             add(COVERED, f"{units} units, so the {n}-or-fewer-unit exemption cannot apply")
         else:
-            add(UNKNOWN, f"{units} units; the small-property exemption may apply but depends on owner facts not in the data")
+            if rule.get("unconditional_small_building_exemption"):
+                add(NOT_COVERED, f"{units} units; the exemption for buildings with {n} or fewer units applies")
+            else:
+                add(UNKNOWN, f"{units} units; the small-property exemption may apply but depends on owner facts not in the data")
     for fact in c.get("facts_required") or []:
         if fact == "year_built" and yb is None and not any("year built" in r for r in reasons):
             add(UNKNOWN, "coverage depends on year built, which is not in the data")
@@ -74,6 +81,12 @@ def coverage(rule: dict, facts: dict, as_of: str) -> tuple[str, list[str]]:
             add(UNKNOWN, "coverage depends on owner type; owner data is deliberately excluded from the sample")
         elif fact == "other":
             add(UNKNOWN, f"coverage depends on a building fact not in the data{': ' + c['text'] if c.get('text') else ''}")
+        elif fact == "use_code" and not facts.get("use_code"):
+            add(UNKNOWN, "coverage depends on use/type, which is not in the data")
+    if rule.get("unit_level_exemptions"):
+        add(UNKNOWN, "unit-level condo, subsidy, registration or rehabilitation facts are not in the assessor sample")
+    if c.get("yields_to_local") and not facts.get("city_resolved", True):
+        add(UNKNOWN, "legal city is unresolved; possible stricter local coverage cannot be decided from the mailing city")
     if NOT_COVERED in states:
         return NOT_COVERED, [r for s, r in zip(states, reasons) if s == NOT_COVERED]
     if UNKNOWN in states:
@@ -82,12 +95,19 @@ def coverage(rule: dict, facts: dict, as_of: str) -> tuple[str, list[str]]:
 
 
 def evaluate(rules: list[dict], record: dict, as_of: str) -> list[dict]:
+    date.fromisoformat(as_of)
     stack = record["stack"]
     in_stack = {stack.get("state"), stack.get("city")} - {None}
-    facts = {"year_built": record.get("year_built"), "units": record.get("units")}
+    facts = {k: record.get(k) for k in ("year_built", "units", "use_code", "use_description", "unit_conflict")}
+    facts["city_resolved"] = bool(stack.get("city"))
     results = []
     for rule in rules:
-        if rule["jurisdiction"] not in in_stack or rule["status"] == "failed":
+        if rule["jurisdiction"] not in in_stack:
+            continue
+        failed_on = rule.get("failed_date")
+        if rule["status"] == "failed" and (not failed_on or as_of >= failed_on):
+            continue
+        if rule.get("end_date") and as_of > rule["end_date"]:
             continue
         cov, reasons = coverage(rule, facts, as_of)
         if cov == NOT_COVERED:
@@ -95,25 +115,40 @@ def evaluate(rules: list[dict], record: dict, as_of: str) -> list[dict]:
         where = "Statewide rule" if rule["level"] == "state" else f"Local rule for {rule['jurisdiction']}"
         why = "; ".join(reasons)
         eff = rule.get("effective_date")
-        if rule["status"] == "pending":
+        if rule["status"] == "pending" or (rule["status"] == "failed" and failed_on and as_of < failed_on) or (
+                rule.get("enacted_date") and as_of < rule["enacted_date"]):
             result, expl = "pending", f"{where}: a pending bill or proposal, not law as of {as_of}."
         elif eff and as_of < eff:
             result, expl = "not_yet_effective", f"{where}: enacted, takes effect {eff} (after {as_of})."
+        elif rule.get("in_force_by") and as_of < rule["in_force_by"]:
+            result, expl = "unknown", f"{where}: adopted but exact publication-dependent commencement day is not verified."
+        elif not eff and rule.get("historical_start_unverified") and as_of < rule["retrieved_at"][:10]:
+            result, expl = "unknown", f"{where}: operative at capture, but historical commencement is not evidenced for {as_of}."
         elif cov == UNKNOWN:
             result, expl = "unknown", f"{where}: {why}."
         else:
             result, expl = "applies", f"{where} in force{' since ' + eff if eff else ''}" + (f"; {why}." if why else ".")
         if result in ("pending", "not_yet_effective") and cov == UNKNOWN:
             expl += f" Coverage also uncertain: {why}."
-        results.append({"rule": rule, "result": result, "explanation": expl, "conflict_flag": False})
+        if rule.get("uncertainty_note"):
+            expl += " Evidence limitation: " + rule["uncertainty_note"]
+        if any((rule.get("coverage_conditions") or {}).get(k) for k in (
+                "built_on_or_before", "built_after", "exempt_if_newer_than_years")):
+            expl += " Assessor year is a construction-year proxy, not a certificate-of-occupancy date; cutoff-year cases remain unknown."
+        if rule.get("effective_date_derivation"):
+            expl += " Effective date derived from sourced commencement rule; see audit evidence."
+        results.append({"rule": rule, "result": result, "explanation": expl,
+                        "conflict_flag": bool(rule.get("conflict_flag")) and rule["level"] == "city"})
 
     by_cat: dict[str, list[dict]] = {}
     for r in results:
         by_cat.setdefault(r["rule"]["category"], []).append(r)
     for items in by_cat.values():
         local = [r for r in items if r["rule"]["level"] == "city"]
-        local_applies = [r for r in local if r["result"] == "applies"]
-        local_unknown = [r for r in local if r["result"] == "unknown"]
+        local_applies = [r for r in local if r["result"] == "applies" and
+                         (r["rule"].get("caps_rent") if r["rule"]["category"] == "rent_increase_limits" else True)]
+        local_unknown = [r for r in local if r["result"] == "unknown" and
+                         (r["rule"].get("caps_rent") if r["rule"]["category"] == "rent_increase_limits" else True)]
         for r in items:
             rule = r["rule"]
             if rule["level"] != "state":
@@ -122,11 +157,11 @@ def evaluate(rules: list[dict], record: dict, as_of: str) -> list[dict]:
             if yields and r["result"] == "applies" and local_applies:
                 names = ", ".join(l["rule"]["citation"] for l in local_applies)
                 r["result"] = "superseded"
-                r["explanation"] = f"Statewide rule covers this building, but the stricter local rule governs ({names})."
+                r["explanation"] += f" The stricter local rule governs ({names}); state rule superseded."
             elif yields and r["result"] == "applies" and local_unknown:
                 r["result"] = "unknown"
-                r["explanation"] = "Statewide rule yields to local rent rules where they cover the building; local coverage is unknown for this building, so whether the state rule or the local rule governs is unknown."
-            if r["result"] in ("pending", "not_yet_effective") and local_applies:
+                r["explanation"] += " Statewide rule yields to local rules where they cover the building; local coverage is unknown, so which rule governs remains unknown."
+            if (r["result"] in ("pending", "not_yet_effective") or rule.get("possible_local_preemption")) and local_applies:
                 r["conflict_flag"] = True
                 r["explanation"] += " Possible conflict with the in-force local rule; flagged for human review."
                 for l in local_applies:

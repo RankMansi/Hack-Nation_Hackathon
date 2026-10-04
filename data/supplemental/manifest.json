@@ -1,0 +1,122 @@
+[
+  {
+    "doc_id": "S-CA-COMMENCEMENT",
+    "text_file": "S-CA-COMMENCEMENT.txt",
+    "jurisdictions": "CA",
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&article=IV&sectionNum=SEC.%208.",
+    "retrieved_at": "2026-10-04T09:25:09.458Z",
+    "role": "support",
+    "capture_method": "Targeted public web fetch; markdown text capture (HTML formatting removed), no publisher bulk scraping",
+    "sha256": "221e86fc06b8814fe8fae4a97d3730982d2fcadab0f30136615f4f4688875415"
+  },
+  {
+    "doc_id": "S-HOB-ALG",
+    "text_file": "S-HOB-ALG.txt",
+    "jurisdictions": "Hoboken, NJ",
+    "url": "https://hobokennj.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=2943&MediaPosition=&ID=12291&CssClass=",
+    "retrieved_at": "2026-10-04T09:25:09.458Z",
+    "role": "rules",
+    "capture_method": "Targeted public web fetch; markdown text capture (HTML formatting removed), no publisher bulk scraping",
+    "sha256": "2989f836fe92772e8fbd6b426f0854ef45274b4cc124c14b1dd814c4ee99a3f9"
+  },
+  {
+    "doc_id": "S-HOB-STATUS",
+    "text_file": "S-HOB-STATUS.txt",
+    "jurisdictions": "Hoboken, NJ",
+    "url": "https://www.hobokennj.gov/news/city-of-hoboken-outlaws-algorithmic-rent-fixing",
+    "retrieved_at": "2026-10-04T09:25:09.458Z",
+    "role": "support",
+    "capture_method": "Targeted public web fetch; markdown text capture (HTML formatting removed), no publisher bulk scraping",
+    "sha256": "0538bc1ef2ccaa119e3114b38ab51a51cf69fc3b1449db8daa4dbba3fb022c14"
+  },
+  {
+    "doc_id": "S-JC-ALG",
+    "text_file": "S-JC-ALG.txt",
+    "jurisdictions": "Jersey City, NJ",
+    "url": "https://cityofjerseycity.civicweb.net/document/429156/Ordinance%20Amending%20Chapter%20218%20creating%20section.pdf",
+    "retrieved_at": "2026-10-04T09:25:09.458Z",
+    "role": "rules",
+    "capture_method": "Targeted public web fetch; markdown text capture (HTML formatting removed), no publisher bulk scraping",
+    "sha256": "99ec3a73801e8bd24f5c5dec49c316c00c516d83f7cc623a121706333c761e51"
+  },
+  {
+    "doc_id": "S-MA-BALLOT",
+    "text_file": "S-MA-BALLOT.txt",
+    "jurisdictions": "MA",
+    "url": "https://cases.justia.com/massachusetts/supreme-court/2026-sjc-13893.pdf?ts=1782302947",
+    "retrieved_at": "2026-10-04T09:25:09.458Z",
+    "role": "rules",
+    "capture_method": "Targeted public web fetch; markdown text capture (HTML formatting removed), no publisher bulk scraping",
+    "sha256": "51d67dfc50d24bbfb0541ebb0c1d44557a535944e90686a4a837a4eef25ee7b3"
+  },
+  {
+    "doc_id": "S-BRK-DATE",
+    "text_file": "S-BRK-DATE.txt",
+    "jurisdictions": "Berkeley, CA",
+    "url": "https://berkeleyca.gov/sites/default/files/documents/2025-07-08%20Item%2001%20Amendments%20to%20Ordinance%20Prohibiting.pdf",
+    "retrieved_at": "2026-10-04T09:25:09.458Z",
+    "role": "support",
+    "capture_method": "Targeted public web fetch; markdown text capture (HTML formatting removed), no publisher bulk scraping",
+    "sha256": "3b1aad222d40b85b72564aba7351c9f0d792cfe66ab9663594879aa4bfc5e5b1"
+  },
+  {
+    "doc_id": "S-SF-COVERAGE",
+    "text_file": "S-SF-COVERAGE.txt",
+    "jurisdictions": "San Francisco, CA",
+    "url": "https://www.sf.gov/information--sec-372-definitions",
+    "retrieved_at": "2026-10-04T09:25:09.458Z",
+    "role": "support",
+    "capture_method": "Targeted public web fetch; markdown text capture (HTML formatting removed), no publisher bulk scraping",
+    "sha256": "04f760464fae56a3a3c203d32af78303214869cfd4d48d196d252018f6536382"
+  },
+  {
+    "doc_id": "S-LA-RATES",
+    "text_file": "S-LA-RATES.txt",
+    "jurisdictions": "Los Angeles, CA",
+    "url": "https://housing.lacity.gov/wp-content/uploads/2022/01/Allowable-Rent-Increase-Bulletin-English.pdf",
+    "retrieved_at": "2026-10-04T09:25:09.458Z",
+    "role": "rules",
+    "capture_method": "Targeted public web fetch; markdown text capture (HTML formatting removed), no publisher bulk scraping",
+    "sha256": "247be1495cbcf4fc8c1a05836f28f440045a70f74100d964620ac4b19cb02d77"
+  },
+  {
+    "doc_id": "S-SD-ALG",
+    "text_file": "S-SD-ALG.txt",
+    "jurisdictions": "San Diego, CA",
+    "url": "https://docs.sandiego.gov/municode/MuniCodeChapter09/Ch09Art08Division11.pdf",
+    "retrieved_at": "2026-10-04T09:25:09.458Z",
+    "role": "rules",
+    "capture_method": "Targeted public web fetch; markdown text capture (HTML formatting removed), no publisher bulk scraping",
+    "sha256": "368bae6b1e5657aec17e8b4445cef5189ea0d4e6c49249fa6771b106b792da36"
+  },
+  {
+    "doc_id": "S-SF-RATES",
+    "text_file": "S-SF-RATES.txt",
+    "jurisdictions": "San Francisco, CA",
+    "url": "https://www.sf.gov/information--sec-373-rent-limitations",
+    "retrieved_at": "2026-10-04T09:30:13.634Z",
+    "role": "support",
+    "capture_method": "Targeted public web fetch; markdown capture",
+    "sha256": "5693139a6dfdc31503dbbf3529e15a589674e8d10ed217f84ceeae666b64895c"
+  },
+  {
+    "doc_id": "S-BRK-CODE",
+    "text_file": "S-BRK-CODE.txt",
+    "jurisdictions": "Berkeley, CA",
+    "url": "https://berkeley.municipal.codes/BMC/13.63.070",
+    "retrieved_at": "2026-10-04T09:32:33.683Z",
+    "role": "support",
+    "capture_method": "Targeted public web fetch; markdown capture",
+    "sha256": "5de5beddbf692676db19bbb55fc3ce37d727bdc4de16a14e3d9963fe57b837c9"
+  },
+  {
+    "doc_id": "S-JC-STATUS",
+    "text_file": "S-JC-STATUS.txt",
+    "jurisdictions": "Jersey City, NJ",
+    "url": "https://cityofjerseycity.civicweb.net/document/436629",
+    "retrieved_at": "2026-10-04T09:47:59.406Z",
+    "role": "support",
+    "capture_method": "Targeted public web fetch; markdown capture",
+    "sha256": "1bac212217c367ed36548921f5ce78df055ac17f7c6ba08f4b760c0c73f6fcb6"
+  }
+]

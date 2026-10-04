@@ -1,0 +1,174 @@
+{
+  "official_scorer_available": false,
+  "passed": true,
+  "checks": [
+    {
+      "check": "All submission rules satisfy the published JSON Schema",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "No diagnostic fields in minimal rules",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Minimal rules are current projections of internal history",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Rule IDs are unique and content-stable",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Distinct deposit/eviction obligations and coverage branches retained from original caches",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "Every rule quote is an exact slice of its captured source",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "All citation identifiers occur in the cited source",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "Temporal derivations and supplemental supporting quotes are auditable",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "All answers retain source URL and retrieval date internally",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Supplemental captures match recorded SHA-256 hashes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Submission interaction references exist",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Lookup top-level fields match template and default date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Exactly the 500 supplied address IDs are covered",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Only the five permitted lookup results and template fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "No duplicate rule answers per address",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Every exported lookup matches the evaluator",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Exactly T1\u2013T5 with minimal change fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Change sets are unique, sorted and refer to supplied addresses",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Change tracking is reproducible from rule evaluation",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "All state populations match the sample",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "T1 effective-day transition checked on all 250 CA addresses",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "T1 affected set equals all CA addresses",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "T2 separate 40 Hoboken / 50 Jersey City sets, excluding Newark",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "T3 future transition checked on all 140 NJ addresses",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "T3 exactly 90 local conflicts, present in current and future lookup answers",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "T4 both distinct pending bills at every MA address",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "T5 never imposes a Boston/Cambridge rent cap and has empty affected set",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Failed initiative has verified disposition, not a fabricated enacted cap",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Unresolved addresses never acquire local law from their postal city",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Employment screening law is not rendered as housing law",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Ended rules cannot govern current submission answers",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "All available cached corpus documents processed successfully",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "rules_current": 134,
+  "rules_internal": 175,
+  "lookup_results": {
+    "unknown": 4863,
+    "applies": 8517,
+    "pending": 300,
+    "not_yet_effective": 140
+  }
+}

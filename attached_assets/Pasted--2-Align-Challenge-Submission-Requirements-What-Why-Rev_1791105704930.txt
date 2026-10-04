@@ -1,0 +1,58 @@
+#2 - Align Challenge Submission Requirements
+What & Why
+Review and correct the Rental Housing Law Navigator against the supplied no-hour-16 participant PDF, starter README, schema, templates, and T1–T5 definitions. The user explicitly requests every necessary correction, including smaller scoring risks, and says not to push anything to GitHub: make changes only in this Replit project.
+
+The attached notes are useful leads, not an accurate description of this checkout. Current outputs contain 78 rules, T1 already affects all 250 California addresses, and no internal historical-rules output exists. An expired Los Angeles rent moratorium is currently rendered as applicable. Preserve valid behavior and investigate actual gaps rather than blindly applying the notes.
+
+Done looks like
+Automated extraction, jurisdiction resolution, date-sensitive application, explanations, and change tracking meet every applicable published requirement.
+Expired and historical rules are handled correctly at both historical query dates and the default 2026-10-01 date; ended rules do not govern current answers.
+T1 switches from not yet effective to applies for all 250 California addresses; T2 keeps the Hoboken and Jersey City boundary sets separate and excludes Newark; T3 covers all 140 New Jersey addresses with the required future-date transition and possible-conflict warnings for the 90 local-ban addresses; T4 identifies both pending bills for all 110 Massachusetts addresses; T5 never imposes a Boston/Cambridge rent cap and has an empty affected set.
+Every applicable answer retains source, exact quote, retrieval date, as-of date, explanation, and appropriate uncertainty; no mailing-city inference, invented citations, or unsupported coverage assumptions.
+Submission JSON matches the supplied schema and templates, uses only the five permitted lookup results, covers all 500 sample addresses, and exports exactly T1–T5. Rich diagnostics, historical metadata, penalties, and audit evidence remain available outside the minimal submission files.
+Effective dates derived from general legal commencement rules have explicit, verified public-source support and auditable derivations, rather than pretending the resulting date was quoted from a corpus document.
+Missing/link-only sources are explicitly disclosed; any permitted public-source supplementation is sourced, automated, and respects access terms.
+A working live demo, one-page method note, reproducible run instructions, and automated requirement/regression checks are available.
+No GitHub push, pull request, deployment, raw-pack replacement, or unrelated stack migration occurs.
+Out of scope
+Promising hidden scoring outcomes or claiming verification by an unavailable official scorer.
+Legal advice, compliance certification, non-public data, fabricated building facts, or prohibited scraping.
+Hour-16 surprise-document requirements; retain optional incoming-document tooling only if it does not alter the required submission.
+Unrelated redesigns, database migrations, or broad restructuring.
+Steps
+Build a requirements checklist. Compare the participant PDF and starter materials against the current pipeline, outputs, and interface, including smaller schema, reproducibility, and demo risks; treat attached findings as hypotheses.
+Correct temporal extraction and application. Automate evidence-grounded effective dates, expiry dates, historical rule versions, failed/pending distinctions, and duplicate provision handling without hand-coding an answer key.
+Correct coverage and precedence. Review certificate-of-occupancy cutoffs, rolling exemptions, unit and owner uncertainty, construction and use facts, stricter local/state interactions, and unresolved jurisdictions across every sample building.
+Close change-tracking and conflict gaps. Verify every T1–T5 expectation exhaustively and propagate warranted conflict warnings to lookup results and the interface, while distinguishing verified local provisions from missing-source warnings.
+Harden submission exports. Separate rich internal evaluation/audit records from minimal schema-aligned submission JSON; preserve stable rule references and traceability, and remove optional T6 from the required export.
+Prepare and verify the demo. Add the required one-page method note and reproducible commands, run full schema and grounding validation plus all-address regression tests, verify date-boundary and missing-data cases, and inspect the running interface. Explain remaining source limitations and unavailable checks explicitly.
+Architectural constraints: keep the existing Python/FastAPI structure and preserve the raw pack. Prefer valid cached model responses where possible; do not regenerate paid extraction blindly. If uncached extraction is required, check supported integrations and request credentials through the secrets flow rather than inventing values. Changes remain in this Replit workspace; do not push to GitHub. Implementation and completion checks must wait for Build mode.
+
+Relevant files
+data/raw/mit-rental-housing-law-navigator-challenge-v5-participant-no-scoring-no-hour16.pdf
+data/raw/README.md
+data/raw/dev/change_tests.json
+data/raw/schema/rule_record.schema.json
+data/raw/submission_templates/rules.json
+data/raw/submission_templates/lookups.json
+data/raw/submission_templates/changes.json
+data/raw/corpus/corpus_manifest.csv
+data/raw/data/sample_addresses.csv
+src/extract.py
+src/apply.py
+src/changes.py
+src/check.py
+src/pipeline.py
+src/resolve.py
+src/adapt.py
+src/web.py
+src/config.py
+web/index.html
+outputs/rules.json
+outputs/lookups.json
+outputs/changes.json
+outputs/audit.jsonl
+data/cache/stacks.json
+README.md
+replit.md
+attached_assets/Pasted-The-folder-you-named-is-already-the-pack-this-product-u_1791105554178.txt

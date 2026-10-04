@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "LWs857cegaguxXy6jpGBn"
+uri = "file://docs/method-note.pdf"
+type = "pdf"
+title = "One-page method note"
+description = "Submission methodology, reproducible commands, verification and source limitations."
+logical_id = "1e822d8b-af08-4938-bfd4-81d6ecfba252"
+content_hash = "sha256:65fa6c908086784465dd59f7430fe17f9b420f53e54d74040e43e3d2b69fb8b5"
+size = 3317
+mtime_ms = 1791106807412
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:5029a0d1-7ed6-4ffe-aa94-218d5f4724e2/1e822d8b-af08-4938-bfd4-81d6ecfba252/9cc1401c-e4b5-46c7-8d88-aa1871fbf02a"
+storage_version_token = "1791107023130545"
+content_type = "application/pdf"

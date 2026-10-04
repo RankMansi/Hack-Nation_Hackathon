@@ -3,30 +3,62 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#eaf2df">
   <title>Rental Housing Law Navigator</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="/static/styles.css">
 </head>
-<body class="bg-stone-50 text-stone-900 antialiased">
-  <div class="bg-amber-100 border-b border-amber-300 text-amber-900 text-sm">
-    <div class="max-w-4xl mx-auto px-4 py-2"><strong>Not legal advice.</strong> This tool shows what the supplied public law text says for a building. It is not a compliance certification. Ask a lawyer or your local rent board before acting.</div>
+<body>
+  <a class="skip-link" href="#main">Skip to building lookup</a>
+  <div class="notice" role="note">
+    <div class="shell notice-inner">
+      <span class="notice-mark" aria-hidden="true"></span>
+      <p><strong>Not legal advice.</strong> This tool shows what the supplied public law text says for a building. It is not a compliance certification. Ask a lawyer or your local rent board before acting.</p>
+    </div>
   </div>
-  <main class="max-w-4xl mx-auto px-4 py-8">
-    <h1 class="text-2xl font-semibold tracking-tight">Rental Housing Law Navigator</h1>
-    <p class="text-stone-600 mt-1">Which housing rules apply to this building on the date you pick, with the law they come from.</p>
+  <header class="shell masthead">
+    <a class="wordmark" href="/" aria-label="Rental Housing Law Navigator home">
+      <span class="wordmark-icon" aria-hidden="true"><span></span><span></span><span></span></span>
+      <span>Housing Law <small>RENTAL HOUSING LAW NAVIGATOR</small></span>
+    </a>
+    <span class="masthead-note">Evidence before answers</span>
+  </header>
+  <main class="shell" id="main">
+    <section class="intro">
+      <p class="eyebrow">A building-specific guide</p>
+      <h1>Housing rules,<br><em>for your building.</em></h1>
+      <p class="intro-copy">Choose a building and a date to explore the housing rules in scope, with their source text and limits in view.</p>
+      <nav class="downloads" aria-label="Submission downloads">
+        <span class="download-label">REFERENCE FILES</span>
+        <a href="/method-note">Method note <span aria-hidden="true">↗</span></a>
+        <a href="/downloads/rules.json">Rules JSON <span aria-hidden="true">↓</span></a>
+        <a href="/downloads/lookups.json">500 lookups JSON <span aria-hidden="true">↓</span></a>
+        <a href="/downloads/changes.json">T1–T5 JSON <span aria-hidden="true">↓</span></a>
+      </nav>
+    </section>
 
-    <form method="get" action="/" class="mt-6 flex flex-wrap gap-3 items-end bg-white border border-stone-200 rounded-lg p-4">
-      <label class="flex-1 min-w-[18rem]">
-        <span class="block text-xs font-medium text-stone-500 uppercase tracking-wide">Building</span>
-        <select name="address_id" class="mt-1 w-full border border-stone-300 rounded-md px-2 py-2 bg-white">$options</select>
-      </label>
-      <label>
-        <span class="block text-xs font-medium text-stone-500 uppercase tracking-wide">As of</span>
-        <input type="date" name="as_of" value="$as_of" class="mt-1 border border-stone-300 rounded-md px-2 py-2">
-      </label>
-      <button type="submit" class="bg-stone-900 text-white rounded-md px-4 py-2 font-medium hover:bg-stone-700">Look up</button>
-    </form>
+    <section class="lookup-panel" aria-labelledby="lookup-heading">
+      <div class="lookup-heading">
+        <span class="step-number">01</span>
+        <div><h2 id="lookup-heading">Set your reference point</h2><p>Results reflect the selected building and date.</p></div>
+      </div>
+      <form method="get" action="/" class="lookup-form">
+        <label class="field building-field">
+          <span>Building</span>
+          <select name="address_id">$options</select>
+        </label>
+        <label class="field date-field">
+          <span>As of</span>
+          <input type="date" name="as_of" value="$as_of">
+        </label>
+        <button type="submit" class="submit-button">Look up rules <span aria-hidden="true">→</span></button>
+      </form>
+    </section>
 
-    $body
+    <div class="results">$body</div>
+    <footer class="page-footer">
+       <span>RENTAL HOUSING LAW NAVIGATOR <span aria-hidden="true">·</span> Public-text evidence</span>
+      <span>Information, not a legal determination.</span>
+    </footer>
   </main>
 </body>
 </html>

@@ -1,0 +1,211 @@
+[Skip to main content](https://www.sf.gov/information--sec-373-rent-limitations#main-content)
+
+Info Page
+
+# Sec. 37.3 - Rent Limitations
+
+[Rent Board](https://www.sf.gov/departments--rent-board)
+
+Part of
+
+[The Rent Ordinance](https://www.sf.gov/rent-ordinance)
+
+Sec. 37.3 Rent Limitations.
+
+(a) Rent Increase Limitations for Tenants in Occupancy. Landlords may impose rent increases upon tenants in occupancy only as provided below and as provided by subsections 37.3(d) and 37.3(g):
+
+(1) Annual Rent Increase. On March 1 of each year, the Board shall publish the increase in the CPI for the preceding 12 months, as made available by the U.S. Department of Labor. A landlord who has reported the required information about their rental unit to the Rent Board as set forth in Section 37.15 shall have a license to impose annually a rent increase which does not exceed a tenant's base rent by more than 60% of said published increase. In no event, however, shall the allowable annual increase be greater than 7%.
+
+(2) Banking. A landlord who refrains from imposing an annual rent increase or any portion thereof may accumulate said increase and, subject to Section 37.15, impose that amount on the tenant's subsequent rent increase anniversary dates. A landlord who, between April 1, 1982 and February 29, 1984, has banked an annual 7% rent increase (or rent increases) or any portion thereof may impose the accumulated increase on the tenant's subsequent rent increase anniversary dates.
+
+(3) Capital Improvements, Rehabilitation, Energy Conservation Improvements, and Renewable Energy Improvements. A landlord may impose rent increases based upon the cost of capital improvements, rehabilitation, energy conservation improvements, or renewable energy improvements, provided that such costs are certified pursuant to Sections 37.7 and 37.8B below; provided further that where a landlord has performed seismic strengthening in accordance with Existing Building Code Chapters 5B and 5C, no increase for capital improvements (including but not limited to seismic strengthening) shall exceed, in any twelve (12) month period, 10% of the tenant's base rent, subject to rules adopted by the Board to prevent landlord hardship and to permit landlords to continue to maintain their buildings in a decent, safe and sanitary condition. A landlord may accumulate any certified increase which exceeds this amount and impose the increase in subsequent years, subject to the 10% limitation. Nothing in this subsection shall be construed to supersede any Board rules or regulations with respect to limitations on increases based upon capital improvements whether performed separately or in conjunction with seismic strengthening improvements pursuant to Existing Building Code Chapters 5B and 5C.
+
+(4) Utilities. A landlord may impose increases based upon the cost of utilities as provided in Section 37.2(q) above.
+
+(5) Water: Charges Related to Excess Water Use, and 50% Passthrough of Water Bill Charges Attributable to Water Rate Increases Resulting From Issuance of Water System Improvement Revenue Bonds Authorized at the November 2002 Election.
+
+(A) Charges Related to Excess Water Use. A landlord may impose increases not to exceed fifty percent of the excess use charges (penalties) levied by the San Francisco Water Department on a building for use of water in excess of Water Department allocations under the following conditions:
+
+(i) The landlord provides tenants with written certification that the following have been installed in all units: (1) permanently-installed retrofit devices designed to reduce the amount of water used per flush or low-flow toilets (1.6 gallons per flush); (2) low-flow showerheads which allow a flow of no more than 2.5 gallons per minute; and (3) faucet aerators (where installation on current faucets is physically feasible); and
+
+(ii) The landlord provides the tenants with written certification that no known plumbing leaks currently exist in the building and that any leaks reported by tenants in the future will be promptly repaired; and
+
+(iii) The landlord provides the tenants with a copy of the water bill for the period in which the penalty was charged. Only penalties billed for a service period which begins after the effective date of the ordinance \[April 20, 1991\] may be passed through to tenants. Where penalties result from an allocation which does not reflect documented changes in occupancy which occurred after March 1, 1991, a landlord must, if requested in writing by a tenant, make a good faith effort to appeal the allotment. Increases based upon penalties shall be pro-rated on a per room basis provided that the tenancy existed during the time the penalty charges accrued. Such charges shall not become part of a tenant's base rent. Where a penalty in any given billing period reflects a 25% or more increase in consumption over the prior billing period, and where that increase does not appear to result from increased occupancy or any other known use, a landlord may not impose any increase based upon such penalty unless inspection by a licensed plumber or Water Department inspector fails to reveal a plumbing or other leak. If the inspection does reveal a leak, no increase based upon penalties may be imposed at any time for the period of the unrepaired leak.
+
+(B) Fifty Percent (50%) Passthrough of Water Bill Charges Attributable to Water Rate Increases Resulting From Issuance of Water System Improvement Revenue Bonds Authorized at the November 2002 Election. A landlord may pass through fifty percent (50%) of the water bill charges attributable to water rate increases resulting from issuance of Water System Improvement Revenue Bonds authorized at the November 5, 2002 election (Proposition A), to any unit that is in compliance with any applicable laws requiring water conservation devices. The landlord is not required to file a petition with the Board for approval of such a cost passthrough. Such cost passthroughs are subject to the following:
+
+(i) Affected tenants shall be given notice of any such passthrough as provided by applicable notice of rent increase provisions of this Chapter 37, including but not limited to Section 37.3(b)(3).
+
+(ii) A tenant may file a hardship application with the Board, and be granted relief from all or part of such a cost passthrough;
+
+(iii) If a tenant's hardship application is granted, the tenant's landlord may utilize any available Public Utilities Commission low-income rate discount program or similar program for water bill reduction, based on that tenant's hardship status;
+
+(iv) A landlord shall not impose a passthrough pursuant to Section 37.3(a)(5)(B) if the landlord has filed for or received Board approval for a rent increase under Section 37.8(e)(4) for increased operating and maintenance expenses in which the same increase in water bill charges attributable to water rate increases resulting from issuance of any water revenue bonds authorized at the November 5, 2002 election was included in the comparison year cost totals.
+
+(v) Where a tenant alleges that a landlord has imposed a water revenue bond passthrough that is not in compliance with Section 37.3(a)(5)(B), the tenant may petition for a hearing under the procedures provided by Section 37.8. In such a hearing the landlord shall have the burden of proving the accuracy of the calculation that is the basis for the increase. Any tenant petition challenging such a passthrough must be filed within one year of the effective date of the passthrough.
+
+(vi) A tenant who has received a notice of passthrough or a passthrough under this Section 37.3(a)(5)(B) shall be entitled to receive a copy of the applicable water bill from the landlord upon request.
+
+(vii) The amount of permissible passthrough per unit under this Section 37.3(a)(5)(B) shall be determined as follows:
+
+(1) The San Francisco Public Utilities Commission will determine the charge per unit of water, if any, that is attributable to water rate increases resulting from issuance of water system improvement revenue bonds authorized at the November 5, 2002 election.
+
+(2) The charge identified in Section 37.3(a)(5)(B)(vii)(1) shall be multiplied by the total units of water used by each customer, for each water bill. The result is the total dollar amount of the water bill that is attributable to water rate increases resulting from issuance of water system improvement revenue bonds authorized at the November 5, 2002 election. That charge shall be a separate line item on each customer's water bill.
+
+(3) The dollar amount calculated under Section 37.3(a)(5)(B)(vii)(2) shall be divided by two (since a 50% passthrough is permitted), and then divided by the total number of units covered by the water bill, including commercial units. The resulting dollar figure shall be divided by the number of months covered by the water bill cycle (most are two-month bill cycles), to determine the amount of that water bill that may be passed through to each residential unit for each month covered by that bill.
+
+(4) These passthroughs may be imposed on a monthly basis. These passthroughs shall not become part of a tenant's base rent. The amount of each passthrough may vary from month to month, depending on the amount calculated under Sections 37.3(a)(5)(B)(vii)(1) through (3).
+
+(viii) The Board may amend its rules and regulations as necessary to implement this Section 37.3(a)(5)(B).
+
+(6) Property Tax.
+
+(A) Effective July 1, 2024, a landlord may impose increases based upon a 100% passthrough of the change in the landlord's property tax resulting from the repayment of general obligation bonds of the City and County of San Francisco approved by the voters between November 1, 1996, and November 30, 1998; a 50% passthrough of the change in the landlord's property tax resulting from the repayment of general obligation bonds of the City and County of San Francisco approved by the voters after November 14, 2002; and a 50% passthrough of the change in the landlord's property tax resulting from the repayment of San Francisco Unified School District or San Francisco Community College District general obligation bonds approved by the voters after November 1, 2006. General obligation bonds that meet the criteria set forth in the previous sentence are referred to herein as “Eligible Bonds;” provided, however, that a general obligation bond approved after December 20, 2000 may qualify as an Eligible Bond only if the passthrough was disclosed and approved by the voters. The City and County of San Francisco, San Francisco Unified School District, and San Francisco Community College District are referred to collectively as “the Issuing Entities.”
+
+To pass through the change in property tax resulting from the repayment of Eligible Bonds, the landlord shall calculate said change relative to the amount that the property tax rate increased due to the repayment of Eligible Bonds since each tenancy commenced, or 2005, whichever is later (“the Base Year”), as set forth in subsection (a)(6)(B).
+
+(B) The Controller will first determine the percentage of the property tax rate, if any, attributable to general obligation bonds of any of the Issuing Entities (“the General Obligation Bond Factor”) for each tax year. The passthrough rate for an individual tenant (the “Tenant Passthrough Rate”) shall be based on the amount that the General Obligation Bond Factor for the current year has increased since the tenant’s Base Year; and the degree to which said increase, if any, is attributable to Eligible Bonds, as measured by the ratio of debt service for the Eligible Bonds compared to the total debt service attributable to general obligation bonds of the Issuing Entities. The resulting figure shall then be discounted to reflect the specific percentage passthroughs for each of the Eligible Bonds as specified in subsection (A). The Controller shall prepare and annually update a form to help landlords and tenants calculate the Tenant Passthrough Rates. The Controller’s authority to interpret and administer this calculation shall be liberally construed to further the purposes of this subsection (a)(6).
+
+(C) To calculate the amount of increased property tax that the landlord can pass through to a tenant in any given year, the landlord shall divide the total amount of the net taxable value as of November 1 of the applicable tax year by the total number of all units in the property, including commercial units; and shall multiply the resulting figure by the applicable Tenant Passthrough Rate. The result is the dollar amount of increased property taxes for that tax year for a particular property attributable to the repayment of Eligible Bonds that the landlord may pass through to the tenant.
+
+(D) The dollar amount calculated under subsection (a)(6)(C) shall then be divided by the total number of months that the passthrough may apply pursuant to subsection (a)(6)(E)(i), to determine the monthly per unit costs for that tax year of the repayment of general obligation bonds.
+
+(E) Landlords may pass through to each unit in a particular property the dollar amount calculated under subsections (a)(6)(A)-(D), as provided in this subsection (a)(6)(E).
+
+(i) All passthroughs shall apply for the same number of months covered by the property tax bills used in the passthrough calculation, and the calculation may not be based on tax bills issued more than three years prior to the year in which the passthrough was imposed.
+
+(ii) The landlord shall give affected tenants notice of the passthrough as provided by applicable notice of rent increase provisions of this Chapter 37, including but not limited to Section 37.3(b)(3). The passthroughs may be imposed at any time in the calendar year, provided that the landlord serves notice of such passthrough to be effective on the anniversary date of each tenant’s occupancy of the property. The passthroughs shall not become a part of a tenant's base rent. The amount of each passthrough imposed pursuant to subsection (a)(6) may vary from year-to-year, depending on the amount calculated by the Controller. A landlord may impose the passthrough described in this subsection (a)(6) for a particular tax year only with respect to those tenants who were residents of a particular property on November 1 of the applicable tax year. A landlord shall not impose a passthrough pursuant to this subsection (a)(6) if the landlord has filed for or received Board approval for a rent increase under Section 37.8(e)(4) for increased operating and maintenance expenses in which the same increase in property taxes due to the repayment of general obligation bonds was included in the comparison year cost totals.
+
+(F) A tenant who has received a passthrough under this subsection (a)(6) may file a financial hardship application with the Board, and the Board may grant the tenant complete or partial relief from the passthrough. The standards and procedures for the financial hardship application shall be as set forth in Sections 37.7(h)-(i).
+
+(G) The Board shall have available a form which explains how to calculate the passthrough. Landlords must provide to tenants, on or before the date that notice is served on the tenant of a passthrough permitted under this subsection (a)(6), a copy of the completed form. Landlords shall provide their tenants the completed forms in addition to the Notice of Rent Increase required under Section 37.3(b). Where a tenant alleges that a landlord has imposed a charge which exceeds the limitations set forth in this subsection (a)(6), the tenant may petition for a hearing under the procedures provided by Section 37.8. In such a hearing, the landlord shall have the burden of proving the accuracy of the calculation that is the basis for the increase. Any tenant petition challenging such a passthrough must be filed within one year of the effective date of the passthrough.
+
+(H) The Board and the Controller may amend their rules and regulations as necessary to implement this subsection (a)(6).
+
+(7) RAP Loans. A landlord may impose rent increases attributable to the Chief Administrative Officer's amortization of the RAP loan in an area designated on or after July 1, 1977 pursuant to Chapter 32 of the San Francisco Administrative Code.
+
+(8) Additional Increases. A landlord who seeks to impose any rent increase which exceeds those permitted above shall petition for a rental arbitration hearing pursuant to Section 37.8 of this chapter.
+
+(9) A landlord may impose a rent increase to recover costs incurred for the remediation of lead hazards, as defined in San Francisco Health Code Article 11 or 26. Such increases may be based on changes in operating and maintenance expenses or for capital improvement expenditures as long as the costs which are the basis of the rent increase are a substantial portion of the work which abates or remediates a lead hazard, as defined in San Francisco Health Code Article 11 or 26, and provided further that such costs are approved for operating and maintenance expense increases pursuant to Section 37.8(e)(4)(A) and certified as capital improvements pursuant to Section 37.7 below.
+
+When rent increases are authorized by this subsection 37.3(a)(9), the total rent increase for both operating and maintenance expenses and capital improvements shall not exceed 10% in any twelve (12) month period. If allowable rent increases due to the costs of lead remediation and abatement work exceed 10% in any 12 month period, an Administrative Law Judge shall apply a portion of such excess to approved operating and maintenance expenses for lead remediation work, and the balance, if any, to certified capital improvements, provided, however, that such increase shall not exceed 10%. A landlord may accumulate any approved or certified increase which exceeds this amount, subject to the 10% limit.
+
+(10) With respect to units occupied by recipients of tenant-based rental assistance:
+
+(A) If the tenant's share of the base rent is not calculated as a fixed percentage of the tenant's income, such as in the Housing Choice Voucher Program and the Over-FMR Tenancy Program, or if the tenant is receiving assistance under the HOPWA rental subsidy program, then:
+
+(i) If the base rent is equal to or greater than the Payment Standard, the rent increase limitations in Sections 37.3(a)(1) and (2) shall apply to the entire base rent, and the arbitration procedures for those increases set forth in section 37.8 and 37.8A shall apply.
+
+(ii) If the base rent is less than the Payment Standard, the rent increase limitations of this Chapter shall not apply; provided, however, that any rent increase which would result in the base rent being equal to or greater than the Payment Standard shall not result in a new base rent that exceeds the Payment Standard plus the increase allowable under Section 37.3(a)(1).
+
+(B) If the tenant's share of the base rent is calculated as a fixed percentage of the tenant's income, such as in the Section 8 Certificate Program, the rent increase limitations in Section 37.3(a)(1) and (2) shall not apply. In such circumstances, adjustments in rent shall be made solely according to the requirements of the tenant-based rental assistance program.
+
+(11) Additional occupants.
+
+(A) Except as provided in Section 37.3(a)(11)(B), a landlord may not impose increases solely because a tenant has added an additional occupant to an existing tenancy, including, but not limited to, a newborn child or family member as defined in Section 401 of the Housing Code. The prohibition on increases mandated by this Subsection (A) shall apply notwithstanding a rental agreement or lease that specifically permits a rent increase for additional occupants.
+
+(B) A landlord may petition the Board for a rent increase pursuant to Section 37.3(a)(8) for costs associated with the addition of occupants authorized under Section 37.9(a)(2)(C).
+
+(C) Rent increases otherwise permitted by the Costa-Hawkins Rental Housing Act, California Civil Code Section 1950 et seq. (as it may be amended from time to time) are not prohibited or limited by this Section 37.3(a)(11).
+
+(b) Notice of Rent Increase for Tenants in Occupancy. On or before the date upon which a landlord gives a tenant legal notice of a rent increase, the landlord shall inform the tenant, in writing, of the following:
+
+(1) Which portion of the rent increase reflects the annual increase, and/or a banked amount, if any;
+
+(2) Which portion of the rent increase reflects costs for increased operating and maintenance expenses, rents for comparable units, and/or capital improvements, rehabilitation, energy conservation improvements, or renewable energy improvements certified pursuant to Section 37.7. Any rent increase certified due to increases in operating and maintenance costs shall not exceed seven percent.
+
+(3) Which portion of the rent increase reflects the passthrough of charges for: gas and electricity; or the passthrough of increased water bill charges attributable to water rate increases resulting from issuance of water revenue bonds authorized at the November 2002 election as provided by Section 37.3(a)(5)(B) ), which charges and calculations of charges shall be explained in writing on a form provided by the Board; or the passthrough of general obligation bond measure costs as provided by Section 37.3(a)(6), which charges shall be explained in writing on a form provided by the Board as described in Section 37.3(a)(6)(E);
+
+(4) Which portion of the rent increase reflects the amortization of the RAP loan, as described in Section 37.3(a)(7) above.
+
+(5) Nonconforming Rent Increases. Any rent increase which does not conform with the provisions of this section shall be null and void.
+
+(6) With respect to rental units occupied by recipients of tenant-based rental assistance, the notice requirements of this Subsection (b) shall be required in addition to any notice required as part of the tenant-based rental assistance program.
+
+(c) Initial Rent Limitation for Subtenants. A tenant who subleases his or her rental unit may charge no more rent upon initial occupancy of the subtenant or subtenants than that rent which the tenant is currently paying to the landlord.
+
+(d) Costa-Hawkins Rental Housing Act (Civil Code Sections 1954.50, et seq.). Consistent with the Costa-Hawkins Rental Housing Act (Civil Code Sections 1954.50, et seq.) and regardless of whether otherwise provided under Chapter 37:
+
+(1) Property Owner Rights to Establish Initial and All Subsequent Rental Rates for Separately Alienable Parcels.
+
+(A) An owner of residential real property may establish the initial and all subsequent rental rates for a dwelling or a unit which is alienable separate from the title to any other dwelling unit or is a subdivided interest in a subdivision as specified in subdivision (b), (d), or (f) of Section 11004.5 of the California Business and Professions Code. The owner's right to establish subsequent rental rates under this subsection (d)(1)(A) shall not apply to a dwelling or unit where either of the following apply:
+
+(i) The unit is a condominium dwelling or unit that has not been sold separately by the subdivider to a bona fide purchaser for value; but subsection (d)(1)(A) shall apply to a single unsold condominium dwelling or unit, if all the other condominium dwellings or units have been sold separately by the subdivider to bona fide purchasers for value, and the subdivider has occupied the remaining unsold condominium dwelling or unit as their principal residence for at least one year after the subdivision occurred.
+
+(ii) The preceding tenancy has been terminated by the owner by notice pursuant to California Civil Code Section 1946.1 or has been terminated upon a change in the terms of the tenancy noticed pursuant to California Civil Code Section 827: in such instances, the rent increase limitation provisions of Chapter 37 shall continue to apply for the duration of the new tenancy in that dwelling or unit.
+
+(B) Where the initial or subsequent rental rates of a Subsection 37.3(d)(1)(A) dwelling or unit were controlled by the provisions of Chapter 37 on January 1, 1995, the following shall apply:
+
+(i) A tenancy that was in effect on December 31, 1995 remains subject to the rent control provisions of this Chapter 37, and the owner may not otherwise establish the subsequent rental rates for that tenancy.
+
+(ii) On or after January 1, 1999 an owner may establish the initial and all subsequent rental rates for any tenancy created on or after
+
+January 1, 1996.
+
+(B) An owner's right to establish subsequent rental rates under Subsection 37.3(d)(1) shall not apply to a dwelling or unit which contains serious health, safety, fire or building code violations, excluding those caused by disasters, for which a citation has been issued by the appropriate governmental agency and which has remained unabated for six months or longer preceding the vacancy.
+
+(C) An owner's right to establish subsequent rental rates under subsection 37.3(d)(1) shall not apply to a dwelling unit that is created pursuant to the Code provisions specified in subsection 37.2(r)(4)(D), or a dwelling unit that utilizes the Code provisions specified in subsection 37.2(r)(4)(D).
+
+(2) Conditions for Establishing the Initial Rental Rate Upon Sublet or Assignment. Except as identified in this Subsection 37.3(d)(2), nothing in this Subsection or any other provision of law of the City and County of San Francisco shall be construed to preclude express establishment in a lease or rental agreement of the rental rates to be applicable in the event the rental unit subject thereto is sublet, and nothing in this Subsection shall be construed to impair the obligations of contracts entered into prior to January 1, 1996, subject to the following:
+
+(A) Where the original occupant or occupants who took possession of the dwelling or unit pursuant to the rental agreement with the owner no longer permanently reside there, an owner may increase the rent by any amount allowed by this section to a lawful sublessee or assignee who did not reside at the dwelling or unit prior to January 1, 1996. However, such a rent increase shall not be permitted while:
+
+(i) The dwelling or unit has been cited in an inspection report by the appropriate governmental agency as containing serious health, safety, fire, or building code violations, as defined by Section 17920.3 of the California Health and Safety Code, excluding any violation caused by a disaster; and,
+
+(ii) The citation was issued at least 60 days prior to the date of the vacancy; and,
+
+(iii) The cited violation had not been abated when the prior tenant vacated and had remained unabated for 60 days or for a longer period of time. However, the 60-day time period may be extended by the appropriate governmental agency that issued the citation.
+
+(B) This Subsection shall not apply to partial changes in occupancy of a dwelling or unit where one or more of the occupants of the premises, pursuant to the agreement with the owner provided for above (37.3(d)(2)), remains an occupant in lawful possession of the dwelling or unit, or where a lawful sublessee or assignee who resided at the dwelling or unit prior to January 1, 1996, remains in possession of the dwelling or unit. Nothing contained in this Subsection 37.3(d)(2) shall be construed to enlarge or diminish an owner's right to withhold consent to a sublease or assignment.
+
+(C) Acceptance of rent by the owner shall not operate as a waiver or otherwise prevent enforcement of a covenant prohibiting sublease or assignment or as a waiver of an owner's rights to establish the initial rental rate unless the owner has received written notice from the tenant that is party to the agreement and thereafter accepted rent.
+
+(3) Termination or Nonrenewal of a Contract or Recorded Agreement with a Government Agency Limiting Rent. An owner who terminates or fails to renew a contract or recorded agreement with a governmental agency that provides for a rent limitation to a qualified tenant, shall be subject to the following:
+
+(A) The tenant(s) who were beneficiaries of the contract or recorded agreement shall be given at least 90 days' written notice of the effective date of the termination and shall not be obligated to pay more than the tenant's portion of the rent, as calculated under that contract or recorded agreement, for 90 days following receipt of the notice of termination or nonrenewal.
+
+(B) The owner shall not be eligible to set an initial rent for three years following the date of the termination or nonrenewal of the contract or agreement.
+
+(C) The rental rate for any new tenancy established during the three-year period in that vacated dwelling or unit shall be at the same rate as the rent under the terminated or nonrenewed contract or recorded agreement, plus any increases authorized under this Chapter 37 after the date of termination/non renewal.
+
+(D) The provisions of Subsections 37.3(d)(3)(B) and (C) shall not apply to any new tenancy of 12 months or more duration established after January 1, 2000, pursuant to the owner's contract or recorded agreement with a governmental agency that provides for a rent limitation to a qualified tenant unless the prior vacancy in that dwelling or unit was pursuant to a nonrenewed or canceled contract or recorded agreement with a governmental agency that provides for a rent limitation to a qualified tenant.
+
+(4) Subsection 37.3(d) does not affect the authority of the City and County of San Francisco to regulate or monitor the basis or grounds for eviction.
+
+(5) This Subsection 37.3(d) is intended to be and shall be construed to be consistent with the Costa-Hawkins Rental Housing Act (Civil Code Sections 1954.50. et seq.)
+
+(e) Effect of Deferred Maintenance on Passthroughs for Lead Remediation Techniques.
+
+(1) When lead hazards are remediated or abated pursuant to San Francisco Health Code Article 11 or 26, or are violations of state or local housing and/or health and safety laws, there shall be a rebuttable presumption that the lead hazards are caused or created by deferred maintenance as defined herein of the current or previous landlord. If the landlord fails to rebut the presumption, the costs of such work shall not be passed through to tenants as either a capital improvement or an operating and maintenance expense. If the landlord rebuts the presumption, he or she shall be entitled to a rent increase if otherwise justified by the standards set forth in this Chapter.
+
+(2) For purposes of the evaluation of petitions for rent increases for lead remediation work, maintenance is deferred if a reasonable landlord under the circumstances would have performed, on a regular basis, the maintenance work required to keep the premises from being in violation of housing safety and habitability standards set forth in California Civil Code Section 1941 and the San Francisco Municipal Code. In order to prevail on a deferred maintenance defense, a tenant must show that the level of repair or remediation currently required would have been lessened had maintenance been performed in a more timely manner.
+
+(f) Costa-Hawkins Vacancy Control. Where a landlord has terminated the previous tenancy as stated in either subsection (1), (2) or (3) below, for the next five years from the termination, the initial base rent for the subsequent tenancy shall be a rent not greater than the lawful rent in effect at the time the previous tenancy was terminated, plus any annual rent increases available under this Chapter 37. This Section 37.3(f) is intended to be consistent with California Civil Code Section 1954.53(a)(1)(A)-(B).
+
+(1) Where the previous tenancy was terminated by a notice of termination of tenancy issued under California Civil Code Section 1946.1 stating the ground for recovery of possession under Sections 37.9(a)(8), (9), (10), (11), (14) or (17) of this Code. For purposes of the termination of the tenancy under Section 37.9(a)(9), the initial rent for the unit may be set by a subsequent bona fide purchaser for value of the condominium.
+
+(2) Where the previous tenancy was terminated upon a change in terms of tenancy noticed under California Civil Code Section 827, except a change in rent permitted by law. Within 10 days after serving the notice of termination based upon a change in terms of tenancy under Civil Code Section 827, the landlord shall notify the Board in writing of the monthly rent the tenant was paying when the landlord gave the notice to the tenant, and provide a copy of the notice to the Board to the tenant.
+
+(3) Where the landlord terminated or did not renew a contract or recorded agreement with a governmental agency that provided for a rent limitation to a qualified tenant. When a landlord terminates a tenant-based rental assistance program, the landlord shall, within 10 days after giving the notice of termination of the program to the tenant, notify the Board in writing of the monthly rent the tenant was paying and the monthly rent paid by the program to the landlord on behalf of the tenant when the landlord gave notice to the tenant, and provide a copy of the notice to the Board to the tenant.
+
+(g) New Construction and Substantial Rehabilitation.
+
+(1) An owner of a residential dwelling or unit which is newly constructed and first received a certificate of occupancy after the effective date of Ordinance No. 276-79 (June 13, 1979), or which the Rent Board has certified has undergone a substantial rehabilitation, may establish the initial and all subsequent rental rates for that dwelling or unit, except where any of the following apply:
+
+(A) Where rent restrictions apply to the dwelling or unit under Sections 37.3(d) or 37.3(f),
+
+(B) Where the dwelling or unit is a replacement unit under Section 37.9A(b),
+
+(C) As provided for certain categories of units under Section 37.2(r)(4)(D),
+
+(D) As provided in a development agreement entered into by the City under Administrative Code Chapter 56.
+
+(E) The Board of Supervisors acknowledges that at least through November 5, 2024, California Civil Code Sections 1954.52(a)(1)-(2) preclude the City from updating the June 13, 1979 new construction date specified in this subsection (g)(1). In the event State law is amended or repealed in this regard, said new construction date shall immediately cease to apply, and shall by operation of law pursuant to this subsection (g)(1)(E) be updated to reflect the latest date that State law may allow, up to and including June 13, 1994. The applicability of an updated new construction date under this subsection (g)(1)(E) shall not affect whether a unit is exempt under some other legal basis set forth in this Chapter 37. If no other exemption applies and a unit becomes covered by Chapter 37’s rent increase limitations by operation of this subsection (g)(1)(E), the initial base rent shall be the lawful rent that applied as of the date of coverage. If no rent was in effect as of the date of coverage, then the initial base rent shall be the first lawful rent in effect after that date.
+
+\[Amended by Ord. No. 442-79, effective August 31, 1979; Ord. No. 136-80, effective April 10, 1980; Ord. No. 358-80, effective August 24, 1980; Ord. No. 77-82, effective April 1, 1982; Ord. No. 268-82, effective July 10, 1982; Ord. No. 438-83, effective October 2, 1983; repealed and replaced by Section 37.3A by Ord. No. 20-84, effective February 18, 1984; renumbered by Ord. No. 338-87, effective September 13, 1987; amended by Ord. No. 102-91, effective April 20, 1991; Ord. No. 127-91, effective May 2, 1991; amended by Resolution No. 961-92, effective December 8, 1992; amended by Ord. No. 405-96, effective November 21, 1996; Ord. No. 179-98, effective June 28, 1998; Ord. No. 250-98, effective August 30, 1998; Ord. No. 347-99, effective January 29, 2000; Ord. No. 116-00, effective July 2, 2000; amended by Proposition H, effective December 21, 2000; Ord. No. 02-03, effective February 21, 2003; Ord. No. 107-03, effective June 22, 2003. Ord. No. 99-04, effective July 5, 2004; Ord. No. 252-06, effective November 10, 2006; Ord. No. 171-15, effective November 9, 2015; Ord. No. 119.16, effective July 31, 2016; Ord. No. 250-19, effective December 7, 2019; Ord. No. 296-19, effective January 20, 2020; Ord. No. 265-20, effective January 18, 2021, operative July 1, 2022; Ord. No. 172-22, effective September 4, 2022; Ord. No. 210-22, effective November 28, 2022; Ord. No. 91-23, effective June 26, 2023; Ord. No. 195-23, effective October 16, 2023; Ord. No. 64-24, effective April 28, 2024; Ord. No. 92-24, effective June 10, 2024, operative July 1, 2024; Ord. No. 248-24, effective November 24, 2024; Ord. No. 3-26, effective February 9, 2026\]
+
+### Return
+
+Return to the [Rent Ordinance](https://www.sf.gov/reports/august-2023/rent-ordinance) page.
+
+Did you find what you needed?

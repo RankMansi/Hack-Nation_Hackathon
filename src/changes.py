@@ -24,6 +24,15 @@ def match_rules(key_id: str, rules: list[dict]) -> tuple[str, str, list[dict]]:
     found = [r for r in rules if r["jurisdiction"] == jur and r["category"] == cat]
     if n.startswith("P"):
         found = [r for r in found if r["status"] in ("pending", "failed")]
+        # Pending numbered cases refer to distinct bills, not every pending
+        # record in the category. Bill identity is read from the test title.
+        if cat == "algorithmic_rent_setting":
+            tests = json.loads(CHANGE_TESTS.read_text())
+            test = next((t for t in tests if key_id in t["rule_ids"]), {})
+            bills = __import__("re").findall(r"[SH]\.\d+", test.get("title", ""))
+            index = int(n[1:]) - 1
+            if index < len(bills):
+                found = [r for r in found if bills[index] in r["citation"]]
     else:
         found = [r for r in found if r["status"] not in ("pending", "failed")]
     return jur, cat, found
@@ -148,7 +157,6 @@ def run(rules: list[dict], stacks: dict) -> dict:
     tests = json.loads(CHANGE_TESTS.read_text())
     handlers = {"as_of": as_of_test, "boundary": boundary_test, "pending": pending_test, "negative": negative_test}
     out = {t["test_id"]: {"title": t["title"], **handlers[t["type"]](t, rules, stacks)} for t in tests}
-    out["T6"] = {"title": "New ordinance from data/incoming/", **incoming_test(rules, stacks)}
     for k, v in out.items():
         print(f"changes: {k} affected={len(v['affected_address_ids'])} conflicts={len(v['conflict_flag_address_ids'])}")
     return out

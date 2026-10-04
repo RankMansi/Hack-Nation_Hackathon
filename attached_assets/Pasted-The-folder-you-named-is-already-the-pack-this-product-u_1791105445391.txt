@@ -1,0 +1,22 @@
+The folder you named is already the pack this product uses. Every file in `participant-final-no-hour16 3` matches `housing-nav/data/raw` byte for byte: the README, the manifest, all 54 source texts, the address CSV, the schema, and `dev/change_tests.json`. The PDF is that same participant guide. Nothing in the starter data needs to be swapped.
+
+The product is not fully aligned with what that PDF asks you to submit. These are the gaps.
+
+**T1 fails.** The PDF says California’s algorithmic-pricing law is `not_yet_effective` on 2025-12-31 and `applies` on 2026-01-02, for every California address. Your `changes.json` lists **0** affected addresses. The rule was extracted (`Cal. Bus. & Prof. Code § 16729`), but its effective date was cleared. `D022.txt` only says the bill was approved on October 6, 2025. It never says January 1, 2026, and it has no “this act shall take effect…” sentence. The last date rule you set refuses to invent that date, so the rule is treated as already in force on both dates and the before/after difference is empty. That is the one result most likely to cost points.
+
+**These parts match the PDF.**
+
+- `lookups.json` is as of **2026-10-01** and covers all **500** addresses. Each entry has `team_rule_id`, `result`, `explanation`, and `conflict_flag`. Result values stay inside the five the PDF allows.
+- `rules.json` has **85** rules. Each one passes `schema/rule_record.schema.json`. Every quote is a slice of a corpus file. Two more rules exist only inside `rules_internal.json` because their source text says they ended before 2026-10-01 (the Los Angeles 2020–2024 rent freeze, and the Los Angeles 3% cap that ended 2026-06-30). The schema has no status for an ended rule, so leaving them out of the submission is consistent with the PDF’s “leave out rules that don’t apply.”
+- T2 lists 90 addresses and none in Newark. T3 lists all 140 New Jersey addresses, with conflict flags on the 90 Jersey City and Hoboken addresses. T4 lists both pending Massachusetts bills and all 110 Massachusetts addresses, and none of them are `applies`. T5’s affected set is empty, and no Boston or Cambridge address is given a rent cap.
+- The page says **Not legal advice**. The 7 addresses still in `outputs/unresolved-addresses.txt` get state rules only. Their mailing city is not used as the legal city. Census still returns no match for those seven.
+- Santa Ana rules are extracted and are not applied to any sample address. Hoboken and Jersey City algorithmic-ban texts stay unextracted because those sources are link-only.
+
+**Smaller risks, not required by the PDF.**
+
+- `rules.json` also stores `retrieved_at`, `effective_date_evidence`, `penalty`, `also_found_in`, and `incoming`. The schema does not forbid extra fields. A strict scorer that only accepts the template keys could reject them.
+- `changes.json` adds `title`, `before`, `after`, `by_rule`, and `team_rule_ids` on top of the three keys in the template. Same risk.
+- T6 is empty. This pack is the no-hour-16 pack, so the PDF only asks for T1–T5. An empty T6 does not change those tests.
+- Two California security-deposit cards still describe the same one-month cap (Assembly Bill 12 and Civil Code § 1950.5). No source sentence says they are the same provision, so they were kept separate on purpose.
+
+The only change that would make the submission match the PDF’s T1 is putting **2026-01-01** back on the California algorithmic rule, using the ordinary California rule that a non-urgency statute takes effect on January 1 after it is chaptered. That date is not written in `D022.txt`. Say if you want that derivation added.

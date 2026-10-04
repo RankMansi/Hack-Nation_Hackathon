@@ -1,0 +1,120 @@
+![IQM2 Meeting Portal](https://hobokennj.iqm2.com/Citizens/GetImage.aspx?ID=10&TimeStamp=636736464850000000)
+
+Hoboken
+
+NJ
+
+[«Back to Main Site](http://hobokennj.gov/) [Welcome](https://hobokennj.iqm2.com/Citizens/default.aspx) [Meetings](https://hobokennj.iqm2.com/Citizens/calendar.aspx) [Browse](https://hobokennj.iqm2.com/Citizens/) [Media](https://hobokennj.iqm2.com/Citizens/Media.aspx) [Notices](https://hobokennj.iqm2.com/Citizens/LegalNotice.aspx) [Boards+](https://hobokennj.iqm2.com/Citizens/Board)
+
+[Log in](https://hobokennj.iqm2.com/MasterPages/#) \| [Help](mailto:support@granicus.com) \| [Register](https://hobokennj.iqm2.com/MasterPages/#)
+
+| ![Print](https://hobokennj.iqm2.com/Citizens/images/Print.gif)[Print This Page](https://hobokennj.iqm2.com/Citizens/Detail_LegiFile.aspx?MeetingID=2943&MediaPosition=&ID=12291&CssClass=&Print=Yes) | ![Logo](https://hobokennj.iqm2.com/Shared/GetImage.aspx?ContentNumber=10&AgencyID=2042)
+
+Hoboken
+
+NJ
+
+CC - Ordinance
+
+Adopted
+
+[Jul 9, 2025 7:00 PM](https://hobokennj.iqm2.com/Citizens/Detail_Meeting.aspx?ID=2943)
+
+# Ordinance Amending and Supplementing Chapter 158 (Rent Increases) of the Hoboken City Code by Adding a New Section 158-2, Entitled “Prohibition Against Algorithmic Rent-Fixing in the Rental Housing Market”
+
+#### Information
+
+| Department: | Community Development | Sponsors: | Council Vice President Phil Cohen, Council-at-Large Joe Quintero |
+| Category: | Amendment |
+
+#### Attachments
+
+Version History
+
+1. [Printout](https://hobokennj.iqm2.com/Citizens/FileOpen.aspx?Type=30&ID=69209)
+
+#### Body
+
+NOW, THEREFORE, the City Council of the City of Hoboken does hereby Ordain as follows (additions noted in underline, deletions noted in strikethrough):
+
+SECTION ONE: ORDINANCE AMENDING AND SUPPLEMENTING CHAPTER 158 (RENT INCREASES) OF THE HOBOKEN CITY CODE BY ADDING A NEW SECTION 158-2, ENTITLED “PROHIBITION AGAINST ALGORITHMIC RENT-FIXING IN THE RENTAL HOUSING MARKET”
+
+§ 154-8 PROHIBITION AGAINST ALGORITHMIC RENT-FIXING IN THE RENTAL HOUSING MARKET.
+
+A.    Prohibited conduct. Landlords who rent any residential dwelling unit (defined as any primary residence excluding medical/long-term care or detention facilities) in the City of Hoboken are prohibited from price fixing using algorithmic pricing. For purposes of this chapter, “price fixing using algorithmic pricing”shall be defined as the use of software, algorithms, or data-sharing platforms to collect and analyze nonpublic competitor information from other real estate lessors in order to coordinate, recommend, or implement rental prices, lease terms, or occupancy levels for residential dwelling units among competing real estate lessors.  For purposes of this chapter, “nonpublic competitor information” shall be defined as information including, but not limited to, prices, supply levels, security deposits, ideal occupancy levels, lease contract termination, renewal dates of residential dwelling units or any other material terms that is less than 365 days old and is not widely and readily available to the public at no cost.
+
+B.     Enforcement.
+
+1.Enforcement.  Alleged violations of this chapter may be brought by the Division of Housing, or any private citizen alleging to be aggrieved, to the Hoboken Municipal Court for adjudication.
+
+C.     Penalties. Any person violating the requirements set forth in this chapter shall, upon conviction, be subject to one or more of the following penalties:
+
+1.              Penalties as prescribed under N.J.S.A. 40:49-5; or,
+
+2.              By a fine not exceeding $2,000.00; or,
+
+3.              By a period of community service not exceeding ninety (90) days.
+
+SECTION TWO:REPEAL OF INCONSISTENT PROVISIONS
+
+All ordinances or parts thereof in conflict or inconsistent with this Ordinance are hereby repealed, but only to the extent of such conflict or inconsistency, it being the legislative intent that all such ordinances or part of ordinances now existing or in effect unless the same are in conflict or inconsistent with any provision of this Ordinance shall remain in effect.
+
+SECTION THREE:SEVERABILITY
+
+The provisions of this Ordinance are declared to be severable and if any section, subsection, sentence, clause or phrase thereof for any reason be held to be invalid or unconstitutional by a court of competent jurisdiction, such decision shall not affect the validity of the remaining sections, subsections, sentences, clauses and phrases of this Ordinance, but shall remaining in effect; it being the legislative intent that this Ordinance shall stand notwithstanding the invalidity of any part.
+
+SECTION FOUR:  EFFECTIVE DATE
+
+This Ordinance shall take effect immediately upon passage and publication as provided by law.
+
+SECTION FIVE:  CODIFICATION
+
+This ordinance shall be a part of the Code of the City of Hoboken as though codified and fully set forth therein.  The City Clerk shall have this ordinance codified and incorporated in the official copies of the Code.
+
+The City Clerk and the Corporation Counsel are authorized and directed to change any Chapter, Article and/or Section number of the Code of the City of Hoboken in the event that the codification of this Ordinance reveals that there is a conflict between the numbers and the existing Code, and in order to avoid confusion and possible accidental repealers of existing provisions not intended to be repealed.
+
+#### Meeting History
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| [Jun 4, 2025 7:00 PM](https://hobokennj.iqm2.com/Citizens/Detail_Meeting.aspx?ID=2941) | City Council | Regular Meeting | ![draft](https://hobokennj.iqm2.com/Citizens/images/certificate_warning.png) Draft |
+| Councilman Cohen comments and makes amendments and asked that this penalty be removed from the algorithmic rent fixing ordinance before first reading tonight:
+
+1\. Imprisonment in the county jail or in any place provided by the municipality for the detention of prisoners, for any term not exceeding ninety (90) days; or,
+
+|     |     |     |
+| --- | --- | --- |
+| RESULT: | 1ST READING \[UNANIMOUS\] | Next: 6/16/2025 7:00 PM |
+| MOVER: | Phil Cohen, Council Vice President |
+| SECONDER: | Emily Jabbour, Council-at-Large |
+| AYES: | Phil Cohen, Tiffanie Fisher, Emily Jabbour, Paul Presinzano, Joe Quintero, Ruben Ramos, Michael Russo, James Doyle | |
+| [Jun 16, 2025 7:00 PM](https://hobokennj.iqm2.com/Citizens/Detail_Meeting.aspx?ID=2942) | City Council | Regular Meeting | ![draft](https://hobokennj.iqm2.com/Citizens/images/certificate_warning.png) Draft |
+| |     |     |     |
+| --- | --- | --- |
+| RESULT: | TABLED | Next: 7/9/2025 7:00 PM | |
+| [Jul 9, 2025 7:00 PM](https://hobokennj.iqm2.com/Citizens/Detail_Meeting.aspx?ID=2943) | City Council | Regular Meeting | ![draft](https://hobokennj.iqm2.com/Citizens/images/certificate_warning.png) Draft |
+| Members of the public who spoke: Adrian Orozco, Ron Bautista, Kevin Weller, Sylvia Aelou, Saoirse Mooney
+
+|     |     |     |
+| --- | --- | --- |
+| RESULT: | ADOPTED \[UNANIMOUS\] |  |
+| MOVER: | Phil Cohen, Council Vice President |
+| SECONDER: | Emily Jabbour, Council-at-Large |
+| AYES: | Phil Cohen, Tiffanie Fisher, Emily Jabbour, Paul Presinzano, Joe Quintero, Ruben Ramos, Michael Russo, James Doyle | |
+
+- ![Edit Attachment](https://hobokennj.iqm2.com/Citizens/images/document_edit_32X32.png)
+
+- ## Choose a File
+
+- ## Properties
+
+  - Include Options
+  - Visibility
+
+- ### Are you sure you want to delete this attachment? |
+
+Powered by [Granicus](https://granicus.com/)
+
+- [Legislative Files](https://hobokennj.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=2943&MediaPosition=&ID=12291&CssClass=#)
+- [Legal Notices](https://hobokennj.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=2943&MediaPosition=&ID=12291&CssClass=#)
+- [Some other Sort of Thing](https://hobokennj.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=2943&MediaPosition=&ID=12291&CssClass=#)

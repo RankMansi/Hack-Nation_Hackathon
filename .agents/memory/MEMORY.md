@@ -1,0 +1,1 @@
+- [Legal-source version pitfalls](legal-source-versions.md) — current codifications can remove historical commencement clauses; do not transfer an old draft's date to an amendment.
